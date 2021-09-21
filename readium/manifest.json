@@ -1,0 +1,685 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Temno",
+    "identifier": "urn:uuid:64db3a8d-456e-432b-a2d0-060b39399c17",
+    "author": "Alois Jirásek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-09-21T14:06:26.874Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/temno_083.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/temno_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_temno_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I",
+      "href": "OEBPS/Text/temno_007.xhtml#toc_marker-1"
+    },
+    {
+      "title": "II",
+      "href": "OEBPS/Text/temno_008.xhtml#toc_marker-2"
+    },
+    {
+      "title": "III",
+      "href": "OEBPS/Text/temno_009.xhtml#toc_marker-3"
+    },
+    {
+      "title": "IV",
+      "href": "OEBPS/Text/temno_010.xhtml#toc_marker-4"
+    },
+    {
+      "title": "V",
+      "href": "OEBPS/Text/temno_011.xhtml#toc_marker-5"
+    },
+    {
+      "title": "VI",
+      "href": "OEBPS/Text/temno_012.xhtml#toc_marker-6"
+    },
+    {
+      "title": "VII",
+      "href": "OEBPS/Text/temno_013.xhtml#toc_marker-7"
+    },
+    {
+      "title": "VIII",
+      "href": "OEBPS/Text/temno_014.xhtml#toc_marker-8"
+    },
+    {
+      "title": "IX",
+      "href": "OEBPS/Text/temno_015.xhtml#toc_marker-9"
+    },
+    {
+      "title": "X",
+      "href": "OEBPS/Text/temno_016.xhtml#toc_marker-10"
+    },
+    {
+      "title": "XI",
+      "href": "OEBPS/Text/temno_017.xhtml#toc_marker-11"
+    },
+    {
+      "title": "XII",
+      "href": "OEBPS/Text/temno_018.xhtml#toc_marker-12"
+    },
+    {
+      "title": "XIII",
+      "href": "OEBPS/Text/temno_019.xhtml#toc_marker-13"
+    },
+    {
+      "title": "XIV",
+      "href": "OEBPS/Text/temno_020.xhtml#toc_marker-14"
+    },
+    {
+      "title": "XV",
+      "href": "OEBPS/Text/temno_021.xhtml#toc_marker-15"
+    },
+    {
+      "title": "XVI",
+      "href": "OEBPS/Text/temno_022.xhtml#toc_marker-16"
+    },
+    {
+      "title": "XVII",
+      "href": "OEBPS/Text/temno_023.xhtml#toc_marker-17"
+    },
+    {
+      "title": "XVIII",
+      "href": "OEBPS/Text/temno_024.xhtml#toc_marker-18"
+    },
+    {
+      "title": "XIX",
+      "href": "OEBPS/Text/temno_025.xhtml#toc_marker-19"
+    },
+    {
+      "title": "XX",
+      "href": "OEBPS/Text/temno_026.xhtml#toc_marker-20"
+    },
+    {
+      "title": "XXI",
+      "href": "OEBPS/Text/temno_027.xhtml#toc_marker-21"
+    },
+    {
+      "title": "XXII",
+      "href": "OEBPS/Text/temno_028.xhtml#toc_marker-22"
+    },
+    {
+      "title": "XXIII",
+      "href": "OEBPS/Text/temno_029.xhtml#toc_marker-23"
+    },
+    {
+      "title": "XXIV",
+      "href": "OEBPS/Text/temno_030.xhtml#toc_marker-24"
+    },
+    {
+      "title": "XXV",
+      "href": "OEBPS/Text/temno_031.xhtml#toc_marker-25"
+    },
+    {
+      "title": "XXVI",
+      "href": "OEBPS/Text/temno_032.xhtml#toc_marker-26"
+    },
+    {
+      "title": "XVII",
+      "href": "OEBPS/Text/temno_033.xhtml#toc_marker-27"
+    },
+    {
+      "title": "XXVIII",
+      "href": "OEBPS/Text/temno_034.xhtml#toc_marker-28"
+    },
+    {
+      "title": "XXIX",
+      "href": "OEBPS/Text/temno_035.xhtml#toc_marker-29"
+    },
+    {
+      "title": "XXX",
+      "href": "OEBPS/Text/temno_036.xhtml#toc_marker-30"
+    },
+    {
+      "title": "XXXI",
+      "href": "OEBPS/Text/temno_037.xhtml#toc_marker-31"
+    },
+    {
+      "title": "XXXII",
+      "href": "OEBPS/Text/temno_038.xhtml#toc_marker-32"
+    },
+    {
+      "title": "XXXIII",
+      "href": "OEBPS/Text/temno_039.xhtml#toc_marker-33"
+    },
+    {
+      "title": "XXXIV",
+      "href": "OEBPS/Text/temno_040.xhtml#toc_marker-34"
+    },
+    {
+      "title": "XXXV",
+      "href": "OEBPS/Text/temno_041.xhtml#toc_marker-35"
+    },
+    {
+      "title": "XXXVI",
+      "href": "OEBPS/Text/temno_042.xhtml#toc_marker-36"
+    },
+    {
+      "title": "XXXVII",
+      "href": "OEBPS/Text/temno_043.xhtml#toc_marker-37"
+    },
+    {
+      "title": "XXXVIII",
+      "href": "OEBPS/Text/temno_044.xhtml#toc_marker-38"
+    },
+    {
+      "title": "XXXIX",
+      "href": "OEBPS/Text/temno_045.xhtml#toc_marker-39"
+    },
+    {
+      "title": "XL",
+      "href": "OEBPS/Text/temno_046.xhtml#toc_marker-40"
+    },
+    {
+      "title": "XLI",
+      "href": "OEBPS/Text/temno_047.xhtml#toc_marker-41"
+    },
+    {
+      "title": "XLII",
+      "href": "OEBPS/Text/temno_048.xhtml#toc_marker-42"
+    },
+    {
+      "title": "XLIII",
+      "href": "OEBPS/Text/temno_049.xhtml#toc_marker-43"
+    },
+    {
+      "title": "XLIV",
+      "href": "OEBPS/Text/temno_050.xhtml#toc_marker-44"
+    },
+    {
+      "title": "XLV",
+      "href": "OEBPS/Text/temno_051.xhtml#toc_marker-45"
+    },
+    {
+      "title": "XLVI",
+      "href": "OEBPS/Text/temno_052.xhtml#toc_marker-46"
+    },
+    {
+      "title": "XLVII",
+      "href": "OEBPS/Text/temno_053.xhtml#toc_marker-47"
+    },
+    {
+      "title": "XLVIII",
+      "href": "OEBPS/Text/temno_054.xhtml#toc_marker-48"
+    },
+    {
+      "title": "XLIX",
+      "href": "OEBPS/Text/temno_055.xhtml#toc_marker-49"
+    },
+    {
+      "title": "L",
+      "href": "OEBPS/Text/temno_056.xhtml#toc_marker-50"
+    },
+    {
+      "title": "LI",
+      "href": "OEBPS/Text/temno_057.xhtml#toc_marker-51"
+    },
+    {
+      "title": "LII",
+      "href": "OEBPS/Text/temno_058.xhtml#toc_marker-52"
+    },
+    {
+      "title": "LIII",
+      "href": "OEBPS/Text/temno_059.xhtml#toc_marker-53"
+    },
+    {
+      "title": "LIV",
+      "href": "OEBPS/Text/temno_060.xhtml#toc_marker-54"
+    },
+    {
+      "title": "LV",
+      "href": "OEBPS/Text/temno_061.xhtml#toc_marker-55"
+    },
+    {
+      "title": "LVI",
+      "href": "OEBPS/Text/temno_062.xhtml#toc_marker-56"
+    },
+    {
+      "title": "LVII",
+      "href": "OEBPS/Text/temno_063.xhtml#toc_marker-57"
+    },
+    {
+      "title": "LVIII",
+      "href": "OEBPS/Text/temno_064.xhtml#toc_marker-58"
+    },
+    {
+      "title": "LIX",
+      "href": "OEBPS/Text/temno_065.xhtml#toc_marker-59"
+    },
+    {
+      "title": "LX",
+      "href": "OEBPS/Text/temno_066.xhtml#toc_marker-60"
+    },
+    {
+      "title": "LXI",
+      "href": "OEBPS/Text/temno_067.xhtml#toc_marker-61"
+    },
+    {
+      "title": "LXII",
+      "href": "OEBPS/Text/temno_068.xhtml#toc_marker-62"
+    },
+    {
+      "title": "LXIII",
+      "href": "OEBPS/Text/temno_069.xhtml#toc_marker-63"
+    },
+    {
+      "title": "LXIV",
+      "href": "OEBPS/Text/temno_070.xhtml#toc_marker-64"
+    },
+    {
+      "title": "LXV",
+      "href": "OEBPS/Text/temno_071.xhtml#toc_marker-65"
+    },
+    {
+      "title": "LXVI",
+      "href": "OEBPS/Text/temno_072.xhtml#toc_marker-66"
+    },
+    {
+      "title": "LXVII",
+      "href": "OEBPS/Text/temno_073.xhtml#toc_marker-67"
+    },
+    {
+      "title": "LXVIII",
+      "href": "OEBPS/Text/temno_074.xhtml#toc_marker-68"
+    },
+    {
+      "title": "LXIX",
+      "href": "OEBPS/Text/temno_075.xhtml#toc_marker-69"
+    },
+    {
+      "title": "LXX",
+      "href": "OEBPS/Text/temno_076.xhtml#toc_marker-70"
+    },
+    {
+      "title": "LXXI",
+      "href": "OEBPS/Text/temno_077.xhtml#toc_marker-71"
+    },
+    {
+      "title": "LXXII",
+      "href": "OEBPS/Text/temno_078.xhtml#toc_marker-72"
+    },
+    {
+      "title": "LXXIII",
+      "href": "OEBPS/Text/temno_079.xhtml#toc_marker-73"
+    },
+    {
+      "title": "LXXIV",
+      "href": "OEBPS/Text/temno_080.xhtml#toc_marker-74"
+    },
+    {
+      "title": "LXXV",
+      "href": "OEBPS/Text/temno_081.xhtml#toc_marker-75"
+    },
+    {
+      "title": "LXXVI",
+      "href": "OEBPS/Text/temno_082.xhtml#toc_marker-76"
+    }
+  ]
+}
