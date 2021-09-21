@@ -6,7 +6,8 @@
       "author": "Alois Jirásek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-21T14:06:26.874Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "subtitle": "Historický obraz"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -32,55 +33,67 @@
         "filename": "temno_001.md",
         "xhtml": "temno_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "temno_002.md",
         "xhtml": "temno_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "temno_003.md",
         "xhtml": "temno_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "temno_004.md",
         "xhtml": "temno_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "temno_005.md",
         "xhtml": "temno_005.xhtml",
         "id": 4,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "temno_006.md",
         "xhtml": "temno_006.xhtml",
         "id": 5,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "temno_007.md",
@@ -89,7 +102,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "I",
+        "subtitle": ""
       },
       {
         "filename": "temno_008.md",
@@ -98,7 +113,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "II",
+        "subtitle": ""
       },
       {
         "filename": "temno_009.md",
@@ -107,7 +124,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "III",
+        "subtitle": ""
       },
       {
         "filename": "temno_010.md",
@@ -116,7 +135,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "IV",
+        "subtitle": ""
       },
       {
         "filename": "temno_011.md",
@@ -125,7 +146,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "V",
+        "subtitle": ""
       },
       {
         "filename": "temno_012.md",
@@ -134,7 +157,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "VI",
+        "subtitle": ""
       },
       {
         "filename": "temno_013.md",
@@ -143,7 +168,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "VII",
+        "subtitle": ""
       },
       {
         "filename": "temno_014.md",
@@ -152,7 +179,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "VIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_015.md",
@@ -161,7 +190,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "IX",
+        "subtitle": ""
       },
       {
         "filename": "temno_016.md",
@@ -170,7 +201,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "X",
+        "subtitle": ""
       },
       {
         "filename": "temno_017.md",
@@ -179,7 +212,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XI",
+        "subtitle": ""
       },
       {
         "filename": "temno_018.md",
@@ -188,7 +223,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XII",
+        "subtitle": ""
       },
       {
         "filename": "temno_019.md",
@@ -197,7 +234,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_020.md",
@@ -206,7 +245,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XIV",
+        "subtitle": ""
       },
       {
         "filename": "temno_021.md",
@@ -215,7 +256,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XV",
+        "subtitle": ""
       },
       {
         "filename": "temno_022.md",
@@ -224,7 +267,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XVI",
+        "subtitle": ""
       },
       {
         "filename": "temno_023.md",
@@ -233,7 +278,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XVII",
+        "subtitle": ""
       },
       {
         "filename": "temno_024.md",
@@ -242,7 +289,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XVIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_025.md",
@@ -251,7 +300,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XIX",
+        "subtitle": ""
       },
       {
         "filename": "temno_026.md",
@@ -260,7 +311,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XX",
+        "subtitle": ""
       },
       {
         "filename": "temno_027.md",
@@ -269,7 +322,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXI",
+        "subtitle": ""
       },
       {
         "filename": "temno_028.md",
@@ -278,7 +333,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXII",
+        "subtitle": ""
       },
       {
         "filename": "temno_029.md",
@@ -287,7 +344,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_030.md",
@@ -296,7 +355,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXIV",
+        "subtitle": ""
       },
       {
         "filename": "temno_031.md",
@@ -305,7 +366,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXV",
+        "subtitle": ""
       },
       {
         "filename": "temno_032.md",
@@ -314,7 +377,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXVI",
+        "subtitle": ""
       },
       {
         "filename": "temno_033.md",
@@ -323,7 +388,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XVII",
+        "subtitle": ""
       },
       {
         "filename": "temno_034.md",
@@ -332,7 +399,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXVIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_035.md",
@@ -341,7 +410,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXIX",
+        "subtitle": ""
       },
       {
         "filename": "temno_036.md",
@@ -350,7 +421,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXX",
+        "subtitle": ""
       },
       {
         "filename": "temno_037.md",
@@ -359,7 +432,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXXI",
+        "subtitle": ""
       },
       {
         "filename": "temno_038.md",
@@ -368,7 +443,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXXII",
+        "subtitle": ""
       },
       {
         "filename": "temno_039.md",
@@ -377,7 +454,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXXIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_040.md",
@@ -386,7 +465,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXXIV",
+        "subtitle": ""
       },
       {
         "filename": "temno_041.md",
@@ -395,7 +476,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXXV",
+        "subtitle": ""
       },
       {
         "filename": "temno_042.md",
@@ -404,7 +487,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXXVI",
+        "subtitle": ""
       },
       {
         "filename": "temno_043.md",
@@ -413,7 +498,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXXVII",
+        "subtitle": ""
       },
       {
         "filename": "temno_044.md",
@@ -422,7 +509,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXXVIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_045.md",
@@ -431,7 +520,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXXIX",
+        "subtitle": ""
       },
       {
         "filename": "temno_046.md",
@@ -440,7 +531,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XL",
+        "subtitle": ""
       },
       {
         "filename": "temno_047.md",
@@ -449,7 +542,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XLI",
+        "subtitle": ""
       },
       {
         "filename": "temno_048.md",
@@ -458,7 +553,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XLII",
+        "subtitle": ""
       },
       {
         "filename": "temno_049.md",
@@ -467,7 +564,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XLIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_050.md",
@@ -476,7 +575,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XLIV",
+        "subtitle": ""
       },
       {
         "filename": "temno_051.md",
@@ -485,7 +586,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XLV",
+        "subtitle": ""
       },
       {
         "filename": "temno_052.md",
@@ -494,7 +597,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XLVI",
+        "subtitle": ""
       },
       {
         "filename": "temno_053.md",
@@ -503,7 +608,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XLVII",
+        "subtitle": ""
       },
       {
         "filename": "temno_054.md",
@@ -512,7 +619,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XLVIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_055.md",
@@ -521,7 +630,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XLIX",
+        "subtitle": ""
       },
       {
         "filename": "temno_056.md",
@@ -530,7 +641,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "L",
+        "subtitle": ""
       },
       {
         "filename": "temno_057.md",
@@ -539,7 +652,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LI",
+        "subtitle": ""
       },
       {
         "filename": "temno_058.md",
@@ -548,7 +663,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LII",
+        "subtitle": ""
       },
       {
         "filename": "temno_059.md",
@@ -557,7 +674,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_060.md",
@@ -566,7 +685,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LIV",
+        "subtitle": ""
       },
       {
         "filename": "temno_061.md",
@@ -575,7 +696,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LV",
+        "subtitle": ""
       },
       {
         "filename": "temno_062.md",
@@ -584,7 +707,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LVI",
+        "subtitle": ""
       },
       {
         "filename": "temno_063.md",
@@ -593,7 +718,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LVII",
+        "subtitle": ""
       },
       {
         "filename": "temno_064.md",
@@ -602,7 +729,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LVIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_065.md",
@@ -611,7 +740,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LIX",
+        "subtitle": ""
       },
       {
         "filename": "temno_066.md",
@@ -620,7 +751,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LX",
+        "subtitle": ""
       },
       {
         "filename": "temno_067.md",
@@ -629,7 +762,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXI",
+        "subtitle": ""
       },
       {
         "filename": "temno_068.md",
@@ -638,7 +773,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXII",
+        "subtitle": ""
       },
       {
         "filename": "temno_069.md",
@@ -647,7 +784,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_070.md",
@@ -656,7 +795,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXIV",
+        "subtitle": ""
       },
       {
         "filename": "temno_071.md",
@@ -665,7 +806,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXV",
+        "subtitle": ""
       },
       {
         "filename": "temno_072.md",
@@ -674,7 +817,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXVI",
+        "subtitle": ""
       },
       {
         "filename": "temno_073.md",
@@ -683,7 +828,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXVII",
+        "subtitle": ""
       },
       {
         "filename": "temno_074.md",
@@ -692,7 +839,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXVIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_075.md",
@@ -701,7 +850,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXIX",
+        "subtitle": ""
       },
       {
         "filename": "temno_076.md",
@@ -710,7 +861,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXX",
+        "subtitle": ""
       },
       {
         "filename": "temno_077.md",
@@ -719,7 +872,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXXI",
+        "subtitle": ""
       },
       {
         "filename": "temno_078.md",
@@ -728,7 +883,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXXII",
+        "subtitle": ""
       },
       {
         "filename": "temno_079.md",
@@ -737,7 +894,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXXIII",
+        "subtitle": ""
       },
       {
         "filename": "temno_080.md",
@@ -746,7 +905,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXXIV",
+        "subtitle": ""
       },
       {
         "filename": "temno_081.md",
@@ -755,7 +916,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXXV",
+        "subtitle": ""
       },
       {
         "filename": "temno_082.md",
@@ -764,16 +927,20 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "LXXVI",
+        "subtitle": ""
       },
       {
         "filename": "temno_083.md",
         "xhtml": "temno_083.xhtml",
         "id": 82,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       }
     ]
   },
@@ -783,7 +950,7 @@
       "identifier": "urn:uuid:64db3a8d-456e-432b-a2d0-060b39399c17",
       "author": "Alois Jirásek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-21T15:12:12.634Z"
+      "modified": "2021-09-21T15:18:58.420Z"
     },
     "chapters": [
       {
@@ -1363,6 +1530,6 @@
       "user": "books-are-next",
       "repo": "temno"
     },
-    "generatedAt": 1632237134119
+    "generatedAt": 1632237539960
   }
 }
