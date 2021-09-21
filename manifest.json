@@ -1,0 +1,1629 @@
+{
+  "author": "Alois Jirásek",
+  "identifier": "jirasek-temno-4b25a2e",
+  "languagecode": "cs",
+  "modified": "2021-09-21T14:06:26.874Z",
+  "publisher": "Městská knihovna v Praze",
+  "subtitle": "Historický obraz",
+  "title": "Temno",
+  "revision": "4b25a2e",
+  "generatedAt": {
+    "date": "Tue Sep 21 2021 15:24:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1632237841836
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 200,
+      "chars": 1283,
+      "ideas": 30,
+      "role": "colophon",
+      "order": null,
+      "next": "temno_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "temno_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "temno_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "temno_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "temno_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "temno_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "temno_001.html",
+      "next": "temno_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "temno_007.html",
+      "words": 2281,
+      "chars": 13471,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 2,
+      "prev": "temno_002.html",
+      "next": "temno_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "temno_008.html",
+      "words": 2554,
+      "chars": 15020,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 3,
+      "prev": "temno_007.html",
+      "next": "temno_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "temno_009.html",
+      "words": 1496,
+      "chars": 9040,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 4,
+      "prev": "temno_008.html",
+      "next": "temno_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV",
+      "file": "temno_010.html",
+      "words": 1416,
+      "chars": 8357,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 5,
+      "prev": "temno_009.html",
+      "next": "temno_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "file": "temno_011.html",
+      "words": 2468,
+      "chars": 14391,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 6,
+      "prev": "temno_010.html",
+      "next": "temno_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI",
+      "file": "temno_012.html",
+      "words": 1387,
+      "chars": 8483,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 7,
+      "prev": "temno_011.html",
+      "next": "temno_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII",
+      "file": "temno_013.html",
+      "words": 2059,
+      "chars": 11995,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 8,
+      "prev": "temno_012.html",
+      "next": "temno_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII",
+      "file": "temno_014.html",
+      "words": 2584,
+      "chars": 15337,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 9,
+      "prev": "temno_013.html",
+      "next": "temno_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX",
+      "file": "temno_015.html",
+      "words": 2066,
+      "chars": 12095,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 10,
+      "prev": "temno_014.html",
+      "next": "temno_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X",
+      "file": "temno_016.html",
+      "words": 3808,
+      "chars": 22560,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 11,
+      "prev": "temno_015.html",
+      "next": "temno_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI",
+      "file": "temno_017.html",
+      "words": 2455,
+      "chars": 14617,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 12,
+      "prev": "temno_016.html",
+      "next": "temno_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII",
+      "file": "temno_018.html",
+      "words": 1331,
+      "chars": 7923,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 13,
+      "prev": "temno_017.html",
+      "next": "temno_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII",
+      "file": "temno_019.html",
+      "words": 1996,
+      "chars": 12305,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 14,
+      "prev": "temno_018.html",
+      "next": "temno_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV",
+      "file": "temno_020.html",
+      "words": 2293,
+      "chars": 13643,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 15,
+      "prev": "temno_019.html",
+      "next": "temno_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV",
+      "file": "temno_021.html",
+      "words": 1656,
+      "chars": 9393,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 16,
+      "prev": "temno_020.html",
+      "next": "temno_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI",
+      "file": "temno_022.html",
+      "words": 1855,
+      "chars": 11189,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 17,
+      "prev": "temno_021.html",
+      "next": "temno_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII",
+      "file": "temno_023.html",
+      "words": 1791,
+      "chars": 10733,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 18,
+      "prev": "temno_022.html",
+      "next": "temno_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII",
+      "file": "temno_024.html",
+      "words": 1661,
+      "chars": 9888,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 19,
+      "prev": "temno_023.html",
+      "next": "temno_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX",
+      "file": "temno_025.html",
+      "words": 1912,
+      "chars": 11444,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 20,
+      "prev": "temno_024.html",
+      "next": "temno_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX",
+      "file": "temno_026.html",
+      "words": 2102,
+      "chars": 12286,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 21,
+      "prev": "temno_025.html",
+      "next": "temno_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI",
+      "file": "temno_027.html",
+      "words": 1265,
+      "chars": 7651,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 22,
+      "prev": "temno_026.html",
+      "next": "temno_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII",
+      "file": "temno_028.html",
+      "words": 2254,
+      "chars": 13346,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 23,
+      "prev": "temno_027.html",
+      "next": "temno_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII",
+      "file": "temno_029.html",
+      "words": 1135,
+      "chars": 6760,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 24,
+      "prev": "temno_028.html",
+      "next": "temno_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV",
+      "file": "temno_030.html",
+      "words": 2447,
+      "chars": 14852,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 25,
+      "prev": "temno_029.html",
+      "next": "temno_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV",
+      "file": "temno_031.html",
+      "words": 1657,
+      "chars": 9619,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 26,
+      "prev": "temno_030.html",
+      "next": "temno_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI",
+      "file": "temno_032.html",
+      "words": 1757,
+      "chars": 10581,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 27,
+      "prev": "temno_031.html",
+      "next": "temno_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII",
+      "file": "temno_033.html",
+      "words": 3015,
+      "chars": 17487,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 28,
+      "prev": "temno_032.html",
+      "next": "temno_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII",
+      "file": "temno_034.html",
+      "words": 2065,
+      "chars": 12159,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 29,
+      "prev": "temno_033.html",
+      "next": "temno_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX",
+      "file": "temno_035.html",
+      "words": 1080,
+      "chars": 6668,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 30,
+      "prev": "temno_034.html",
+      "next": "temno_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX",
+      "file": "temno_036.html",
+      "words": 1919,
+      "chars": 11068,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 31,
+      "prev": "temno_035.html",
+      "next": "temno_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI",
+      "file": "temno_037.html",
+      "words": 2905,
+      "chars": 17259,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 32,
+      "prev": "temno_036.html",
+      "next": "temno_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII",
+      "file": "temno_038.html",
+      "words": 875,
+      "chars": 5166,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 33,
+      "prev": "temno_037.html",
+      "next": "temno_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII",
+      "file": "temno_039.html",
+      "words": 1598,
+      "chars": 9019,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 34,
+      "prev": "temno_038.html",
+      "next": "temno_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV",
+      "file": "temno_040.html",
+      "words": 2632,
+      "chars": 15124,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 35,
+      "prev": "temno_039.html",
+      "next": "temno_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV",
+      "file": "temno_041.html",
+      "words": 2597,
+      "chars": 15376,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 36,
+      "prev": "temno_040.html",
+      "next": "temno_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVI",
+      "file": "temno_042.html",
+      "words": 1882,
+      "chars": 10998,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 37,
+      "prev": "temno_041.html",
+      "next": "temno_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVII",
+      "file": "temno_043.html",
+      "words": 2664,
+      "chars": 14840,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 38,
+      "prev": "temno_042.html",
+      "next": "temno_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVIII",
+      "file": "temno_044.html",
+      "words": 2895,
+      "chars": 16635,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 39,
+      "prev": "temno_043.html",
+      "next": "temno_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIX",
+      "file": "temno_045.html",
+      "words": 1561,
+      "chars": 8947,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 40,
+      "prev": "temno_044.html",
+      "next": "temno_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XL",
+      "file": "temno_046.html",
+      "words": 3903,
+      "chars": 23174,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 41,
+      "prev": "temno_045.html",
+      "next": "temno_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XL",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLI",
+      "file": "temno_047.html",
+      "words": 3033,
+      "chars": 17577,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 42,
+      "prev": "temno_046.html",
+      "next": "temno_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLII",
+      "file": "temno_048.html",
+      "words": 1514,
+      "chars": 9247,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 43,
+      "prev": "temno_047.html",
+      "next": "temno_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIII",
+      "file": "temno_049.html",
+      "words": 1951,
+      "chars": 10973,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 44,
+      "prev": "temno_048.html",
+      "next": "temno_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIV",
+      "file": "temno_050.html",
+      "words": 2140,
+      "chars": 12824,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 45,
+      "prev": "temno_049.html",
+      "next": "temno_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLV",
+      "file": "temno_051.html",
+      "words": 2029,
+      "chars": 11736,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 46,
+      "prev": "temno_050.html",
+      "next": "temno_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVI",
+      "file": "temno_052.html",
+      "words": 1911,
+      "chars": 11017,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 47,
+      "prev": "temno_051.html",
+      "next": "temno_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVII",
+      "file": "temno_053.html",
+      "words": 2502,
+      "chars": 14817,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 48,
+      "prev": "temno_052.html",
+      "next": "temno_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVIII",
+      "file": "temno_054.html",
+      "words": 2735,
+      "chars": 16055,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 49,
+      "prev": "temno_053.html",
+      "next": "temno_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIX",
+      "file": "temno_055.html",
+      "words": 1447,
+      "chars": 8601,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 50,
+      "prev": "temno_054.html",
+      "next": "temno_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "L",
+      "file": "temno_056.html",
+      "words": 706,
+      "chars": 4057,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 51,
+      "prev": "temno_055.html",
+      "next": "temno_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "L",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LI",
+      "file": "temno_057.html",
+      "words": 1155,
+      "chars": 6943,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 52,
+      "prev": "temno_056.html",
+      "next": "temno_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LII",
+      "file": "temno_058.html",
+      "words": 808,
+      "chars": 5029,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 53,
+      "prev": "temno_057.html",
+      "next": "temno_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIII",
+      "file": "temno_059.html",
+      "words": 1814,
+      "chars": 10680,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 54,
+      "prev": "temno_058.html",
+      "next": "temno_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIV",
+      "file": "temno_060.html",
+      "words": 1746,
+      "chars": 10194,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 55,
+      "prev": "temno_059.html",
+      "next": "temno_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LV",
+      "file": "temno_061.html",
+      "words": 1958,
+      "chars": 11183,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 56,
+      "prev": "temno_060.html",
+      "next": "temno_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVI",
+      "file": "temno_062.html",
+      "words": 2594,
+      "chars": 14732,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 57,
+      "prev": "temno_061.html",
+      "next": "temno_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVII",
+      "file": "temno_063.html",
+      "words": 1144,
+      "chars": 6862,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 58,
+      "prev": "temno_062.html",
+      "next": "temno_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVIII",
+      "file": "temno_064.html",
+      "words": 2565,
+      "chars": 15284,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 59,
+      "prev": "temno_063.html",
+      "next": "temno_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIX",
+      "file": "temno_065.html",
+      "words": 1809,
+      "chars": 10233,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 60,
+      "prev": "temno_064.html",
+      "next": "temno_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LX",
+      "file": "temno_066.html",
+      "words": 2199,
+      "chars": 12715,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 61,
+      "prev": "temno_065.html",
+      "next": "temno_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXI",
+      "file": "temno_067.html",
+      "words": 3809,
+      "chars": 21819,
+      "ideas": 94,
+      "role": "chapter",
+      "order": 62,
+      "prev": "temno_066.html",
+      "next": "temno_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXII",
+      "file": "temno_068.html",
+      "words": 2690,
+      "chars": 15842,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 63,
+      "prev": "temno_067.html",
+      "next": "temno_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIII",
+      "file": "temno_069.html",
+      "words": 5059,
+      "chars": 29293,
+      "ideas": 148,
+      "role": "chapter",
+      "order": 64,
+      "prev": "temno_068.html",
+      "next": "temno_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIV",
+      "file": "temno_070.html",
+      "words": 1996,
+      "chars": 11557,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 65,
+      "prev": "temno_069.html",
+      "next": "temno_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXV",
+      "file": "temno_071.html",
+      "words": 2441,
+      "chars": 14297,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 66,
+      "prev": "temno_070.html",
+      "next": "temno_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVI",
+      "file": "temno_072.html",
+      "words": 1837,
+      "chars": 10802,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 67,
+      "prev": "temno_071.html",
+      "next": "temno_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVII",
+      "file": "temno_073.html",
+      "words": 3169,
+      "chars": 18529,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 68,
+      "prev": "temno_072.html",
+      "next": "temno_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVIII",
+      "file": "temno_074.html",
+      "words": 3013,
+      "chars": 17395,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 69,
+      "prev": "temno_073.html",
+      "next": "temno_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIX",
+      "file": "temno_075.html",
+      "words": 2294,
+      "chars": 13743,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 70,
+      "prev": "temno_074.html",
+      "next": "temno_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXX",
+      "file": "temno_076.html",
+      "words": 3142,
+      "chars": 18336,
+      "ideas": 161,
+      "role": "chapter",
+      "order": 71,
+      "prev": "temno_075.html",
+      "next": "temno_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXI",
+      "file": "temno_077.html",
+      "words": 4718,
+      "chars": 27599,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 72,
+      "prev": "temno_076.html",
+      "next": "temno_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXII",
+      "file": "temno_078.html",
+      "words": 3904,
+      "chars": 22453,
+      "ideas": 128,
+      "role": "chapter",
+      "order": 73,
+      "prev": "temno_077.html",
+      "next": "temno_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXIII",
+      "file": "temno_079.html",
+      "words": 3490,
+      "chars": 20645,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 74,
+      "prev": "temno_078.html",
+      "next": "temno_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXIV",
+      "file": "temno_080.html",
+      "words": 2667,
+      "chars": 16464,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 75,
+      "prev": "temno_079.html",
+      "next": "temno_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXIV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXV",
+      "file": "temno_081.html",
+      "words": 4279,
+      "chars": 26206,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 76,
+      "prev": "temno_080.html",
+      "next": "temno_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXVI",
+      "file": "temno_082.html",
+      "words": 497,
+      "chars": 3045,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 77,
+      "prev": "temno_081.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXVI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 170242,
+      "chars": 1000966,
+      "ideas": 4689
+    },
+    "chapters": {
+      "words": 170042,
+      "chars": 999683,
+      "ideas": 4659
+    }
+  }
+}
