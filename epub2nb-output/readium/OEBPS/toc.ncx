@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:64db3a8d-456e-432b-a2d0-060b39399c17" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Temno</text>
+  </docTitle>
+  <docAuthor>
+    <text>Alois Jirásek</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/temno_007.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/temno_008.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/temno_009.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/temno_010.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/temno_011.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/temno_012.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/temno_013.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="Text/temno_014.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/temno_015.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="Text/temno_016.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>XI</text>
+      </navLabel>
+      <content src="Text/temno_017.xhtml#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>XII</text>
+      </navLabel>
+      <content src="Text/temno_018.xhtml#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>XIII</text>
+      </navLabel>
+      <content src="Text/temno_019.xhtml#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>XIV</text>
+      </navLabel>
+      <content src="Text/temno_020.xhtml#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>XV</text>
+      </navLabel>
+      <content src="Text/temno_021.xhtml#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>XVI</text>
+      </navLabel>
+      <content src="Text/temno_022.xhtml#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>XVII</text>
+      </navLabel>
+      <content src="Text/temno_023.xhtml#toc_marker-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>XVIII</text>
+      </navLabel>
+      <content src="Text/temno_024.xhtml#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>XIX</text>
+      </navLabel>
+      <content src="Text/temno_025.xhtml#toc_marker-19"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>XX</text>
+      </navLabel>
+      <content src="Text/temno_026.xhtml#toc_marker-20"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>XXI</text>
+      </navLabel>
+      <content src="Text/temno_027.xhtml#toc_marker-21"/>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>XXII</text>
+      </navLabel>
+      <content src="Text/temno_028.xhtml#toc_marker-22"/>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>XXIII</text>
+      </navLabel>
+      <content src="Text/temno_029.xhtml#toc_marker-23"/>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>XXIV</text>
+      </navLabel>
+      <content src="Text/temno_030.xhtml#toc_marker-24"/>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>XXV</text>
+      </navLabel>
+      <content src="Text/temno_031.xhtml#toc_marker-25"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>XXVI</text>
+      </navLabel>
+      <content src="Text/temno_032.xhtml#toc_marker-26"/>
+    </navPoint>
+    <navPoint id="navpoint27" playOrder="27">
+      <navLabel>
+        <text>XVII</text>
+      </navLabel>
+      <content src="Text/temno_033.xhtml#toc_marker-27"/>
+    </navPoint>
+    <navPoint id="navpoint28" playOrder="28">
+      <navLabel>
+        <text>XXVIII</text>
+      </navLabel>
+      <content src="Text/temno_034.xhtml#toc_marker-28"/>
+    </navPoint>
+    <navPoint id="navpoint29" playOrder="29">
+      <navLabel>
+        <text>XXIX</text>
+      </navLabel>
+      <content src="Text/temno_035.xhtml#toc_marker-29"/>
+    </navPoint>
+    <navPoint id="navpoint30" playOrder="30">
+      <navLabel>
+        <text>XXX</text>
+      </navLabel>
+      <content src="Text/temno_036.xhtml#toc_marker-30"/>
+    </navPoint>
+    <navPoint id="navpoint31" playOrder="31">
+      <navLabel>
+        <text>XXXI</text>
+      </navLabel>
+      <content src="Text/temno_037.xhtml#toc_marker-31"/>
+    </navPoint>
+    <navPoint id="navpoint32" playOrder="32">
+      <navLabel>
+        <text>XXXII</text>
+      </navLabel>
+      <content src="Text/temno_038.xhtml#toc_marker-32"/>
+    </navPoint>
+    <navPoint id="navpoint33" playOrder="33">
+      <navLabel>
+        <text>XXXIII</text>
+      </navLabel>
+      <content src="Text/temno_039.xhtml#toc_marker-33"/>
+    </navPoint>
+    <navPoint id="navpoint34" playOrder="34">
+      <navLabel>
+        <text>XXXIV</text>
+      </navLabel>
+      <content src="Text/temno_040.xhtml#toc_marker-34"/>
+    </navPoint>
+    <navPoint id="navpoint35" playOrder="35">
+      <navLabel>
+        <text>XXXV</text>
+      </navLabel>
+      <content src="Text/temno_041.xhtml#toc_marker-35"/>
+    </navPoint>
+    <navPoint id="navpoint36" playOrder="36">
+      <navLabel>
+        <text>XXXVI</text>
+      </navLabel>
+      <content src="Text/temno_042.xhtml#toc_marker-36"/>
+    </navPoint>
+    <navPoint id="navpoint37" playOrder="37">
+      <navLabel>
+        <text>XXXVII</text>
+      </navLabel>
+      <content src="Text/temno_043.xhtml#toc_marker-37"/>
+    </navPoint>
+    <navPoint id="navpoint38" playOrder="38">
+      <navLabel>
+        <text>XXXVIII</text>
+      </navLabel>
+      <content src="Text/temno_044.xhtml#toc_marker-38"/>
+    </navPoint>
+    <navPoint id="navpoint39" playOrder="39">
+      <navLabel>
+        <text>XXXIX</text>
+      </navLabel>
+      <content src="Text/temno_045.xhtml#toc_marker-39"/>
+    </navPoint>
+    <navPoint id="navpoint40" playOrder="40">
+      <navLabel>
+        <text>XL</text>
+      </navLabel>
+      <content src="Text/temno_046.xhtml#toc_marker-40"/>
+    </navPoint>
+    <navPoint id="navpoint41" playOrder="41">
+      <navLabel>
+        <text>XLI</text>
+      </navLabel>
+      <content src="Text/temno_047.xhtml#toc_marker-41"/>
+    </navPoint>
+    <navPoint id="navpoint42" playOrder="42">
+      <navLabel>
+        <text>XLII</text>
+      </navLabel>
+      <content src="Text/temno_048.xhtml#toc_marker-42"/>
+    </navPoint>
+    <navPoint id="navpoint43" playOrder="43">
+      <navLabel>
+        <text>XLIII</text>
+      </navLabel>
+      <content src="Text/temno_049.xhtml#toc_marker-43"/>
+    </navPoint>
+    <navPoint id="navpoint44" playOrder="44">
+      <navLabel>
+        <text>XLIV</text>
+      </navLabel>
+      <content src="Text/temno_050.xhtml#toc_marker-44"/>
+    </navPoint>
+    <navPoint id="navpoint45" playOrder="45">
+      <navLabel>
+        <text>XLV</text>
+      </navLabel>
+      <content src="Text/temno_051.xhtml#toc_marker-45"/>
+    </navPoint>
+    <navPoint id="navpoint46" playOrder="46">
+      <navLabel>
+        <text>XLVI</text>
+      </navLabel>
+      <content src="Text/temno_052.xhtml#toc_marker-46"/>
+    </navPoint>
+    <navPoint id="navpoint47" playOrder="47">
+      <navLabel>
+        <text>XLVII</text>
+      </navLabel>
+      <content src="Text/temno_053.xhtml#toc_marker-47"/>
+    </navPoint>
+    <navPoint id="navpoint48" playOrder="48">
+      <navLabel>
+        <text>XLVIII</text>
+      </navLabel>
+      <content src="Text/temno_054.xhtml#toc_marker-48"/>
+    </navPoint>
+    <navPoint id="navpoint49" playOrder="49">
+      <navLabel>
+        <text>XLIX</text>
+      </navLabel>
+      <content src="Text/temno_055.xhtml#toc_marker-49"/>
+    </navPoint>
+    <navPoint id="navpoint50" playOrder="50">
+      <navLabel>
+        <text>L</text>
+      </navLabel>
+      <content src="Text/temno_056.xhtml#toc_marker-50"/>
+    </navPoint>
+    <navPoint id="navpoint51" playOrder="51">
+      <navLabel>
+        <text>LI</text>
+      </navLabel>
+      <content src="Text/temno_057.xhtml#toc_marker-51"/>
+    </navPoint>
+    <navPoint id="navpoint52" playOrder="52">
+      <navLabel>
+        <text>LII</text>
+      </navLabel>
+      <content src="Text/temno_058.xhtml#toc_marker-52"/>
+    </navPoint>
+    <navPoint id="navpoint53" playOrder="53">
+      <navLabel>
+        <text>LIII</text>
+      </navLabel>
+      <content src="Text/temno_059.xhtml#toc_marker-53"/>
+    </navPoint>
+    <navPoint id="navpoint54" playOrder="54">
+      <navLabel>
+        <text>LIV</text>
+      </navLabel>
+      <content src="Text/temno_060.xhtml#toc_marker-54"/>
+    </navPoint>
+    <navPoint id="navpoint55" playOrder="55">
+      <navLabel>
+        <text>LV</text>
+      </navLabel>
+      <content src="Text/temno_061.xhtml#toc_marker-55"/>
+    </navPoint>
+    <navPoint id="navpoint56" playOrder="56">
+      <navLabel>
+        <text>LVI</text>
+      </navLabel>
+      <content src="Text/temno_062.xhtml#toc_marker-56"/>
+    </navPoint>
+    <navPoint id="navpoint57" playOrder="57">
+      <navLabel>
+        <text>LVII</text>
+      </navLabel>
+      <content src="Text/temno_063.xhtml#toc_marker-57"/>
+    </navPoint>
+    <navPoint id="navpoint58" playOrder="58">
+      <navLabel>
+        <text>LVIII</text>
+      </navLabel>
+      <content src="Text/temno_064.xhtml#toc_marker-58"/>
+    </navPoint>
+    <navPoint id="navpoint59" playOrder="59">
+      <navLabel>
+        <text>LIX</text>
+      </navLabel>
+      <content src="Text/temno_065.xhtml#toc_marker-59"/>
+    </navPoint>
+    <navPoint id="navpoint60" playOrder="60">
+      <navLabel>
+        <text>LX</text>
+      </navLabel>
+      <content src="Text/temno_066.xhtml#toc_marker-60"/>
+    </navPoint>
+    <navPoint id="navpoint61" playOrder="61">
+      <navLabel>
+        <text>LXI</text>
+      </navLabel>
+      <content src="Text/temno_067.xhtml#toc_marker-61"/>
+    </navPoint>
+    <navPoint id="navpoint62" playOrder="62">
+      <navLabel>
+        <text>LXII</text>
+      </navLabel>
+      <content src="Text/temno_068.xhtml#toc_marker-62"/>
+    </navPoint>
+    <navPoint id="navpoint63" playOrder="63">
+      <navLabel>
+        <text>LXIII</text>
+      </navLabel>
+      <content src="Text/temno_069.xhtml#toc_marker-63"/>
+    </navPoint>
+    <navPoint id="navpoint64" playOrder="64">
+      <navLabel>
+        <text>LXIV</text>
+      </navLabel>
+      <content src="Text/temno_070.xhtml#toc_marker-64"/>
+    </navPoint>
+    <navPoint id="navpoint65" playOrder="65">
+      <navLabel>
+        <text>LXV</text>
+      </navLabel>
+      <content src="Text/temno_071.xhtml#toc_marker-65"/>
+    </navPoint>
+    <navPoint id="navpoint66" playOrder="66">
+      <navLabel>
+        <text>LXVI</text>
+      </navLabel>
+      <content src="Text/temno_072.xhtml#toc_marker-66"/>
+    </navPoint>
+    <navPoint id="navpoint67" playOrder="67">
+      <navLabel>
+        <text>LXVII</text>
+      </navLabel>
+      <content src="Text/temno_073.xhtml#toc_marker-67"/>
+    </navPoint>
+    <navPoint id="navpoint68" playOrder="68">
+      <navLabel>
+        <text>LXVIII</text>
+      </navLabel>
+      <content src="Text/temno_074.xhtml#toc_marker-68"/>
+    </navPoint>
+    <navPoint id="navpoint69" playOrder="69">
+      <navLabel>
+        <text>LXIX</text>
+      </navLabel>
+      <content src="Text/temno_075.xhtml#toc_marker-69"/>
+    </navPoint>
+    <navPoint id="navpoint70" playOrder="70">
+      <navLabel>
+        <text>LXX</text>
+      </navLabel>
+      <content src="Text/temno_076.xhtml#toc_marker-70"/>
+    </navPoint>
+    <navPoint id="navpoint71" playOrder="71">
+      <navLabel>
+        <text>LXXI</text>
+      </navLabel>
+      <content src="Text/temno_077.xhtml#toc_marker-71"/>
+    </navPoint>
+    <navPoint id="navpoint72" playOrder="72">
+      <navLabel>
+        <text>LXXII</text>
+      </navLabel>
+      <content src="Text/temno_078.xhtml#toc_marker-72"/>
+    </navPoint>
+    <navPoint id="navpoint73" playOrder="73">
+      <navLabel>
+        <text>LXXIII</text>
+      </navLabel>
+      <content src="Text/temno_079.xhtml#toc_marker-73"/>
+    </navPoint>
+    <navPoint id="navpoint74" playOrder="74">
+      <navLabel>
+        <text>LXXIV</text>
+      </navLabel>
+      <content src="Text/temno_080.xhtml#toc_marker-74"/>
+    </navPoint>
+    <navPoint id="navpoint75" playOrder="75">
+      <navLabel>
+        <text>LXXV</text>
+      </navLabel>
+      <content src="Text/temno_081.xhtml#toc_marker-75"/>
+    </navPoint>
+    <navPoint id="navpoint76" playOrder="76">
+      <navLabel>
+        <text>LXXVI</text>
+      </navLabel>
+      <content src="Text/temno_082.xhtml#toc_marker-76"/>
+    </navPoint>
+  </navMap>
+</ncx>
