@@ -70,7 +70,7 @@ Helence se uvolnilo, stála však dosud nehnutě, leknutím všecka zmožená. S
 
 „Co udělal –“
 
-„Co udělal! Tergum obvertit in summum opprobrium sancti[51](#footnote-30240-51) –“
+„Co udělal! Tergum obvertit in summum opprobrium sancti[^51] –“
 
 „Fi!“ Královský zemský fyzikus se hlasitě uplivl. „Smrad! Ale to není možná!“
 
@@ -100,4 +100,4 @@ Tady posluchači přerušili Mariánka; zlostně se chechtali, láli a klnuli F
 
 Druhá senzace Mariánkova, tišší, která však dojímala stůl blíženců, byla, že mladá paní stará, paní Březinová, těžce onemocněla, že se ráno něco stalo, hned že poslali pro bábu, pak pro doktora Globice a také Tobiáš Ledecký chirurgus že byl povolán, pan starý že chodil vedle v pokoji, tam že čekal, čekal, pak když se nemohl dočekat, že vyrazil na chodbu a tam že běhal jako smyslů zbavený, za hlavu že se chytal, s paní že je zle, vykládal Mariánek, protože jí ušlo mnoho krve, že leží jako bez sebe a že se neví –
 
-[51](#footnote-30240-51-backlink) K nejvyšší pohaně svatého… vystrčil na něho zadek. Pozn. red.
+[^51]: K nejvyšší pohaně svatého… vystrčil na něho zadek. Pozn. red.

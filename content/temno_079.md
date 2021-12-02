@@ -46,15 +46,15 @@ Tou dobou byl P. Mateřovský „pražský“ ve své cele v koleji u sv. Kli
 
 Bratr odstoupil od okna.
 
-„Hrozný spis, hrozný a nebezpečný.“ A četl nadpis: „Pensées diverses sur les comètes[72](#footnote-30240-72). Sepsal to ten helvitský filozof Bayle. Neznaboh, brání neznabohy, ateismus, že prý nevěra je lepší nežli pověra, že vláda by měla trpět všechny víry, všechny, i nevěrce.“
+„Hrozný spis, hrozný a nebezpečný.“ A četl nadpis: „Pensées diverses sur les comètes[^72]. Sepsal to ten helvitský filozof Bayle. Neznaboh, brání neznabohy, ateismus, že prý nevěra je lepší nežli pověra, že vláda by měla trpět všechny víry, všechny, i nevěrce.“
 
 „To se smí tisknout?“
 
-„V Nydrlandtu smí. Takové a ještě horší nepravosti napsal ten člověk, a jak prý se nemá křesťanství, rozumí se katolické, pokládat za krvežíznivé náboženství, když se neštítí ani podvodu a klamání, dragonád[73](#footnote-30240-73), kata a inkvizicí, jen aby utisklo svědomí a přesvědčení.“
+„V Nydrlandtu smí. Takové a ještě horší nepravosti napsal ten člověk, a jak prý se nemá křesťanství, rozumí se katolické, pokládat za krvežíznivé náboženství, když se neštítí ani podvodu a klamání, dragonád[^73], kata a inkvizicí, jen aby utisklo svědomí a přesvědčení.“
 
 „Kata na něj a na jeho spisy! Nač to čteš, nač se zlobíš.“
 
-„Musím přec nepřítele znát. A přibývá těch škribentů[74](#footnote-30240-74) proti zjevenému náboženství, proti katolické církvi; už ne Locke a Toland, už jich je jako bejlí a tenhle Bayle je kápo, ten je prorok těch frajmaurů, jak si je taky pan hrabě Špork u nás začal. Knihy toho Bayla jsou jejich evangelium. Jejich nevěra, jejich takzvaná tolerancí k jiným náboženstvím, k bludařstvu, všecko je z toho spisovatele, i zášť proti našemu tovaryšstvu, zášť, a jaká!“
+„Musím přec nepřítele znát. A přibývá těch škribentů[^74] proti zjevenému náboženství, proti katolické církvi; už ne Locke a Toland, už jich je jako bejlí a tenhle Bayle je kápo, ten je prorok těch frajmaurů, jak si je taky pan hrabě Špork u nás začal. Knihy toho Bayla jsou jejich evangelium. Jejich nevěra, jejich takzvaná tolerancí k jiným náboženstvím, k bludařstvu, všecko je z toho spisovatele, i zášť proti našemu tovaryšstvu, zášť, a jaká!“
 
 „To je několik zvrhlých pánů.“
 
@@ -108,7 +108,7 @@ Hlavní dveře již praskaly a povolovaly. Zůstane-li, zmocní se římané ka
 
   
 
-Když P. Daniel toho večera tiše doříkal z breviáře completorium[75](#footnote-30240-75), vstal, chtěje vyhlédnout ven, kdež déšť harašil a blesky krátkými oslňujícími zážehy prorážely hustou tmu. Ale jen pokročil, pootevřel někdo jeho dveře a zavolal jimi:
+Když P. Daniel toho večera tiše doříkal z breviáře completorium[^75], vstal, chtěje vyhlédnout ven, kdež déšť harašil a blesky krátkými oslňujícími zážehy prorážely hustou tmu. Ale jen pokročil, pootevřel někdo jeho dveře a zavolal jimi:
 
 „Pojďte, pojďte k rektorovi!“
 
@@ -194,10 +194,10 @@ A svěsil hlavu.
 
 „Buď pánbůh pochválen! Synu, nebudeš litovat.“
 
-[72](#footnote-30240-72-backlink) Rozličné myšlenky o kometě. Pozn. red.
+[^72]: Rozličné myšlenky o kometě. Pozn. red.
 
-[73](#footnote-30240-73-backlink) Násilné prosazování protireformace s pomocí vojska (dragounů). Pozn. red.
+[^73]: Násilné prosazování protireformace s pomocí vojska (dragounů). Pozn. red.
 
-[74](#footnote-30240-74-backlink) Pisálek. Pozn. red.
+[^74]: Pisálek. Pozn. red.
 
-[75](#footnote-30240-75-backlink) Povinná večerní modlitba katol. kněží. Pozn. red.
+[^75]: Povinná večerní modlitba katol. kněží. Pozn. red.

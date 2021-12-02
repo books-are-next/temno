@@ -34,7 +34,7 @@ Za chvilku, to již byla paní Lerchová zase ve velkém pokoji, vstoupil P. Suk
 
 „A tak přece – co se mu stalo, kde ho tak –“
 
-„Sedláci ho tak nekřesťansky ztloukli, sedláci, kacíři, bludaři, v Čáslavském kraji, v jedné vsi, když tam pátral po kacířských knihách. Přišel do jednoho statku, ten statek byl o samotě, a když chtěl, aby mu vydali zapovězené, kacířské knihy, a začal hledat, popadli ho, tloukli ho, bili, a když byl už skoro bez sebe, hodili ho, jej kněze posvěceného, zavřeli ho, salva venia[26](#footnote-30240-26), do prasečího chlívku a tam ho nechali.“
+„Sedláci ho tak nekřesťansky ztloukli, sedláci, kacíři, bludaři, v Čáslavském kraji, v jedné vsi, když tam pátral po kacířských knihách. Přišel do jednoho statku, ten statek byl o samotě, a když chtěl, aby mu vydali zapovězené, kacířské knihy, a začal hledat, popadli ho, tloukli ho, bili, a když byl už skoro bez sebe, hodili ho, jej kněze posvěceného, zavřeli ho, salva venia[^26], do prasečího chlívku a tam ho nechali.“
 
 „Je-li možná!“
 
@@ -46,7 +46,7 @@ Paní Lerchová bezděky sepjavši ruce, nachýlila se v napětí a vzrušení
 
 „Uslyšela ho –“
 
-„Uslyšela. A žádná kacířka, hodná, pobožná žena. Ta hned otevřela dvířka a pan páter pospíchal, jak mohl, hlady a žízní a tím bitím zmořený, a pak, musím to říct, má herniam[27](#footnote-30240-27), to jest škodu, a tak s velikou bídou utíkal. Ale Panenka Maria se smilovala. Dostal se do blízkého lesa a odtud na nejbližší faru; ta žena ho pořád vedla. Ale jen vkročil do dvorečku na faře, klesl, dál už nemohl. Odnesli ho a hned do postele. Na té faře ostal kolik dní a teď, když se trochu sebral, přijel do Prahy, do koleje. Je na něm vidět, co zkusil, je tuze přepadlý, a ta boule –,“ páter Daniel opět vstal, a otočiv se, znovu ukazoval na své hlavě, kde má P. Koniáš bouli. „Jako vejce; ta se neztratila, a doktor povídal, že se mu již asi neztratí, že ji bude mít na památku. Hrdina, opravdu hrdina a málem mučedník jako P. Burnatius, toho, víš-li, sedláci na Jičínsku u Libuně vsi utloukli, P. Burnatia v poli a jeho fámula, studenta, sodála mariánského Rokytu, mládence nevinného, toho na hnoji u chléva. Mučedníci oba. A páter Koniáš by málem taky – Ale nezastrašili ho, nebojí se, tak jako se nebál P. Bridelius, toho jsem znal, ale jenom jednou jsem ho viděl, ten taky tak směle mezi ty berany, do hor, do lesů, rovnou mezi ně i do jejich tajných shromáždění.“
+„Uslyšela. A žádná kacířka, hodná, pobožná žena. Ta hned otevřela dvířka a pan páter pospíchal, jak mohl, hlady a žízní a tím bitím zmořený, a pak, musím to říct, má herniam[^27], to jest škodu, a tak s velikou bídou utíkal. Ale Panenka Maria se smilovala. Dostal se do blízkého lesa a odtud na nejbližší faru; ta žena ho pořád vedla. Ale jen vkročil do dvorečku na faře, klesl, dál už nemohl. Odnesli ho a hned do postele. Na té faře ostal kolik dní a teď, když se trochu sebral, přijel do Prahy, do koleje. Je na něm vidět, co zkusil, je tuze přepadlý, a ta boule –,“ páter Daniel opět vstal, a otočiv se, znovu ukazoval na své hlavě, kde má P. Koniáš bouli. „Jako vejce; ta se neztratila, a doktor povídal, že se mu již asi neztratí, že ji bude mít na památku. Hrdina, opravdu hrdina a málem mučedník jako P. Burnatius, toho, víš-li, sedláci na Jičínsku u Libuně vsi utloukli, P. Burnatia v poli a jeho fámula, studenta, sodála mariánského Rokytu, mládence nevinného, toho na hnoji u chléva. Mučedníci oba. A páter Koniáš by málem taky – Ale nezastrašili ho, nebojí se, tak jako se nebál P. Bridelius, toho jsem znal, ale jenom jednou jsem ho viděl, ten taky tak směle mezi ty berany, do hor, do lesů, rovnou mezi ně i do jejich tajných shromáždění.“
 
 „A co ti sedláci –“
 
@@ -88,7 +88,7 @@ Připomínka ta trhla páterem Danielem.
 
 „Knoflíky už nepočítá?“ vzpomněla paní Lerchová a vypravovala, jak tuhle navštívila paní Turkovou a ta že sedíc v posteli měla před sebou na svrchnici hromadu stříbrných knoflíků z kabátů a kamizol svého nebožtíka muže a svých dvou zemřelých synů a že ty knoflíky přerovnávala, počítala, a co jich má. A páter Suk hned na to:
 
-„Přes čtyřicet větších in forma ovali a hromadu menších in praefata forma[28](#footnote-30240-28), taky takové; celá libra jich je, libra stříbra, a čistého, pravého. To jest její kratochvíle.“
+„Přes čtyřicet větších in forma ovali a hromadu menších in praefata forma[^28], taky takové; celá libra jich je, libra stříbra, a čistého, pravého. To jest její kratochvíle.“
 
 „A jak chudáček vypadá! Až jsem se jí lekla, pánbůh mne ne­trestej! Kost a kůže, už je jenom oči, takové vyjevené oči zapadlé, veliké, a hlavička jako pěst, seschlá, celá v čepci, a tak vyschlá – No když Švejdu pamatuje, když Prahu šturmoval.“
 
@@ -106,8 +106,8 @@ Do ticha šeřícího se pokoje zavanul třesoucí se povzdech staré paní Lerc
 
 Bílá hlava pátera Suka mihla se ve dveřích. Prve nežli i paní Lerchová k nim došla, hodlajíc jej vyprovodit, zmizel.
 
-[26](#footnote-30240-26-backlink) S odpuštěním. Pozn. red.
+[^26]: S odpuštěním. Pozn. red.
 
-[27](#footnote-30240-27-backlink) Kýla. Pozn. red.
+[^27]: Kýla. Pozn. red.
 
-[28](#footnote-30240-28-backlink) Téhož tvaru. Pozn. red.
+[^28]: Téhož tvaru. Pozn. red.

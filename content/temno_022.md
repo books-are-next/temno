@@ -34,9 +34,9 @@ Nahoře ve velkém pokoji už dávno připili ženichu a nevěstě i pannám d
 
 Pak přišuměly maškary, poklonily se ženichovi, nevěstě, poklonily se jejímu pantátovi, její panimámě, pannám družičkám a pak hned do tance. A tančilo pak všechno, mládenci černě odění s bělostnými šátky a taclemi, pestré maškary se škraboškami na tváři, vystrojené družičky v panenských korunkách a pentlíkách, mladší měšťanky ve zvonových sukních, zardělé, lesklých očí, vážní sousedé ve velkých parukách až na ramena i obstárlá, ale vystrojená vdova, paní obrstvachtmistrová Zuzana Richtrová, všecka zardělá, dobrá známá Březinových i staré paní Lerchové.
 
-Vášnivě ráda tancovala, tak jako neúmorně vypravovala za každé příležitosti o svých válečných výpravách, o bitvách, obzvláště u Petrovaradína a Bělehradu, o princi Eugenovi a hlavně o svém nebožtíku muži, Kristiánu Richtrovi, jak sloužil „von Pik auf“[29](#footnote-30240-29), že začal u kyrysarů v Caprariho regimentu, pak v Hyserlově regimentu, také kyrysarském, z toho pak že přestoupil jako kaprál do regimentu Jeho Excelence generála Heistra, až umřel jako obrstvachtmistr v dragonském pluku vévody Virtemberského, špatný sice písař, ale znamenitý rejtar, jemuž palaš byl lehký, ale pero těžké.
+Vášnivě ráda tancovala, tak jako neúmorně vypravovala za každé příležitosti o svých válečných výpravách, o bitvách, obzvláště u Petrovaradína a Bělehradu, o princi Eugenovi a hlavně o svém nebožtíku muži, Kristiánu Richtrovi, jak sloužil „von Pik auf“[^29], že začal u kyrysarů v Caprariho regimentu, pak v Hyserlově regimentu, také kyrysarském, z toho pak že přestoupil jako kaprál do regimentu Jeho Excelence generála Heistra, až umřel jako obrstvachtmistr v dragonském pluku vévody Virtemberského, špatný sice písař, ale znamenitý rejtar, jemuž palaš byl lehký, ale pero těžké.
 
-Paní obrstvachtmistrová tančila hned od počátku, hned jak hu­debníci spustili důstojnou sarabandu zvolného tempa, nevynechala ani menuet, ani trakanár a chutě a směle dala se i do prudší kuranty, v níž mladí tanečníci ohnivě sekali smělé kaprioly[30](#footnote-30240-30), prosté i křížové.
+Paní obrstvachtmistrová tančila hned od počátku, hned jak hu­debníci spustili důstojnou sarabandu zvolného tempa, nevynechala ani menuet, ani trakanár a chutě a směle dala se i do prudší kuranty, v níž mladí tanečníci ohnivě sekali smělé kaprioly[^30], prosté i křížové.
 
 Když Jiřík stoupal do schodů, bylo již chvíli po třetím tanci maškar. Hned na schodech o nich zvěděl. Potkal Mariánka, jenž všechen zardělý a již zapocený od samého honu chvátal dolů na okamžik ke stolu. Chvátal, ale Jiříka zastavil, volaje s úžasem, kde je, že se po něm už ptali.
 
@@ -62,7 +62,7 @@ Pojednou však vzhlédla; její zrak maně utkvěl u dveří, kdež stál Jiř�
 
 Byl zaražen, ale i mile překvapen, v rozpacích ne nepříjemných. Ten pohled i úsměv byly tak vlídny. Jeho zrak začal ji hledat mezi tančícími. Sledoval ji, ale když hudba dohrávala kus, přece nevyčkal, nevykročil do velkého pokoje, nýbrž ustoupil do menšího, a pak, když se tam tanečníci hrnuli, do druhého. Tichá bázeň podivná, mocný ostych jej pudily pryč. Nemohl se odvážiti. V druhém pokoji zastal Hubátia, jenž se tam posiloval vínem ve společnosti dvou maškar, hofmistra barona Vraždy a s tím Francouzem, špráchmajstrem Herbaisem. Ten právě jim vypravoval chatrnou němčinou, co se mu předevčírem stalo, že když bylo tak krásně, že si vyšel s panem Putzem do Buben, že měl na sobě tuhle novou paruku, to že je pravá pařížská, že si sedli v hospodě pod pavlačí, a vtom že šel monsieur Brüll, kupec proti mincovně, s ženou kolem nich, a tu ona že se tak podívala a ušklíbla, no tohle že je velká paruka, ale velké parády že nenadělá, a že si šli sednout na pavlač.
 
-„A protože tu jiný nebyl s tak velkou parukou nežli já, tak já hned za nimi na pavlač a ptám se, koho madame mínila. A ona hned ostře, a on, Brüll, taky, a hned z toho hádka. A ona začala nadávat ‚Flegel‘[31](#footnote-30240-31) a ‚hergeloffener Kerl‘[32](#footnote-30240-32) a křičela, že ví, že primátor a doktor Globic jsou moji patroni, ale proto že ona –“
+„A protože tu jiný nebyl s tak velkou parukou nežli já, tak já hned za nimi na pavlač a ptám se, koho madame mínila. A ona hned ostře, a on, Brüll, taky, a hned z toho hádka. A ona začala nadávat ‚Flegel‘[^31] a ‚hergeloffener Kerl‘[^32] a křičela, že ví, že primátor a doktor Globic jsou moji patroni, ale proto že ona –“
 
 Vtom spustila hudba ve velkém pokoji. Mládenci hned vyskočili a do taneční síně. Hubátius se chvatně ještě optal, a tak co, co on, Herbais.
 
@@ -111,10 +111,10 @@ To „viď“, to „ty“, ač se samo sebou rozumělo, mile jej překvapilo a�
 
 „To bude mít, Jiříčku, pantáta radost.“
 
-[29](#footnote-30240-29-backlink) Od píky. Pozn. red.
+[^29]: Od píky. Pozn. red.
 
-[30](#footnote-30240-30-backlink) Taneční poskok. Pozn. red.
+[^30]: Taneční poskok. Pozn. red.
 
-[31](#footnote-30240-31-backlink) Pacholek, hulvát. Pozn. red.
+[^31]: Pacholek, hulvát. Pozn. red.
 
-[32](#footnote-30240-32-backlink) Zatracený chlap. Pozn. red.
+[^32]: Zatracený chlap. Pozn. red.

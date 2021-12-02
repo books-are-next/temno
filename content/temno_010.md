@@ -2,7 +2,7 @@
 title: IV
 ---
 
-Lustr v jídelně nerozsvícen; čtyři svíčky ve dvou svícnech hořely na velkém stole bělostně pokrytém, na němž mdle pobleskovaly cínové mísy a talíře. Pan Lhotský a slečna Polexina seděli v starých křeslech kolmých lenochů, modrým suknem potažených. Na velké dubové kredenci, plné cínového a majolikového nádobí, u níž stála Helenka myslivcova, hořely dvě svíčky. Tu jasno; v pozadí kolem velkých zelených kamen s krancly[7](#footnote-30240-7) příšeří. Rovněž na obrazy nad dubovým táflováním nepadalo plné světlo, na několik krajin na plátně se zčernalým, hustým stromovím a na jeden „landšaft marinářský“, z něhož nejjasněji vyrážely zežloutlé, někdy bělostné plachty korábu v bouři. Na stěně proti dveřím visel samojediný obraz, na plátně malovaný kontrfekt nebožtíka císaře Leopolda I. v alonžové paruce.
+Lustr v jídelně nerozsvícen; čtyři svíčky ve dvou svícnech hořely na velkém stole bělostně pokrytém, na němž mdle pobleskovaly cínové mísy a talíře. Pan Lhotský a slečna Polexina seděli v starých křeslech kolmých lenochů, modrým suknem potažených. Na velké dubové kredenci, plné cínového a majolikového nádobí, u níž stála Helenka myslivcova, hořely dvě svíčky. Tu jasno; v pozadí kolem velkých zelených kamen s krancly[^7] příšeří. Rovněž na obrazy nad dubovým táflováním nepadalo plné světlo, na několik krajin na plátně se zčernalým, hustým stromovím a na jeden „landšaft marinářský“, z něhož nejjasněji vyrážely zežloutlé, někdy bělostné plachty korábu v bouři. Na stěně proti dveřím visel samojediný obraz, na plátně malovaný kontrfekt nebožtíka císaře Leopolda I. v alonžové paruce.
 
 V celé komnatě, v jejím nábytku, v obrazech, ve všem ještě sedmnácté století; a ti dva, starý zeman a stará slečna Mladotovna, také ještě z něho. Hodili se do té komnaty nezcela svým oblekem, zcela však většinou svých let, svým vychováním a smýšlením.
 
@@ -34,7 +34,7 @@ V panské jídelně pak už dlouho neseděli. Lhotský byl by ještě vypravova
 
 Když slečna vešla do svého pokoje, vzala v zamyšlení láhev s arnikou, pozdvihla ji proti světlu, prohlížela projasněnou tekutinu jantarové barvy, ale zamyšleně ji dala zase na okno, postála u něho, pohleděla do noci, na černé stromy dole ve svahu; pořád ještě byla v Loretě, v přítmí jejích ambitů, a zase nad Prahou ozářenou posledním světlem májového dne.
 
-Tenkráte po tom večeru psal jí mladý Vilím Kunáš z Machovic. To psaní, jež pak tak často si četla, zachovala sobě i v paměti, doslova, zvláště místo: „To mne hrubě souží, že Vám, nejmilejší panno, panno slečno Polexino, nemohu každé hodiny jako své pěkné bohyni s poníženou reverencí sloužiti. Ale tomu se těším, že až ta šťastná chvíle přijde, Vaše bílé ruce políbím a Vám, nejmilejší panno, panno slečno Polexino, sloužiti moci budu. Vinšuju Vám kontent[8](#footnote-30240-8) srdce –“
+Tenkráte po tom večeru psal jí mladý Vilím Kunáš z Machovic. To psaní, jež pak tak často si četla, zachovala sobě i v paměti, doslova, zvláště místo: „To mne hrubě souží, že Vám, nejmilejší panno, panno slečno Polexino, nemohu každé hodiny jako své pěkné bohyni s poníženou reverencí sloužiti. Ale tomu se těším, že až ta šťastná chvíle přijde, Vaše bílé ruce políbím a Vám, nejmilejší panno, panno slečno Polexino, sloužiti moci budu. Vinšuju Vám kontent[^8] srdce –“
 
 Nepolíbil. Baron Schirnding se v rozjařené společnosti kavalírů pošklíbl jeho znaku, jeho klenotu erbovému, že tam má „ein hussitisches Männlein“, husitského mužíčka, a připíchl ještě něco o husitském rodu, jako by pochyboval o jeho, páně Vilímově, a všech Kunášů katolické pravověrnosti. A to bylo smrtelnou urážkou potom­ku starožitné rodiny někdy horlivě husitské, jehož předkové, Smil a Kunáš, byli hejtmany táborskými a přáteli Žižkovými a z jehož pozdějších předků tři po bělohorské bitvě pro odboj přísně pokutováni. Pro tu urážku souboj.
 
@@ -42,6 +42,6 @@ Pan Vilím v něm padl. Slečně Polexině bílých rukou již nepolíbil. A k
 
 Slečna odstoupila od okna, prohlédla si ještě jednou, dosud v zamyšlení, brokát na šatičky Panně Marii, pak rozsvítila dolejší dvě svíčky s bělostnými stuhami, klekla před oltářík a modlila se jako každý večer za rodiče, za paní mateř obzvláště, za sourozence, za příbuzné, za duše v očistci a za něj, za pana Vilíma. Dnes přidala tři otčenáše.
 
-[7](#footnote-30240-7-backlink) Římsa. Pozn. red.
+[^7]: Římsa. Pozn. red.
 
-[8](#footnote-30240-8-backlink) Spokojenost (z fr.). Pozn. red.
+[^8]: Spokojenost (z fr.). Pozn. red.

@@ -48,7 +48,7 @@ Venku se spustila hustá chumelice; v pokoji se od ní až přišeřilo. Jiří
 
 „Ó ne, ne, právě jsem dostavěl,“ horlivě ujišťoval Jiří mile překvapený. „Všecko je hotovo, jen škoda, že není dost světla, když se tak chumelí. Ale –,“ nedořekl, skočil se stolu, odběhl ven, hned však se vrátil s planoucí svíčkou v ruce. Tou zažehl bílé a barevné svíčičky krajem prkna kolem betlému i růžovou lampičku prostřed, před stájí s Jezulátkem, a odtáhl stůl.
 
-Venku bílá prášenice a tady v jejím příšeří řada plamínků, v je­jichž záři jako by vše rozkvetlo; vyjasnily se všechny barvy, zeleň stromů a mechu, bílé ovečky, brslenky pastýřů, pestré obleky žen, rozjiskřil se stříbřitý písek po skalách, zaleskla se zlatá hvězda nad chlévem; i anděl vysoko nad betlémem vyhoupl se ze šera, pestrá jeho křídla, bílý pruh legendy v jeho rukou s nápisem: Gloria in excelsis[67](#footnote-30240-67) –
+Venku bílá prášenice a tady v jejím příšeří řada plamínků, v je­jichž záři jako by vše rozkvetlo; vyjasnily se všechny barvy, zeleň stromů a mechu, bílé ovečky, brslenky pastýřů, pestré obleky žen, rozjiskřil se stříbřitý písek po skalách, zaleskla se zlatá hvězda nad chlévem; i anděl vysoko nad betlémem vyhoupl se ze šera, pestrá jeho křídla, bílý pruh legendy v jeho rukou s nápisem: Gloria in excelsis[^67] –
 
 Helenka přistoupila blíž, překvapená nevídanou podívanou; v upřímném obdivu i v tiché radosti, že je u Jiřího, upírala zraky na betlém, z něhož pokmitovaly zásvity i po její svěží tváři. Jiří potěšen pozoroval Helenčino překvapení a měl radost z její chvály; zatrnulo v něm, když macecha hlásila, tak že to koření přichystá, ať se Helenka dívá.
 
@@ -72,4 +72,4 @@ A vtom vstoupila.
 
 Když s Helenkou odešla, nechal Jiří betléma, nechal svíčky hořet a přiskočil k oknu, aby zahlédl Helenku, až bude z průjezdu vycházet. Dočkal se jí. Díval se za ní, až zmizela v bílé metelici.
 
-[67](#footnote-30240-67-backlink) Sláva na výsostech (Bohu a pokoj lidem dobé vůle). Pozn. red.
+[^67]: Sláva na výsostech (Bohu a pokoj lidem dobé vůle). Pozn. red.

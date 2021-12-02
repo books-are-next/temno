@@ -10,7 +10,7 @@ Byl horlivým sodálem a toho času hodnostou, jedním ze dvanácti kurátorů 
 
 „A česká od prvopočátku, a slavná. Nejvzácnější jména jsou zapsána v mariánském jejím albumu, sám císař a král Ferdinand III. slavné paměti se do něho podepsal, a co biskupů, prelátů a kanovníků, a nejpřednější kavalíři, Lobkovicové, Kolovratové, Šternberkové bývali rektory bratrstva, tak jako je teď hrabě Vrbna. A jaké milosti poskytuje naše kongregací, jaká privilegia má a její oltář!“
 
-„Tolik odpustků,“ přisvědčil kurátor Březina, „čtyřikrát do roka plnomocné odpustky sedmi let a tolika kvadragen[60](#footnote-30240-60); to málokterá kongregací, a –“
+„Tolik odpustků,“ přisvědčil kurátor Březina, „čtyřikrát do roka plnomocné odpustky sedmi let a tolika kvadragen[^60]; to málokterá kongregací, a –“
 
 „A to druhé breve papežské,“ nadšeně vpadl P. Daniel, „když by u oltáře bratrstva byla sloužena mše svatá za duši kteréhokoliv zemřelého bratra neb sestry v den Dušiček, že duše ta mocí odpustků z očistcových muk bude vysvobozena. Takové breve, takovou milost má naše bratrstvo. A jak vždycky utvrzovalo svatou katolickou víru! A pomáhalo na její velké a slavné stavbě v Čechách, hned jak byly grunty k ní založeny po té slavné bitvě na Bílé hoře, jistě víc nežli jiná bratrstva, a jak rozšiřovala a rozšiřuje úctu k Panence Marii. Ta teď oroduje za Čechy, když se k ní navrátili, teď jí jsou milí nábožní Čechové, její přímluvou bude ta slavná stavba dokonána a Čechy budou, jako byly za císaře Karla IV. slavné paměti, pia terra, svatá země. A tak, milá paní,“ obracel se k paní Březinové, „přistoupíte, jistě, sám vás ohlásím jako postulantku, nu a, to se ví, beze všeho a brzo budete přijata za kandidátku a pak za sestru. Tak tedy –“
 
@@ -50,4 +50,4 @@ Užaslí, ulekaní stáli nad padlým a litovali ho. Jiřík mlčky přistoupil
 
 „Tak mne to obešlo.“
 
-[60](#footnote-30240-60-backlink) Čtyřicetidenní půst jako výraz pokání. Pozn. red.
+[^60]: Čtyřicetidenní půst jako výraz pokání. Pozn. red.

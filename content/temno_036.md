@@ -58,7 +58,7 @@ Vtom před Filečkem jeho blíženec, Filip Sameček, komorník při královské
 
 „To si dal říct?“
 
-„Dal; hned vstal a šel. Ale jakápak chůze s takovým starcem. Už bylo tma, když jsem ho dovedl domů. To byla cesta! Už se mně po ní ani ke stolu nechtělo.“ Mínil ke stolu v hospodě U Březinů. „A ráno jsem nebyl ještě z postele, a už perkmistr vzkazuje cito, cito[37](#footnote-30240-37) shánět asesory[38](#footnote-30240-38). Co dělat, člověk nesmí odporírovat. A odpoledne zase služba, teď teprve jdu z perkamtu. Tak to mají ty férie. To oni u desk –“
+„Dal; hned vstal a šel. Ale jakápak chůze s takovým starcem. Už bylo tma, když jsem ho dovedl domů. To byla cesta! Už se mně po ní ani ke stolu nechtělo.“ Mínil ke stolu v hospodě U Březinů. „A ráno jsem nebyl ještě z postele, a už perkmistr vzkazuje cito, cito[^37] shánět asesory[^38]. Co dělat, člověk nesmí odporírovat. A odpoledne zase služba, teď teprve jdu z perkamtu. Tak to mají ty férie. To oni u desk –“
 
 Umlkl. Řinčivá hudba zarazila mu řeč. Hlas polní trouby, pronikavého klarinetu, píšťaly a temný rachot bubnu rozlehly se před Zlatou husou. Verbířský hudební sbor rozrazil tam hustý zástup a zatáčel Koňským trhem vzhůru. Za hudebníky dragoun s velkým smolným džbánem na hlavě, vedle něho jiný s půlpinetní sklenicí cínového víka, plnou piva. Třetí za nimi měl v rukou cínovou hlubokou mísu s tolary a zlatníky a potřásal jí a hrkal jí ustavičně, až mince hlasně drnčely a chřestily. Chvilkou hrábl také do nádoby, do peněz, plnou hrst jich vybral a zas je zvysoka pomalu pouštěl do mísy, aby dobře bylo vidět stříbrný ten déšť.
 
@@ -145,6 +145,6 @@ Lehounký červánek překmitl po tvářích mladé paní.
 
 „Přijdu brzo, milá Toničko. Však víte, teď vždycky pospíchám domů, to mohu říct, a vy to víte, a proč pospíchám, to taky, viďte?“ Vážný pán v dlouhé paruce usmál se a naklonil se ne s ohněm, ale s něžnou důstojností k své mladé ženě a políbil ji na čelo.
 
-[37](#footnote-30240-37-backlink) Rychle, rychle. Pozn. red.
+[^37]: Rychle, rychle. Pozn. red.
 
-[38](#footnote-30240-38-backlink) Přísedící soudu. Pozn. red.
+[^38]: Přísedící soudu. Pozn. red.

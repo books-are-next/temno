@@ -2,9 +2,9 @@
 title: XIII
 ---
 
-Všecko svatá pravda, všecko tak, jak to Mariánek přinesl. Toho večera bylo to ještě tajemstvím, ale nazejtří věděl o tom všechen Koňský trh od velké Scheidlerovské zahrady nahoře u Koňské brány až dolů k příkopům, všechen Koňský trh po obou stranách. Stůl „u blíženců“ jednal o té zprávě po kolik večerů. Vzrušovala jej, poněvadž se týkala jejich pana starého a jeho rodiny, jejíž osudy sledovali s vřelým účastenstvím, jako jmenovitě před sedmi lety, když měl pan starý Březina těžkou alteraci[17](#footnote-30240-17) pro nejstaršího syna svého Vojtěcha, teď, tohoto času, kaplana v Plzni, když veselý student i outrata tenkráte nechtěl přistoupiti k důstojnosti kněžské. A s druhým, Ondřejem, teď cisterciákem, nebylo o nic lépe.
+Všecko svatá pravda, všecko tak, jak to Mariánek přinesl. Toho večera bylo to ještě tajemstvím, ale nazejtří věděl o tom všechen Koňský trh od velké Scheidlerovské zahrady nahoře u Koňské brány až dolů k příkopům, všechen Koňský trh po obou stranách. Stůl „u blíženců“ jednal o té zprávě po kolik večerů. Vzrušovala jej, poněvadž se týkala jejich pana starého a jeho rodiny, jejíž osudy sledovali s vřelým účastenstvím, jako jmenovitě před sedmi lety, když měl pan starý Březina těžkou alteraci[^17] pro nejstaršího syna svého Vojtěcha, teď, tohoto času, kaplana v Plzni, když veselý student i outrata tenkráte nechtěl přistoupiti k důstojnosti kněžské. A s druhým, Ondřejem, teď cisterciákem, nebylo o nic lépe.
 
-Doma měl pan starý ještě dva syny, Jindřicha, jenž byl při živnosti, a Jiříka, nejmladšího. Ten chodil tohoto roku 1725 do rétoriky[18](#footnote-30240-18) k jezovitům v koleji u sv. Klimenta.
+Doma měl pan starý ještě dva syny, Jindřicha, jenž byl při živnosti, a Jiříka, nejmladšího. Ten chodil tohoto roku 1725 do rétoriky[^18] k jezovitům v koleji u sv. Klimenta.
 
 Děti tedy dospěly, a přece se Březina odhodlal, že promění svůj stav vdovecký. Nejprve to oznámil matce nebožky své ženy, a stará paní u Pražáků, která sama byla potřetí vdovou, nebránila mu, nevymlouvala, přesvědčujíc, že takto není možná vésti živnost, jak náleží. Také uznala, že dobře volil, že si vybral nevěstu z rodu sladovnického; bylť její otec, Karel Vyšín z Klarenburku, starší nákladníků a jeden z desetipánů, majetníkem pivovaru U Štiků a bohatý muž; jeho bratr, syndikus Starého Města, také zámožný a ostatní příbuzenstvo rovněž znamenité.
 
@@ -36,17 +36,17 @@ Poslední dílo vykonal Mariánek časně ráno o svatebním dnu. Za jeho dozor
 
 Jak on, tak i všichni u Březinů sváteční, i dvůr.
 
-Byl umeten, vozejčky, na nichž se rozváželo pivo šenkýřům, zatáhli do kouta a povalující se sudy urovnali. Také „řemeslo“, vandrovní sladovnický, jenž včera u Březinů zarazil, oblekl lepší, zelenou kamizolu a ozdobil splavec[19](#footnote-30240-19) zelenými pentlemi. Stál pak mezi chasou, jež čekala svatební průvod, vracející se z kostela od dominikánů. Venku před průjezdem velký zástup, jenž se shlukl „na čuměnou“. A uviděli.
+Byl umeten, vozejčky, na nichž se rozváželo pivo šenkýřům, zatáhli do kouta a povalující se sudy urovnali. Také „řemeslo“, vandrovní sladovnický, jenž včera u Březinů zarazil, oblekl lepší, zelenou kamizolu a ozdobil splavec[^19] zelenými pentlemi. Stál pak mezi chasou, jež čekala svatební průvod, vracející se z kostela od dominikánů. Venku před průjezdem velký zástup, jenž se shlukl „na čuměnou“. A uviděli.
 
 Řada krytých vozů dojížděla k Březinovu prostornému domu, v čele dva kočáry ženichovy; v prvním z nich spřežení běloušů, vyzdobených fábory a kvítím. V poledním slunci krásného májového dne zářily, hořely barvy bohatých obleků, leskly se a třpytily šperky svatebních hostí, jak vystupovali a řadili se pár za párem.
 
 V prvním ženich Jan Václav Březina, dobrý padesátník, ale statného a svěžího vzhledu, v kadeřavé paruce, dlouhé až na ramena, v drahocenném bělostném šátku s vyšívanými cípy, široce rozloženými na černém kabátě se zlatými knoflíky, v rukavičkách zlatem vyšívaných, stříbrný kord po boku. Vedl si nevěstu ztepilou, ale subtilní, křehkou, jemné tváře aristokratického vzezření, s perlovým pentlíkem a věnečkem rozmarýnovým na hlavě, v brokátové sukni zvonové, zdobené zlatou krajkou.
 
-Za ní její družičky v panenských pentlíkách, v nákladných šatech životů dlouhých, utáhlých se špicí, růžových punčochách hedvábných, v špalíčkových střevíčkách. S nimi mládenci hladcí a mladí, v parukách, v černých kabátech, bělostné měkké tacle u rukou, v černých punčochách tak jako ženich, pestré favory a kytky na prsou. Za nimi hosté, vzácní měšťané a měšťanky z Nového i Starého Města, většinou nákladníci[20](#footnote-30240-20) piv vaření i členové městských správ, radní s titulem „urozených a statečných vladyků“, členové „šestopanského“ úřadu nebo desetipánů[21](#footnote-30240-21), měšťané sousedských jmen, Karel Palma, sládek z Dobytčího trhu, a bratr jeho Bernard z Koňského, ze Zeleného domu podle Zlaté husy, oba v parukách, v černém obleku, starý, tlustý Jiří Halánek v staromódní, vlasaté paruce, v šarlatovém svátečním plášti, Karel Bepta, jen o málo slabší, z pivovaru od Kalivodů, a z Jindřišské ulice Daniel Raitknecht v bílém plášti, dlouhý a hubený, sládek a leutenant při městském rejtarstvu novoměstském.
+Za ní její družičky v panenských pentlíkách, v nákladných šatech životů dlouhých, utáhlých se špicí, růžových punčochách hedvábných, v špalíčkových střevíčkách. S nimi mládenci hladcí a mladí, v parukách, v černých kabátech, bělostné měkké tacle u rukou, v černých punčochách tak jako ženich, pestré favory a kytky na prsou. Za nimi hosté, vzácní měšťané a měšťanky z Nového i Starého Města, většinou nákladníci[^20] piv vaření i členové městských správ, radní s titulem „urozených a statečných vladyků“, členové „šestopanského“ úřadu nebo desetipánů[^21], měšťané sousedských jmen, Karel Palma, sládek z Dobytčího trhu, a bratr jeho Bernard z Koňského, ze Zeleného domu podle Zlaté husy, oba v parukách, v černém obleku, starý, tlustý Jiří Halánek v staromódní, vlasaté paruce, v šarlatovém svátečním plášti, Karel Bepta, jen o málo slabší, z pivovaru od Kalivodů, a z Jindřišské ulice Daniel Raitknecht v bílém plášti, dlouhý a hubený, sládek a leutenant při městském rejtarstvu novoměstském.
 
 Mezi nimi měšťané se šlechtickými přídomky, Michal z Bláhy, sládek a hejtman nad jednou kompanií staroměstskou, pan starý od Štiků Karel Vyšín z Klarenburka, nevěstin otec, v tmavém plášti, dva Zahořanští z Vorlíka, oba v rudých pláštích, Jan Leopold, novoměstský syndikus, v právích licenciát, bydlící v svém domě U Podušků na Dobytčím trhu, a hubený Václav, výrazného, vážného obličeje, od Sokolů nedaleko novoměstské vápenice. Před nimi v doktorském plášti královský zemský fyzikus Ph. a Med. Dr. Jan Globic z Budčína od Tří koulí, vysoký a mohutný, pak vážný Jan V. Vejvoda, čtyřicátník, „urozený a statečný vladyka“ staroměstský v paruce plné širokých kadeří od temene až po ramena, v černém obleku, s bělostým „obojkem“, kord po boku jako všichni, a vysoký Samuel Tatyrek z Heldenburka v červeném plášti a v bílém Václav Karlík, „pan otec“ na Helmových mlýnech.
 
-Tak se řadili a s nimi jejich ženy, mladé i starší, mnohé s laloušky pod bradou, svěže zardělé, všechny po levici svých mužů, kterýmž vykaly a „pane“ říkaly, všechny „panímámy“, ať mladší, nebo starší, všechny v zlatých čepcích nebo v biretkách z dykyty a sametu různých barev s ozdobou krajek a drahých, kvítkovaných stuh, všechny v nákladných šatech hedvábných i brokátových, dlouhých životů se špicí, v sukních na obručích. Paní Tatyrková z Heldenburku, čilá a usměvavá, jež neuměla německy tak jako paní radního Allia z Löwenthala a jako mnohé jiné vzácné měšťanky, ale také nedovedla se podepsat, byla v černém damaškovém „štrikroku“[22](#footnote-30240-22), kdežto paní Beptová v rudém. Všechny si nesly modlitební knížky, všechny mušelínové nebo hedvábné krajkové šátečky, všechny byly plny třpytu ze zlatých řetězů na krku, ze šňůr perel nebo granátů, ze zlatých nebo korálových náramků, z drahého kamení v prstenech. –
+Tak se řadili a s nimi jejich ženy, mladé i starší, mnohé s laloušky pod bradou, svěže zardělé, všechny po levici svých mužů, kterýmž vykaly a „pane“ říkaly, všechny „panímámy“, ať mladší, nebo starší, všechny v zlatých čepcích nebo v biretkách z dykyty a sametu různých barev s ozdobou krajek a drahých, kvítkovaných stuh, všechny v nákladných šatech hedvábných i brokátových, dlouhých životů se špicí, v sukních na obručích. Paní Tatyrková z Heldenburku, čilá a usměvavá, jež neuměla německy tak jako paní radního Allia z Löwenthala a jako mnohé jiné vzácné měšťanky, ale také nedovedla se podepsat, byla v černém damaškovém „štrikroku“[^22], kdežto paní Beptová v rudém. Všechny si nesly modlitební knížky, všechny mušelínové nebo hedvábné krajkové šátečky, všechny byly plny třpytu ze zlatých řetězů na krku, ze šňůr perel nebo granátů, ze zlatých nebo korálových náramků, z drahého kamení v prstenech. –
 
 U zelené, chvojové brány, u háje mladých břízek se pestrý průvod na okamžik zarazil, co starší, maje podstaršího po boku, v čele chasy přednesl krátké uvítání a přání, aby novomanželům dal pánbůh dlouhý věk a dlouhé na tom světě panování, končící srdečným „dej bůh štěstí!“ Z průjezdu zahřmělo „vivat“! bodré chasy, nad jejíž hlavami zamával řemeslo svým splavcem, až ozdoba jeho, zelené pentle, prudce zaplápolaly.
 
@@ -87,14 +87,14 @@ Zvědaví v průjezdu hádali, kdo v tom mumraji; pan Vencl, stoje na schodech
 
 V tom hukotu a v tlačenici žádný sobě nepovšiml, že se houfem v průjezdu protáhl nejmladší Březinův syn, student, v klobouku a v pláštíku, a že vyrazil ven na Koňský trh.
 
-[17](#footnote-30240-17-backlink) Potíže, trápení. Pozn. red.
+[^17]: Potíže, trápení. Pozn. red.
 
-[18](#footnote-30240-18-backlink) Pátá třída (nejvyšší třída nižšího stupně jezuitské školy). Pozn. red.
+[^18]: Pátá třída (nejvyšší třída nižšího stupně jezuitské školy). Pozn. red.
 
-[19](#footnote-30240-19-backlink) Sladovnická sekerka s dlouhým topůrkem. Pozn. red.
+[^19]: Sladovnická sekerka s dlouhým topůrkem. Pozn. red.
 
-[20](#footnote-30240-20-backlink) Majitel domu s právem vařit pivo. Pozn. red.
+[^20]: Majitel domu s právem vařit pivo. Pozn. red.
 
-[21](#footnote-30240-21-backlink) Členové soudu rozhodujícího dlužní pře. Pozn. red.
+[^21]: Členové soudu rozhodujícího dlužní pře. Pozn. red.
 
-[22](#footnote-30240-22-backlink) Krinolína. Pozn. red.
+[^22]: Krinolína. Pozn. red.

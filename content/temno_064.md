@@ -20,7 +20,7 @@ Dvířka komory se otevřela; zardělé světlo kahanu, jejž držel v ruce sta
 
 Vinař otevřel a do boudy vstoupil nevelký hubený muž v třírohém klobouku, za ním pak větší a hřmotnější v čepici, dle obleku „polní mistr“, ovčák. Vinař jim podal mlčky ruku a vedl je, zavřev opět dveře, do komory.
 
-V nízké jizbě, na jejíchž stěnách leskly se skleněné násosky ve světle hořící louče zaražené do dřevěného černého svícnu a visely čerpy[62](#footnote-30240-62) a nálevky, byla nevelká společnost: na lavici vinařova žena a její mladší syn, u stolu Vostrý a vinař ze sousední vinice. Příchozí, ten menší, švec z Libně, a ovčák, se všemi se pozdravili. Starý vinař sfouknuv kahan, postavil jej na jediné malé okno zabedněné okenicí.
+V nízké jizbě, na jejíchž stěnách leskly se skleněné násosky ve světle hořící louče zaražené do dřevěného černého svícnu a visely čerpy[^62] a nálevky, byla nevelká společnost: na lavici vinařova žena a její mladší syn, u stolu Vostrý a vinař ze sousední vinice. Příchozí, ten menší, švec z Libně, a ovčák, se všemi se pozdravili. Starý vinař sfouknuv kahan, postavil jej na jediné malé okno zabedněné okenicí.
 
 „Ale, ale, tak vítám vás,“ začal Vostrý, „a pozdrav vás bůh, že jste přišli posilnit se slovem božím.“
 
@@ -74,7 +74,7 @@ P. Mateřovský začínal opravdu gruntovně. Rozhlédnuv se jizbou zkušeným s
 
 „Novotný, mluvte pravdu,“ důrazně napomínal asesor Zatočil.
 
-„Víte přec,“ přikládal Šut a ještě ostřeji i latinou, ač vinař jí nerozuměl, „že takové tajné schůzky se pro crimine contra statum[63](#footnote-30240-63) pokládají a dle nejvyšších patentů se přísně trestají.“
+„Víte přec,“ přikládal Šut a ještě ostřeji i latinou, ač vinař jí nerozuměl, „že takové tajné schůzky se pro crimine contra statum[^63] pokládají a dle nejvyšších patentů se přísně trestají.“
 
 „A že budete tak dlouho trápen a trýzněn,“ uhodil P. Mateřovský, „až povíte pravdu a přiznáte se.“
 
@@ -148,6 +148,6 @@ Komise za chvíli odešla; spoutaný vinař kráčel před ní mezi oběma biři
 
 Ve dveřích viničné boudy stála vinařka a její syn. Hleděli za průvodem ve tmě se ztrácejícím. Syn pochmurně mlčel, stará žena plakala.
 
-[62](#footnote-30240-62-backlink) Malé vědro. Pozn. red.
+[^62]: Malé vědro. Pozn. red.
 
-[63](#footnote-30240-63-backlink) Za zločin proti platnému řádu. Pozn. red.
+[^63]: Za zločin proti platnému řádu. Pozn. red.

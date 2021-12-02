@@ -22,7 +22,7 @@ Hejtman klel, pan Lhotský se zlobil, že není možná, že jeho psi, jak by mo
 
 To byla ta příhoda, o které Matěj Čermák v Dobrušce po kostele v hospodě vypravoval, kdy ještě nebyl na Skalce správcem, a na kterou si teď vzpomněl, když viděl nádherné to řemení lesklé, mastnotou nenamazané, nýbrž stříbrem pobité. A s ouštěpkem si vzpomněl. Neměl pana regenta v lásce.
 
-Nemohlť mu zapomenout, že s novotou, kterou on, správce, po svém nastoupení zavedl, tak ostře zatočil. Správce totiž dal o své vůli, nikomu nic neohlásiv, do kanceláře, kdež visel velký krucifix pod namalovaným mladotovským znakem, vpravo vlevo u toho krucifixu zavěsit na červených pentličkách po pamfilu[9](#footnote-30240-9) a pod každou tu kartu připevnit dýmku. Dole pak pod krucifix s tou divnou ozdobou zavěsil vyobrazení lavice s nahou figurou sedláka na ní ležícího hřbetem vzhůru, kteréž figuře kanuly z očí slze surově jako vše namalované. A pod to nápis: Soudná lavice.
+Nemohlť mu zapomenout, že s novotou, kterou on, správce, po svém nastoupení zavedl, tak ostře zatočil. Správce totiž dal o své vůli, nikomu nic neohlásiv, do kanceláře, kdež visel velký krucifix pod namalovaným mladotovským znakem, vpravo vlevo u toho krucifixu zavěsit na červených pentličkách po pamfilu[^9] a pod každou tu kartu připevnit dýmku. Dole pak pod krucifix s tou divnou ozdobou zavěsil vyobrazení lavice s nahou figurou sedláka na ní ležícího hřbetem vzhůru, kteréž figuře kanuly z očí slze surově jako vše namalované. A pod to nápis: Soudná lavice.
 
 Když pan Lhotský vstoupil do kanceláře a hroznou tu ozdobu spatřil, ustrnul
 
@@ -124,4 +124,4 @@ Slečna upřela tázavě oči na zardělou, usmívající se tvář strýcovu. T
 
 „To by byl nový zázrak!“
 
-[9](#footnote-30240-9-backlink) Karetní svršek. Pozn. red.
+[^9]: Karetní svršek. Pozn. red.

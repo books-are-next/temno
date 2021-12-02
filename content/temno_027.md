@@ -4,7 +4,7 @@ title: XXI
 
 Misie, misie, všude jen o misii. Z dobrušské radnice, z vrchnostenských kancelářů rozběhly se zprávy o ní, z kazatelen ji hlásili, všude o ní mluvili, všude na opočenském panství, na skaleckém a pak, po obilním trhu dobrušském, i dále po vsích v Orlických horách. Očekávali ji jako událost a leckde také s obavami, s tajným strachem. Věděliť, že nebude jen okázalou pobožností plnou ohni­vého horlení, ale i bojem, že misionáři nepřijdou jen nadšeně kázat, ale i prohledávat a stíhat.
 
-Tak se strachovali nejvíce po vesnicích; než i v Dobrušce o tom tiše a tajeně mluvili, a budou-li misionáři knihy veřejně pálit. Jednali o tom doma v samotě koutků i za večerů na podsíních kolem náměstí, vroubeného tenkráte vesměs příbytky dřevěnými. Také to se rozneslo, že misionáři nebudou bydlet na děkanství, nýbrž že městské právo vyhledalo jim po jejich přání dvě světnice, jednu u staré Sádlové, která jim bude také vařit, tu že budou bydlit dva z těch jezovitů, a třetí u vdovy Paškálové, matky městského aktuára[34](#footnote-30240-34).
+Tak se strachovali nejvíce po vesnicích; než i v Dobrušce o tom tiše a tajeně mluvili, a budou-li misionáři knihy veřejně pálit. Jednali o tom doma v samotě koutků i za večerů na podsíních kolem náměstí, vroubeného tenkráte vesměs příbytky dřevěnými. Také to se rozneslo, že misionáři nebudou bydlet na děkanství, nýbrž že městské právo vyhledalo jim po jejich přání dvě světnice, jednu u staré Sádlové, která jim bude také vařit, tu že budou bydlit dva z těch jezovitů, a třetí u vdovy Paškálové, matky městského aktuára[^34].
 
 Tři dny před příjezdem hradeckých jezovitů začala městská správa stavět kazatelnu, ne na hřbitově u farního kostela, předloni nově dostavěného, kdež nebylo vhodné prostory, nýbrž prostřed náměstí, tenkráte ještě bez státue, poblíže zděné radnice, s kamenným schodištěm vně přistavěným a s vysokou věží. Od rána do večera tu robotil tesařský mistr se svými tovaryši, od rána do večera tu bouchaly sekery, kladiva a ozývaly se pokřiky tesařů, slušně zapíjejících dílo plné potu v úpalu červnových dní.
 
@@ -83,4 +83,4 @@ Starý Lemfeld poslechl; capal šouravými, stařeckými kroky, opíraje se o D
 
 „Bože, svatý bože! Kdypak se smiluješ!“
 
-[34](#footnote-30240-34-backlink) Soudní zapisovatel, písař. Pozn. red.
+[^34]: Soudní zapisovatel, písař. Pozn. red.

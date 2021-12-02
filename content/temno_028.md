@@ -111,7 +111,7 @@ Chtěl se jen na začátek podívat, než autorská láska mu nedala; četl dál
 _Neb mám bídu všemu lidu  
 zatracencův malovat,  
 jejich muky, ďáblův hluky  
-všem vykontrfektovat[35](#footnote-30240-35)._
+všem vykontrfektovat[^35]._
 
   
 
@@ -130,4 +130,4 @@ Ach nevím sám, kde začít mám
 
 Péro mu vypadlo, oběma dlaněma chytl se za spánky; tupá bolest, která mu ryla za očima, začala zuřivě píchat a bodat ve spáncích, v zadní části lebky. Chvilku tak seděl všechen bledý, strnulý; pak vstal a v těch mukách přešel prudkými kroky jizbu. Pojednou padl na kolena, chvatně rozpínal na prsou kleriku a vytáhl odtud malý obrázek Panny Marie Jičínské. Políbil jej, pozvedl v prstech oběma rukama jako hostii před svou tvář, zavzdychal a začal se úpěnlivě modlit.
 
-[35](#footnote-30240-35-backlink) Zobrazit. Pozn. red.
+[^35]: Zobrazit. Pozn. red.

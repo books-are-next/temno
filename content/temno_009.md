@@ -12,7 +12,7 @@ Na strýce chtěla čekat ve svém pokoji; ale jen se tu otočila, šla do kuchy
 
 Synovce byla by ráda viděla; choval se k ní šetrně, s úctou. I s jeho ženou celkem vycházela. Srdečnosti však se nedostávalo mezi oběma dámami. Paní Mladotka, o hodně mladší než slečna Mladotovna, byla z rodu hrabat Goltzů, Němkyně. Francouzsky mluvila plynně, nevalně česky. A slečna Mladotovna, jejíž matka německy neuměla, tak jako slečnina zesnulá švagrová, matka panujícího teď Mladoty, rodem Kordulová ze Sloupna, jen chatrně hovořila německy, a proto nerada. A francouzsky neuměla.
 
-Ta neznalost řeči vadila; nebylo však jen o to. Stará slečna, jež v tom zákoutí nevalně si hleděla velkého světa a módy, zato víc hospodářství, která širokého rajfroku[6](#footnote-30240-6) zvonového na sebe nevzala, ani když se nejslavnostněji vystrojila, cítila, že „paní hrabinka“, dáma á la mode, hledí na ni jako na bytost ze starého vydání, jakoby z jiného světa, tak trochu skoro jako na selku, že se dívá nějak povýšeně, jako se střemene na ni a na všecku Skalku; dobře viděla, že synovcova žena tu nerada bydlí, že odtud pokaždé pospíchá, že jí nevolno na starém zámečku.
+Ta neznalost řeči vadila; nebylo však jen o to. Stará slečna, jež v tom zákoutí nevalně si hleděla velkého světa a módy, zato víc hospodářství, která širokého rajfroku[^6] zvonového na sebe nevzala, ani když se nejslavnostněji vystrojila, cítila, že „paní hrabinka“, dáma á la mode, hledí na ni jako na bytost ze starého vydání, jakoby z jiného světa, tak trochu skoro jako na selku, že se dívá nějak povýšeně, jako se střemene na ni a na všecku Skalku; dobře viděla, že synovcova žena tu nerada bydlí, že odtud pokaždé pospíchá, že jí nevolno na starém zámečku.
 
 Slečna s trpkostí slyšela, když synovcova žena teď čím dál tím častěji nadhodila, takhle že to nemůže ostat, že by bylo nejlíp to staré stavení strhnout a postavit nový zámek, pěkný zámek á la mode. Tato nevážnost k starému sídlu hnětla slečnu a také to, že „paní hrabinka“ neměla žádných dětí. Ona, slečna, byla ze šestnácti, její bratr, otec panujícího Mladoty, měl tři syny a tři dcery, ale syn jeho bez dědiců. Vinna tedy jenom jeho žena. Pro koho by stavěli, pro koho by se měl zbořit starý zámek? Leda aby to pak zdědil někdo z těch Němců, z těch Goltzů. Slečna Polexina, která se na Skalce narodila a tu strávila skoro všechen svůj věk, přilnula k starému zámečku, v němž staletí přebývali Ostrovští, její předkové po přeslici, a Mladotové už v třetím koleně.
 
@@ -72,4 +72,4 @@ Helenka k ní plaše vzhlédla, okamžik váhala, pak rychle povznesla sv. Jana
 
 Dlouhé řasy jejích očí zamžikaly, a hned, bez pobízení sáhla dychtivě po pentličkách a hned také políbila Lhotskému ruku.
 
-[6](#footnote-30240-6-backlink) Krinolína. Pozn. red.
+[^6]: Krinolína. Pozn. red.

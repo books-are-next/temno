@@ -14,7 +14,7 @@ Paní Lerchová měla dva syny: z prvního manželství Rafaela Bláhu, z druh
 
 Jiřík často k ní docházel. Jednu z těch nejprvnějších návštěv za dob útlého mládí vykonal podivně vystrojen. Bylo mu asi pět let, když se ubíral k babičce přát jí, on a mladší jeho sestřička, která pak záhy zemřela; on v bílé kutně mnichů dominikánských, s černým škapulířem, sestra pak v hábu jeptišek řádu sv. Voršily, jak tenkrát začínala móda děti takto strojit na vycházky.
 
-Jiřík si živě pamatoval, jak jej doma oblékali za mnicha a nebožku sestru za jeptišku, jak matka, která si (za ofěru[23](#footnote-30240-23)) vymohla povolení k tomu v klášteřích u dominikánů i u voršilek, radostně si je prohlížela, a pantáta potěšen jak postavil maličkou jeptišku na stůl a jak jej, Jiříka, i Rézinku otáčeli, prohlíželi, celý dům, nahoře v pokoji a ještě i dole v průjezdě, jak se jim všichni obdivovali a jak pak matka a Maří děvečka je vedly sem k Pražákům a jak babičce se zakalily oči, když zhlédla mniška a roztomilou malou jeptišku, když jí oba najednou odříkávali přání a pak on sám, poněvadž Rézinka, malá jeptiška, pojednou se zajíkla, zarazila a nemohla dál. –
+Jiřík si živě pamatoval, jak jej doma oblékali za mnicha a nebožku sestru za jeptišku, jak matka, která si (za ofěru[^23]) vymohla povolení k tomu v klášteřích u dominikánů i u voršilek, radostně si je prohlížela, a pantáta potěšen jak postavil maličkou jeptišku na stůl a jak jej, Jiříka, i Rézinku otáčeli, prohlíželi, celý dům, nahoře v pokoji a ještě i dole v průjezdě, jak se jim všichni obdivovali a jak pak matka a Maří děvečka je vedly sem k Pražákům a jak babičce se zakalily oči, když zhlédla mniška a roztomilou malou jeptišku, když jí oba najednou odříkávali přání a pak on sám, poněvadž Rézinka, malá jeptiška, pojednou se zajíkla, zarazila a nemohla dál. –
 
 Pak chodíval k babičce sám o svátcích, na koledy i jen tak jako školáček, i když vstoupil do gymnázia; nejčastěji teď, co osiřel, co mu zemřela matka.
 
@@ -36,7 +36,7 @@ Jiřík měl rád ten klenutý pokojíček, který jej jako útlého chlapce tol
 
 Z krucifixu úžas i tichý záchvěv strachu; libost však a zjasnění z obrazu naproti na stěně, z jeho zahrady plné kvítí, kdež Kristus vstavší z mrtvých zjevil se Maří Magdaléně. Ježíš v tmavorudém plášti, v klobouku a před ním na kolenou mladá žena zlatovlasá, v pozadí temno stromů a křovin a za nimi obloha v prvním úsvitu ranním. Na tomto obraze, pod nímž visely dva uschlé věnečky od Božího těla, oči nechával.
 
-Ještě jednu vzácnost měl malý sklípek: skleněnou skřínku na prádelníku mosazí kovaném. V ní soška Panny Marie s Ježíškem, mezi dvěma umělými stromečky ostré zeleni a vedle ní Jezulátko voskové. Na dně akštejnový[24](#footnote-30240-24) růženec, dotýkaný, mezi dvěma voskovými sloupky, hojně ozdobenými, a modlitební knížky se stříbrnou sponou. Mezi listy té knihy několik suchých, vybledlých květů, jež přinesl nějaký poutník z Palestiny a jež paní Lerchová chystala si do rakve. Tato kvítka dojala jejího vnuka, když je jako chlapeček spatřil; vyrostlať v Jetsemanské zahradě, v těch místech, kdež Kristus za noci se modlil v úzkostech, s duší zarmoucenou až k smrti, jak o tom s pohnutím slyšel a pak i sám četl.
+Ještě jednu vzácnost měl malý sklípek: skleněnou skřínku na prádelníku mosazí kovaném. V ní soška Panny Marie s Ježíškem, mezi dvěma umělými stromečky ostré zeleni a vedle ní Jezulátko voskové. Na dně akštejnový[^24] růženec, dotýkaný, mezi dvěma voskovými sloupky, hojně ozdobenými, a modlitební knížky se stříbrnou sponou. Mezi listy té knihy několik suchých, vybledlých květů, jež přinesl nějaký poutník z Palestiny a jež paní Lerchová chystala si do rakve. Tato kvítka dojala jejího vnuka, když je jako chlapeček spatřil; vyrostlať v Jetsemanské zahradě, v těch místech, kdež Kristus za noci se modlil v úzkostech, s duší zarmoucenou až k smrti, jak o tom s pohnutím slyšel a pak i sám četl.
 
 Tu ve sklípku sedával s babičkou již jako studentík, když staré paní se zachtělo samoty a ticha, aby měla chvíli pokoj od lidí a hospodářských starostí, kdy zatoužila po onačejším slově. Jiřík jí tu čítával. Ráda poslouchala, co říkal svým ne silným, ale příjemným hlasem buď z Hájkovy kroniky, nebo ze Šteyerova díla „Zrcadlo svaté anebo Životové světic milých božích“; ráda poslouchala a přitom s tichým potěšením hleděla na útlého chlapce přibledlé jemné tváře, upírajícího oči dlouhých tmavých řas po řádcích v knize.
 
@@ -58,7 +58,7 @@ Teď tam rychle vkročil, aby nemusil slyšet babiččino přísné jednání s�
 
 Jindy byl by Jiřík sáhl po kronice. Teď stanuv u ní, ani si jí nevšiml. Zahleděl se dolů do zahrádky, kdež se svěže zelenaly keře i javor poblíž okna a kdež květin kvetlo dosud málo. Zahleděl se, zamyslil. Zatanulo mu, jak nebožka matka jej a sestru malou vodívala dolů do zahrádky, když navštívili babičku. Vtom za ním hlas úžasu. Obrátil se. Babička. Stála ve dveřích, statná stařena šedých vlasů, v čepci, šátek křížem přes ňadra, v modré zástěře, v soukenných tmavých střevících, rovnou, prostou hůl v ruce. Výrazná hlava s krátkým masitým podkrčím; tvář bez ruměnce, plná, povadlá, hnědé však oči jako mladé, s moudrostí zkušených let, přímé a bystré.
 
-„A tohle! Jiříku!“ Šla k vnukovi těžkým krokem o holi, ale nebelhajíc. „Co se stalo – Svatebčan přec, a tady ve sklípku!“ A jakoby unavena usedla u okna na vykládanou truhlu, ve které měla složeno své sváteční šatstvo. Nestrojila se už do něho a nejkrásnější a nejdražší kusy z něho určila již za dary kostelům jmenovitě damaškové manto[25](#footnote-30240-25) se stříbrnými krajkami Panně Marii škapulířové k sv. Haštalu.
+„A tohle! Jiříku!“ Šla k vnukovi těžkým krokem o holi, ale nebelhajíc. „Co se stalo – Svatebčan přec, a tady ve sklípku!“ A jakoby unavena usedla u okna na vykládanou truhlu, ve které měla složeno své sváteční šatstvo. Nestrojila se už do něho a nejkrásnější a nejdražší kusy z něho určila již za dary kostelům jmenovitě damaškové manto[^25] se stříbrnými krajkami Panně Marii škapulířové k sv. Haštalu.
 
 Jiřík teď teprve živě pocítil, že vyvedl něco divného. V rozpacích přisedl k babičce.
 
@@ -96,8 +96,8 @@ Jiřík, jenž zasmušen naslouchal, maje hlavu sklopenu, upřel, když domluvil
 
 Jiřík stržen tím vroucím projevem své babičky, vždy rázné a přísné, chytl ji, objal, mlčky, srdečně, pak se vytrhl a rychle odešel.
 
-[23](#footnote-30240-23-backlink) Milodar věřících v kostele. Pozn. red.
+[^23]: Milodar věřících v kostele. Pozn. red.
 
-[24](#footnote-30240-24-backlink) Jantarový. Pozn. red.
+[^24]: Jantarový. Pozn. red.
 
-[25](#footnote-30240-25-backlink) Pláštík. Pozn. red.
+[^25]: Pláštík. Pozn. red.

@@ -10,8 +10,9 @@ meta:
   modified: '2021-09-21T14:06:26.874Z'
   languageCode: cs
   subtitle: Historický obraz
-chapters:
-  - temno_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - temno_002.html
   - temno_007.html
   - temno_008.html
@@ -89,6 +90,7 @@ chapters:
   - temno_080.html
   - temno_081.html
   - temno_082.html
+  - colophon.html
 tocBase:
   - link: temno_007.html
     title: I
@@ -248,5 +250,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

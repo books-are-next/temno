@@ -10,7 +10,7 @@ Zvědělť u paní Lerchové zevrubně o Tomášově útěku, o predikantu ž
 
 Celou cestu myslil na Machovcovy děti a také pak, když prošed klementinskými nádvořími, vstoupil do koleje a bral se předlouhou chodbou nevalně osvětlenou visutou svítilnou, když kráčel kolem řady dveří ke svému pokojíku. Nežli tam došel, zastavil se u jedněch, u bytu P. Mateřovského, „hradeckého“, který vedl výpravu do vinice Kantůrky. Než dveře zavřeny, páter nebyl doma. P. Daniel vešel do sousedního pokoje, v němž přebýval druhý Mateřovský, „pražský“.
 
-Zastal jej čtoucího u stolu, na němž hořely dvě svíce. Pražský Mateřovský v černé sutáně, černou sametovou čepičku na hlavě, silně podobný svému bratru, měl v rukou rukopisný sešit, „Breviarium politicorum secundum rubricas Mazarinicas“. Právě se zamyslil nad řádky: „Haec quinque prae oculis habe, nempe: I. Simula. 2. Dissimula. 3. Nulli crede. 4. Omnia lauda. 5. Vide, quid agas –“[65](#footnote-30240-65), když vešel P. Daniel. Krátkozraký bělovlasý kněz mžouraje nepostřehl, že Mateřovský stáhl mrzutě husté černé obočí a že nerad odkládal svůj sešit. Položil jej za knihu patrně novou nebo alespoň nově svázanou, dosti hrubou, s červenou ořízkou. Ale když host přistoupil, uvítal jej vlídně a s úsměvem odpověděl na jeho otázku, kde je bratr, že odešel k výslechu toho starého vinaře chyceného ve vinici Kantůrce.
+Zastal jej čtoucího u stolu, na němž hořely dvě svíce. Pražský Mateřovský v černé sutáně, černou sametovou čepičku na hlavě, silně podobný svému bratru, měl v rukou rukopisný sešit, „Breviarium politicorum secundum rubricas Mazarinicas“. Právě se zamyslil nad řádky: „Haec quinque prae oculis habe, nempe: I. Simula. 2. Dissimula. 3. Nulli crede. 4. Omnia lauda. 5. Vide, quid agas –“[^65], když vešel P. Daniel. Krátkozraký bělovlasý kněz mžouraje nepostřehl, že Mateřovský stáhl mrzutě husté černé obočí a že nerad odkládal svůj sešit. Položil jej za knihu patrně novou nebo alespoň nově svázanou, dosti hrubou, s červenou ořízkou. Ale když host přistoupil, uvítal jej vlídně a s úsměvem odpověděl na jeho otázku, kde je bratr, že odešel k výslechu toho starého vinaře chyceného ve vinici Kantůrce.
 
 P. Daniel hned se chytil toho vinaře a ostře jej požehnal, když uslyšel, že nemohou nic z něho dobýt, že je zatvrzelý a lišák starý, že se nedá chytit, ze všech otázek, i těch nejlapavějších, že se umí vytočit a vykroutit. Zato přichválil P. Daniel Helenku; vypravoval o ní, že je zas u jeho sestřenice, o to děvče že pečoval hned od počátku, jak se k sestřenici dostalo, a že se mu podařilo s pomocí boží vytrhat kořínky nevěry a kacířství.
 
@@ -92,7 +92,7 @@ Hradecký Mateřovský okamžik upíral mlčky své smolné oči na bratra a je
 
 „Ne ve vinicích, ale tady, v Praze!“
 
-„Jak! Že by tu ještě byli? Byli tu, arciť jen malé hnízdo, a to se vybralo, pamatuju se, před desíti, a víc, před třinácti lety, to na ně uhodil farář ve čtvrti svatojindřišské, to tam hospodský Partáček přechovával žitavského predikanta Stránského, tuze nebezpečného kazatele, kacíře tuze smělého; bylo to ve Vajblově domě, a ten Vajbl, považ, byl radním na Novém Městě, radním povídám, a takovou nečistotu kacířskou přechovával. Ten Stránský podával v jeho domě sub utraque[66](#footnote-30240-66).“
+„Jak! Že by tu ještě byli? Byli tu, arciť jen malé hnízdo, a to se vybralo, pamatuju se, před desíti, a víc, před třinácti lety, to na ně uhodil farář ve čtvrti svatojindřišské, to tam hospodský Partáček přechovával žitavského predikanta Stránského, tuze nebezpečného kazatele, kacíře tuze smělého; bylo to ve Vajblově domě, a ten Vajbl, považ, byl radním na Novém Městě, radním povídám, a takovou nečistotu kacířskou přechovával. Ten Stránský podával v jeho domě sub utraque[^66].“
 
 „Ale komu, Pražanům?“
 
@@ -166,6 +166,6 @@ Fiala šeptal zase dál o tom, jak uprchlíci vyrazili a že nejprve chtějí 
 
 Podali si ruce. Fiala zamířil k Staroměstskému rynku, deklamátor v opačnou stranu, k sv. Jakubu. Záhy zmizeli ve tmách černé, klikaté uličky, do jejíhož ticha hrčela voda ze žlabů.
 
-[65](#footnote-30240-65-backlink) Těchto pět věcí měj před očima, totiž: 1. Přetvařuj se. 2. Zatajuj. 3. Nikomu nevěř. 4. Všechno chval. 5. Hleď, ať cokoli děláš…
+[^65]: Těchto pět věcí měj před očima, totiž: 1. Přetvařuj se. 2. Zatajuj. 3. Nikomu nevěř. 4. Všechno chval. 5. Hleď, ať cokoli děláš…
 
-[66](#footnote-30240-66-backlink) Pod obojí způsobou. Pozn. red.
+[^66]: Pod obojí způsobou. Pozn. red.

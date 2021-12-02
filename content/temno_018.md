@@ -84,10 +84,10 @@ Doráželi, ať poví.
 
 Hluk úžasu. Pan starý, dobrý padesátník, třetí rok už vdovec. Pan Vencl spustil, to že není pravda, to že by musil také něco vědět, on jako jeden písař.
 
-„Byl u toho písař,“ smál se Mariánek, „ale ne sladkovský, anobrž juris licenciát[16](#footnote-30240-16), ten pěkně smlouvu napsal.“
+„Byl u toho písař,“ smál se Mariánek, „ale ne sladkovský, anobrž juris licenciát[^16], ten pěkně smlouvu napsal.“
 
 Mluvil s takovou jistotou, že přestávali pochybovat. Tím dychtivěji pak doráželi, koho si bude pan starý brát, kdo je nevěsta. A Mariá­nek slavnostně ohlašoval:
 
 „Ctná a šlechetná panna, panna Antonie Monika rozená Vyšínová z Klarenburku.“
 
-[16](#footnote-30240-16-backlink) Kandidát doktorátu práv. Pozn. red.
+[^16]: Kandidát doktorátu práv. Pozn. red.

@@ -65,7 +65,7 @@ Za chvíli vyletěl z kafésídrova domu Lemmel Šperk bez píky, bez lucerny a
 
 Za čtvrt hodiny běželi ze strážnice na Staroměstském rynku tři vojáci, dva obecní a šedivý desátník v bílých kabátcích, těžké pušky s dlouhými bodáky v ruce, poklusem běželi do Židovského Města a s nimi Lemmel Šperk. Znali jej a on znal je, byliť od pluku Damiána svobodného pána ze Sikkingen, kterýž pluk už léta letoucí v Praze „ležel“, zpolovice se s Pražkami oženil a sousedsky s Pražany vycházel.
 
-Když se ti tři vojáci s Lemmelem Šperkem vraceli z kafésídrova domu, kráčeli mezi nimi Königsaal i Pasewi bez kordů, poškubaní, s pocuchanými parukami, bez rukavic, s roztrhanými taclemi; König­saal měl bílý krajkový „holstuch“[50](#footnote-30240-50) krví potřísněný.
+Když se ti tři vojáci s Lemmelem Šperkem vraceli z kafésídrova domu, kráčeli mezi nimi Königsaal i Pasewi bez kordů, poškubaní, s pocuchanými parukami, bez rukavic, s roztrhanými taclemi; König­saal měl bílý krajkový „holstuch“[^50] krví potřísněný.
 
 Zašli do uličky; hlučné jejich kroky, směřující k Staroměstskému náměstí, zaléhaly. Zase ticho nad Židovským Městem tmou zaklopeným; jen tu tam linul z osvětleného okna zardělý pruh do křivých uliček, bídně dlážděných nebo bez dláždění, do jejich stroužek, na jejich louže a hromady smetí.
 
@@ -110,4 +110,4 @@ sebere žebráka i krále —_
 
   
 
-[50](#footnote-30240-50-backlink) Z něm., zde: límec. Pozn. red.
+[^50]: Z něm., zde: límec. Pozn. red.

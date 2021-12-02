@@ -54,13 +54,13 @@ Ovšem, když Mariánek pohřby sháněl, věděl vždy první, kdy kdo v souse
 
 „Tak! A – a – co byste o mně napsal,“ vyhrklo nerozvážně Filečkovi.
 
-„O vás? Tohle: Desk zemských komorník, lidem půhony k soudu ohlašoval. Sám teď nejvyšším soudcem pohnán k soudu nebeskému, Ignác Fileček, nesa velký filec[13](#footnote-30240-13) plný hříchů a nepravostí.“
+„O vás? Tohle: Desk zemských komorník, lidem půhony k soudu ohlašoval. Sám teď nejvyšším soudcem pohnán k soudu nebeskému, Ignác Fileček, nesa velký filec[^13] plný hříchů a nepravostí.“
 
 Kolem stolu i vedle hlučný smích. Fileček zmaten, popuzen na Mariánka, ale i na Samečka, poněvadž se chechtal, až se ohýbal, mžikal očima, až se utrhl, a co, co o něm, o Mariánkovi, to že by napsali čistou věc.
 
 „A to vám taky povím. Tohle napíšou: Florián Mariánek, trouba, utrativ pole i dům, na stará kolena živil se vinšema k svátkům a za malé peníze byl kurátorem všech funusů.“
 
-Toto přísné sebeposouzení Filečka poněkud uchlácholilo; ale zlost na Samečka vřela v něm po celý večer. Přestal mluvit, byl nerudný, až ježatý. Mariánek se jen šklíbil a čekal, až z těch divných humorů uhodí, že Fileček šňupne Samečkovi něco mezi oči, že mu jedovatě strčí, čím jindá ho jen škádlil, že u „perkamtu“ mají víc férií než na vysokém učení, že mají férie ženné a hned nato vinné a všelijaké jiné, a kromě toho férie pořád, férie ad placitum[14](#footnote-30240-14), a že Sameček zato hned začne Filečkovi na zlost uvažovat o svém bratrstvu Panny Marie, že je vzácnější než Filečkovo Všech věrných dušiček, že privilegovaný oltář jeho, Samečkova, bratrstva u Božího těla má víc odpustků nežli privilegovaný oltář Filečkovy kongregace u sv. Ducha.
+Toto přísné sebeposouzení Filečka poněkud uchlácholilo; ale zlost na Samečka vřela v něm po celý večer. Přestal mluvit, byl nerudný, až ježatý. Mariánek se jen šklíbil a čekal, až z těch divných humorů uhodí, že Fileček šňupne Samečkovi něco mezi oči, že mu jedovatě strčí, čím jindá ho jen škádlil, že u „perkamtu“ mají víc férií než na vysokém učení, že mají férie ženné a hned nato vinné a všelijaké jiné, a kromě toho férie pořád, férie ad placitum[^14], a že Sameček zato hned začne Filečkovi na zlost uvažovat o svém bratrstvu Panny Marie, že je vzácnější než Filečkovo Všech věrných dušiček, že privilegovaný oltář jeho, Samečkova, bratrstva u Božího těla má víc odpustků nežli privilegovaný oltář Filečkovy kongregace u sv. Ducha.
 
 Ale nic. Fileček pořád nos do stolu a Sameček se varoval; ani nezavadil. Chránil se dost, ale neuchránil. Z vody pojednou šarvátka, z říční, vltavské vody, když Sameček začal vykládat, co pochytil od jednoho sladkovského, od staršího Čírtka, jenž vařil „u staré paní“. Všichni věděli a rozuměli, že Sameček myslí paní Lerchovou, nákladnici piv vaření u Pražáků poblíže sv. Haštala, matku nebožky paní Březinové.
 
@@ -68,7 +68,7 @@ Ten starší poučil Samečka, že v Moldavě řece je trojí voda, moldavská 
 
 „Hloupost,“ utrhl se zostra Fileček, jenž kloně nos nad stolem, na přítele ani nepohlédl.
 
-„Jaká hloupost!“ odrazil Sameček, zapomenuv opatrnosti. A hned sázel zostra: „Povídal to zkušený člověk starší Čírtek, a podstarší u Pražáků to taky povídal. Jaká hloupost, když to je znát i na pivě; z vody u malostranského břehu vaří se lepší bílé pivo[15](#footnote-30240-15), a tady u staro- a novoměstského břehu vaří se lepší hořké. A povídali, a taky je to zkušená věc, že zdejší hořké je lepší než na Malé Straně.“
+„Jaká hloupost!“ odrazil Sameček, zapomenuv opatrnosti. A hned sázel zostra: „Povídal to zkušený člověk starší Čírtek, a podstarší u Pražáků to taky povídal. Jaká hloupost, když to je znát i na pivě; z vody u malostranského břehu vaří se lepší bílé pivo[^15], a tady u staro- a novoměstského břehu vaří se lepší hořké. A povídali, a taky je to zkušená věc, že zdejší hořké je lepší než na Malé Straně.“
 
 „A není!“ vyrazil Fileček rozpaluje se. „U Globiců je taky dobré, anobrž lepší –“
 
@@ -130,8 +130,8 @@ A Fileček také tak:
 
 Sameček opět zpátky nahoru Koňským trhem, pak do ulice nalevo, kdež zmizel za zdí nevelkého hřbitova, rozloženého v temnu a tichu kolem kostela sv. Jindřicha.
 
-[13](#footnote-30240-13-backlink) Ranec. Pozn. red.
+[^13]: Ranec. Pozn. red.
 
-[14](#footnote-30240-14-backlink) Dle libosti. Pozn. red.
+[^14]: Dle libosti. Pozn. red.
 
-[15](#footnote-30240-15-backlink) Pivo z pšenice. Pozn. red.
+[^15]: Pivo z pšenice. Pozn. red.

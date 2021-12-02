@@ -6,7 +6,7 @@ Hubátius navrátiv se zapálil si hned svou bílou holandskou dýmčičku a za
 
   
 
-„Praenobilis domine parens honorandissime! Valde con­sternatus fui, dum hodierna posta nullas litteras super meas duplices reperui; nescio, quid sit causae. Per dominum patruelem Czizek 17 fl. rite obtinui, pro quo paterno affectu summas agens gratias, filialiter obligatus ero.[56](#footnote-30240-56) Punčochy tuto dobrý, který se jako hedbávný ponesou, dal jsem za ně 1 fl. 30 kr., neb jsou na novou módu. Nejní zapotřebí mně za ně peníze odeslati, ale pěknejch raků dvě kopy, pěknejch, neb nanicovatých mám v Praze dosti. Dva český katechismusy, menší a jeden věčí, odesílám, za ty malý přišlo 10 kr. a za velkej 12 kr., taky půl libry zázvoru, čtyry pepře, libru hřebíčku, půl květu odesílám. Můžou-li se nějaký kosi mladý dostat, ať pantáta zase nějakého pro distructione vyživí, však ať je samec, přitom žádám vo šest šátků, ne pro mne, ale pro jednoho pátera cyriáka, za které peníze odešlu, ať jsou jenom tejnky a barvy tmavý, štráfovaný celý.“
+„Praenobilis domine parens honorandissime! Valde con­sternatus fui, dum hodierna posta nullas litteras super meas duplices reperui; nescio, quid sit causae. Per dominum patruelem Czizek 17 fl. rite obtinui, pro quo paterno affectu summas agens gratias, filialiter obligatus ero.[^56] Punčochy tuto dobrý, který se jako hedbávný ponesou, dal jsem za ně 1 fl. 30 kr., neb jsou na novou módu. Nejní zapotřebí mně za ně peníze odeslati, ale pěknejch raků dvě kopy, pěknejch, neb nanicovatých mám v Praze dosti. Dva český katechismusy, menší a jeden věčí, odesílám, za ty malý přišlo 10 kr. a za velkej 12 kr., taky půl libry zázvoru, čtyry pepře, libru hřebíčku, půl květu odesílám. Můžou-li se nějaký kosi mladý dostat, ať pantáta zase nějakého pro distructione vyživí, však ať je samec, přitom žádám vo šest šátků, ne pro mne, ale pro jednoho pátera cyriáka, za které peníze odešlu, ať jsou jenom tejnky a barvy tmavý, štráfovaný celý.“
 
   
 
@@ -14,11 +14,11 @@ Vzal pero a psal dále:
 
   
 
-„Peto informari, utrum quattuor poma citrina et tabaca obtenta sint.[57](#footnote-30240-57) Ostatně odtud nic nového nepřipadá. Žádám, aby pantáta mně avisi dal, zdali forman všecko odvedl a nepřijde-li rakařka spíš nežli jindy, což když očekávati budu, se poroučím a zůstávám praenobilis domini parentis oboedientissimus filius[58](#footnote-30240-58)
+„Peto informari, utrum quattuor poma citrina et tabaca obtenta sint.[^57] Ostatně odtud nic nového nepřipadá. Žádám, aby pantáta mně avisi dal, zdali forman všecko odvedl a nepřijde-li rakařka spíš nežli jindy, což když očekávati budu, se poroučím a zůstávám praenobilis domini parentis oboedientissimus filius[^58]
 
 Fr. Hubátius.“
 
-Položil pero, ale hned se ho zase chopil a připsal doušku: „Panu poštmistrovi a paní mě co nejpěknějc poroučeti žádám a že ty věci, který k expedýrování mám, aby se nestarali o ně, neb že vidí, že jejich služebník jsem.“ Složil psaní, zapečetil a začal psát adresu: „Monsieur, Monsieur Georg Joseph Adalbert Hubatius, syndique de la Ville royal Tábor –“ Vtom někdo zaklepal na dveře. Hubátius chvatně dopsal „pr. à Tábor“[59](#footnote-30240-59) a vstal.
+Položil pero, ale hned se ho zase chopil a připsal doušku: „Panu poštmistrovi a paní mě co nejpěknějc poroučeti žádám a že ty věci, který k expedýrování mám, aby se nestarali o ně, neb že vidí, že jejich služebník jsem.“ Složil psaní, zapečetil a začal psát adresu: „Monsieur, Monsieur Georg Joseph Adalbert Hubatius, syndique de la Ville royal Tábor –“ Vtom někdo zaklepal na dveře. Hubátius chvatně dopsal „pr. à Tábor“[^59] a vstal.
 
 Nějaký myslivec vstoupil, dobrý šedesátník, dlouhých vlasů pro­šedlých, za uši sčesaných, v tmavošedém kabátě, širokých zelených výložků, tesák u pasu, v koženkách a holínkových botách. Nesl nějaký balík. Hubátius byl překvapen myslivcem, ale ještě více tím, že je tak podoben deklamátorovi. Byl sice o něco větší, silnější a osmahlý, ale v tváři jaká podoba! Ty oči, zrovna tak pěkně modré jako deklamátorovy, jenže ne tak vlídně usmívavé. Hleděly vážně, skoro zasmušile. A hlubší hlas měl. Ptal se na deklamátora, že jest u něho zavřeno, neví-li pán, kdy přijde, on že jest jeho bratr.
 
@@ -88,10 +88,10 @@ Deklamátor vzhlédl k němu tázavě.
 
 „A tatík, jejich tatík, kdybys ho, bratře, znal, jak ten je, jako skála pevný, hrdina. Jinší hrdina nežli já,“ chmurně a prudce vyrazil myslivec. „Ó jak, bratře, lituju, co jsem udělal! Och, lituju, svědomí nedá pokoje. A kdyby dnes –,“ stanul proti deklamátorovi a vzpřímiv se jako by sliboval, „kdyby mne dnes chytli, věř, neodvolal bych, a kdyby mne na místě vyhnali a třeba sebevíc hrozili a trápili, ne, bratře, nepovolil bych –“
 
-[56](#footnote-30240-56-backlink) Vysoce urozený a nejctihodnější pane otče! Byl jsem velmi znepokojen, když jsem dodnes nedostal žádnou odpověď na své dva dopisy; nevím, co je toho příčinou. Po panu strýci Čížkovi jsem správně obdržel 17 zlatých, za kteroužto otcovskou náklonnost vzdávám tisíceré díky a budu synovsky zavázán. Pozn. red.
+[^56]: Vysoce urozený a nejctihodnější pane otče! Byl jsem velmi znepokojen, když jsem dodnes nedostal žádnou odpověď na své dva dopisy; nevím, co je toho příčinou. Po panu strýci Čížkovi jsem správně obdržel 17 zlatých, za kteroužto otcovskou náklonnost vzdávám tisíceré díky a budu synovsky zavázán. Pozn. red.
 
-[57](#footnote-30240-57-backlink) Prosím o zprávu, zda jste obdrželi čtyři citróny a tabák. Pozn. red.
+[^57]: Prosím o zprávu, zda jste obdrželi čtyři citróny a tabák. Pozn. red.
 
-[58](#footnote-30240-58-backlink) Vysoce urozeného pana otce nejposlušnější syn. Pozn. red.
+[^58]: Vysoce urozeného pana otce nejposlušnější syn. Pozn. red.
 
-[59](#footnote-30240-59-backlink) Zkr. „prendre“, tj. vzít do Tábora. Pozn. red.
+[^59]: Zkr. „prendre“, tj. vzít do Tábora. Pozn. red.

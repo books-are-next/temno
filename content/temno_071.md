@@ -19,7 +19,7 @@ třebas celý týden._
 
   
 
-To chasa sladovnická začala koledu; již se hrnula, zpívajíc, svátečně oděná, většinou v zelených kamizolách, v holínkových botách, do velkého pokoje, kdež se u dveří do půlkola postavila. V čele podstarší s ferulí v ruce, hvozda[68](#footnote-30240-68) s pytlem, za ním dva vodáci, jeden s kropidlem, druhý s miskou, na níž na řeřavém uhlí vonně dýmalo kadidlo, mládek, jenž si rozpačitě přihlazoval vlasy; sladomel vedle něho s lopatkou v ruce zapomínal zpívat, jak si zvědavě prohlížel bohatě vypravený stůl, pány v parukách a paní vystrojené. Zato plněji tři chlapci, z nichž jeden držel koště v rukou, vyrazili jasnými svými hlasy do sboru hlubokých, vysmolených:
+To chasa sladovnická začala koledu; již se hrnula, zpívajíc, svátečně oděná, většinou v zelených kamizolách, v holínkových botách, do velkého pokoje, kdež se u dveří do půlkola postavila. V čele podstarší s ferulí v ruce, hvozda[^68] s pytlem, za ním dva vodáci, jeden s kropidlem, druhý s miskou, na níž na řeřavém uhlí vonně dýmalo kadidlo, mládek, jenž si rozpačitě přihlazoval vlasy; sladomel vedle něho s lopatkou v ruce zapomínal zpívat, jak si zvědavě prohlížel bohatě vypravený stůl, pány v parukách a paní vystrojené. Zato plněji tři chlapci, z nichž jeden držel koště v rukou, vyrazili jasnými svými hlasy do sboru hlubokých, vysmolených:
 
   
 
@@ -180,4 +180,4 @@ P. Mateřovský, „pražský“, šel k strýci; vrátil se asi za hodinu, ne 
 
 „Skonal nezaopatřen, nesmířen,“ P. Mateřovský „hradecký“ řekl to tvrdě, „skonal v herezi. Ta měla hluboké kořeny.“
 
-[68](#footnote-30240-68-backlink) Sušič sladu. Pozn. red.
+[^68]: Sušič sladu. Pozn. red.

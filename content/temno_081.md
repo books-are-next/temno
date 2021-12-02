@@ -60,7 +60,7 @@ Za magistráty učenost, vysoké učení, černě odění profesoři s bělostn
 
 Fileček povzdechoval „Jezus, Jezus“ to že je, ti že se pronesou, a štěstí že není vítr, jinak, při větru že by nebylo možná, kdepak, a i teď jaká tíže, aby se podívali, jak ti nosiči jsou červení, jak těžko jdou, jak se korouhev třese.
 
-A již nová podívaná, nová hudba, té chvíle tichá, a za ní sbor zpěváků. Ten zpíval; za ním blížil se zástup alumnů[76](#footnote-30240-76) prostovlasých, v bělostných rochetách, každý s hořící svíčkou v ruce. Průvod vpředu nějak vázl, alumnové se na chvilku zastavili. Mariánek mlčel, dychtivě však přehlížel jejich řady, jako by někoho hledal. Náhle sebou trhl a tlumeně volal:
+A již nová podívaná, nová hudba, té chvíle tichá, a za ní sbor zpěváků. Ten zpíval; za ním blížil se zástup alumnů[^76] prostovlasých, v bělostných rochetách, každý s hořící svíčkou v ruce. Průvod vpředu nějak vázl, alumnové se na chvilku zastavili. Mariánek mlčel, dychtivě však přehlížel jejich řady, jako by někoho hledal. Náhle sebou trhl a tlumeně volal:
 
 „Podívejte se, hleďte, vidíte, tamhle v druhé řadě, ten poslední, znáte-li ho –“
 
@@ -78,7 +78,7 @@ A již nová podívaná, nová hudba, té chvíle tichá, a za ní sbor zpěv�
 
 A konec. První řada alumnů se hnula, vykročila, ostatní za ní. Bílý mrak rochet zmizel a ti v okně hned zapomněli na Jiříka, na alumny, jak se blížil jiný zástup skvělejší barvami, třpytem zlatých port a krumplování na těžkých pluviálech. Pražští faráři přecházeli kolem okna a za nimi šest kněží nesoucích na nosítkách červeným suknem zastřených vyzdobenou sochu sv. Jana v životní velikosti.
 
-Proud průvodu neměl konce a rozvíjel se čím dále tím pestřeji, leskleji, nádherněji, jak se v něm brali konzistorní radové, preláti Království českého, kanovníci, hradecký a litoměřický biskup, všichni v infulích[77](#footnote-30240-77), ve skvostných pluviálech, zlaté, blýsknavé kříže na zlatých řetězích na prsou, shluk vysokých infulí, bílých, brokátových na hlavách tváří většinou rumných a ducatých. Za nimi, nad nimi nejvýše infule primasa království, pražského arcibiskupa hraběte Kuenburka v nádherném pluviálu. Vznášel se, stařec osmdesátiletý, vetchý, bělovlasý, na nosítkách nesených služebníky pestře oděnými a premovanými. Seděl nahrben, drže v rukou relikviář z křišťálu a zlata, vyzdobený drahým kamením, chovající jazyk nového světce.
+Proud průvodu neměl konce a rozvíjel se čím dále tím pestřeji, leskleji, nádherněji, jak se v něm brali konzistorní radové, preláti Království českého, kanovníci, hradecký a litoměřický biskup, všichni v infulích[^77], ve skvostných pluviálech, zlaté, blýsknavé kříže na zlatých řetězích na prsou, shluk vysokých infulí, bílých, brokátových na hlavách tváří většinou rumných a ducatých. Za nimi, nad nimi nejvýše infule primasa království, pražského arcibiskupa hraběte Kuenburka v nádherném pluviálu. Vznášel se, stařec osmdesátiletý, vetchý, bělovlasý, na nosítkách nesených služebníky pestře oděnými a premovanými. Seděl nahrben, drže v rukou relikviář z křišťálu a zlata, vyzdobený drahým kamením, chovající jazyk nového světce.
 
 Mariánek i Fileček a Sameček pokřižovali se, mlčíce v obdivu a úctě; až pak se ozvali, když za arcibiskupem zjevil se skvělý zástup: královští místodržící, zemští vysocí úředníci, každý s voskovou planoucí pochodní v ruce, šlechta z celé české koruny, panstvo mladé i staré, všichni v drahých parukách grand in-folio, v aksamitových, hedvábných kabátech odstávajících šosů, tmavých i jasných barev, jež se na prsou ztrácely v nákladném vyšívání.
 
@@ -98,7 +98,7 @@ P. Koniáš dotkl se jeho ruky.
 
 P. Daniel vyjasniv pohled, přikyvoval usmívaje se a přisvědčoval:
 
-„Tak, tak, bude zase jako za Karla IV. A Praha, Praha,“ přimhouřil oči a pohleděl dolů na město nádherně rozložené a vyzářené, „ta zas bude a už je civitas devotissima[78](#footnote-30240-78), civitas devotissima.“
+„Tak, tak, bude zase jako za Karla IV. A Praha, Praha,“ přimhouřil oči a pohleděl dolů na město nádherně rozložené a vyzářené, „ta zas bude a už je civitas devotissima[^78], civitas devotissima.“
 
 „Až na toho Šporka hraběte a jeho frajmaury,“ uštípl P. Mateřovský „pražský“, „těm nesvítí pět hvězd sv. Jana Nepomuckého, ale tři blikavé hvězdičky jejich lóže.“
 
@@ -126,8 +126,8 @@ Když se pak z vinice vraceli, když stoupali stezkou dolů, kráčel Jiří po
 
 Srdce ho prudčeji zabolelo.
 
-[76](#footnote-30240-76-backlink) Seminarista. Pozn. red.
+[^76]: Seminarista. Pozn. red.
 
-[77](#footnote-30240-77-backlink) Mitra, vysoká biskupská čepice. Pozn. red.
+[^77]: Mitra, vysoká biskupská čepice. Pozn. red.
 
-[78](#footnote-30240-78-backlink) Nejoddanější obec, město. Pozn. red.
+[^78]: Nejoddanější obec, město. Pozn. red.

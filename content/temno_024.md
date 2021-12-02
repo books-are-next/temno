@@ -52,7 +52,7 @@ Helenka rychle zatáhla plátěnou bílou záclonu. Vcházel Moc v tmavém plá
 
 Stará Klancová viděla jenom kazatele; jen na něm tkvěly její oči. Byla dojata jeho příchodem, jeho zvláštní návštěvou, i vzrušena pomyšlením, že jí přináší večeři Páně. Chtěla povstati, ale mohla jen vztáhnouti k němu své ruce. Moc se s ní srdečně pozdravil, pak i s ostatními. Uvítali jej, ale nezůstali. Sednička jim nestačila, a pak mělo v posvátnou chvíli být v ní volno. Hospodář vyšel rychle na síň zavřít branku i hořejší polovici dveří. Vrátil se, ale již nevkročil do sedničky, nýbrž zůstal, jakož i selka i hosté z hor, u dveří a v nich. Když také Helenka s Tomášem chtěli vyjít, zadržela je babička, aby zůstali, aby byli s ní. Zatím kantor Tauc nakrájel z bochníku několik „rybiček“, tenké, čtverhranné kousky střídy bez kůrky, jež položil na talíř, a ustoupil ke dveřím.
 
-Sednička stala se pojednou svatyní. Kazatel sdělal plášť, vyňal z torby, kterou pod ním nesl, nevelkou, ale silnou knihu, agendu, cínovou paténu[33](#footnote-30240-33) a prostý kalich cínový, položil a postavil vše na stůl bělostným ubrusem zastřený. Stařena majíc ruce sepjaty, sledovala každé jeho hnutí. Šedé její přísné oči oživly leskem vzrušení a zbožného pohnutí.
+Sednička stala se pojednou svatyní. Kazatel sdělal plášť, vyňal z torby, kterou pod ním nesl, nevelkou, ale silnou knihu, agendu, cínovou paténu[^33] a prostý kalich cínový, položil a postavil vše na stůl bělostným ubrusem zastřený. Stařena majíc ruce sepjaty, sledovala každé jeho hnutí. Šedé její přísné oči oživly leskem vzrušení a zbožného pohnutí.
 
 Kazatel, stoje u stolu tváří k ní, zanotoval neplným hlasem: „Již se všecko vyplnilo.“ Kantor Tauc hned vpadl a za ním všichni ve dveřích a u nich a v sedničce Tomáš s Helenkou; i stařenin vetchý, třesoucí se hlas ozval se v malém tom sboru, jenž nezvučel zplna a jasně, nýbrž ztlumeně, zaraženě, aby nepronikal za stěny ven.
 
@@ -82,4 +82,4 @@ A v ten okamžik vyhrkly stařeně zpod víček slzy – Helenka ucítila sv�
 
 Kazatel poklekl a poklekli všichni a říkali modlitbu na poděkování. Helenka sepjala ruce, ale nemodlila se, ač do hloubi duše své nábožně dojata. Hleděla na babičku, která bledší a jako bělejší seděla za stolem nehnutě, s očima přivřenýma. Na lících se jí leskly stopy radostných slz; a tvář všecka zjasněna výrazem pokory, tiché blaženosti a zbožného vytržení.
 
-[33](#footnote-30240-33-backlink) Miska na hostii. Pozn. red.
+[^33]: Miska na hostii. Pozn. red.

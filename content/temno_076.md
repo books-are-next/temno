@@ -68,7 +68,7 @@ Deklamátor teď dlaní už mávl, a prudce.
 
 „Proces není ještě u konce.“
 
-„Je, je, lata et publicata sententia[70](#footnote-30240-70).“ Řekl to trpce, s bolestným úsměškem. „Slavná apelací si přispíšila.“ Pojednou přistoupiv až k samému Hubátiovi, řekl temným hlasem, chvějícím se hlubokým vzrušením: „Jste jurista, co byste řekl. Slyšel jste, viďte, slyšel jste, proč můj bratr – Víte, jaký zločin,“ deklamátor se chvěl, „že nechtěl zapřít své mínění, potlačit své svědomí, za to smrt, smrt, poprava, a pak, pak tělo spálit,“ to temně, prudce vyrazil, „tohle slavná apelací, slyšíte,“ a chytl Hubátia za rukáv, „to je spravedlnost, svatá spravedlnost!“ Pojednou se otočil a zaťatou pěstí zahrozil mlčky, bled; jeho modré oči, jindá dobré, usmívavé, sršely hněvem a záští.
+„Je, je, lata et publicata sententia[^70].“ Řekl to trpce, s bolestným úsměškem. „Slavná apelací si přispíšila.“ Pojednou přistoupiv až k samému Hubátiovi, řekl temným hlasem, chvějícím se hlubokým vzrušením: „Jste jurista, co byste řekl. Slyšel jste, viďte, slyšel jste, proč můj bratr – Víte, jaký zločin,“ deklamátor se chvěl, „že nechtěl zapřít své mínění, potlačit své svědomí, za to smrt, smrt, poprava, a pak, pak tělo spálit,“ to temně, prudce vyrazil, „tohle slavná apelací, slyšíte,“ a chytl Hubátia za rukáv, „to je spravedlnost, svatá spravedlnost!“ Pojednou se otočil a zaťatou pěstí zahrozil mlčky, bled; jeho modré oči, jindá dobré, usmívavé, sršely hněvem a záští.
 
 Hubátiovi bylo ho líto, ale také se zalekl a ohlédl, neposlouchá-li ještě někdo jiný, když deklamátor vášnivě rozkládal dál:
 
@@ -88,7 +88,7 @@ Když dole v prostorné síni minul houfec čekající se džbány a korbely v
 
 Náhle se mu vyjasnilo, ulehčilo. Helenka tu, zbytečně se stra­choval. A teď by s ní mohl promluvit. Nerozmýšlel se, kvapně vešel za ní.
 
-Zahrádka měla do ulice zeď, v jednom boku dům U Pražáků, v druhém zeď sousedního menšího příbytku, jež neměla žádných oken. V pozadí se táhl plot, oddělující zahradu od nádvoří a jeho přístavků; husté křoviny jej zakrývaly. Všechno tu v májové, mladé zeleni, javor u domu před oknem malého sklípku, dva stromy černého bezu u zdi a vysoká houština šeříku v koutě mezi zdí a sousedním domem květy všecka obalená. Po záhoncích samý květ, aurikule[71](#footnote-30240-71), modřenec, plné chudobky bílé, červené.
+Zahrádka měla do ulice zeď, v jednom boku dům U Pražáků, v druhém zeď sousedního menšího příbytku, jež neměla žádných oken. V pozadí se táhl plot, oddělující zahradu od nádvoří a jeho přístavků; husté křoviny jej zakrývaly. Všechno tu v májové, mladé zeleni, javor u domu před oknem malého sklípku, dva stromy černého bezu u zdi a vysoká houština šeříku v koutě mezi zdí a sousedním domem květy všecka obalená. Po záhoncích samý květ, aurikule[^71], modřenec, plné chudobky bílé, červené.
 
 Jiří mžikem se rozhlédl. Helenka sama. Sbírala na lavičce pod kvetoucím šeříkem šití, které si tu zapomněla. Písek zachrustěl, stín padl na bělostné vinutí a rozechvělý hlas ztlumeně ji zavolal:
 
@@ -322,6 +322,6 @@ Ta slova uhodila. Jiří bezděky ustoupil, hledě vyjeveně na otce.
 
 Ve velkém pokoji vztyčil se Jiří v prudkém odporu; ale když se vrátil do svého pokojíčku, sklesl jako bez vlády zmožen strašným pomyšlením, že Helenky snad už ani víckrát neuvidí, a dal se do pláče –
 
-[70](#footnote-30240-70-backlink) Rozhodnutí bylo vyneseno a zveřejněno. Pozn. red.
+[^70]: Rozhodnutí bylo vyneseno a zveřejněno. Pozn. red.
 
-[71](#footnote-30240-71-backlink) Prvosenky. Pozn. red.
+[^71]: Prvosenky. Pozn. red.

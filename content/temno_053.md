@@ -62,11 +62,11 @@ Odpoledne navštívil Jiříka otec. S potěšením slyšel, že syn si tu libu
 
 Jiřík usmáv se, spokojeně přikývl hlavou.
 
-Nazejtří měl vzkaz od babičky. P. Daniel ho přinesl. Jiřík sedě odpoledne na verandě na sluníčku, zahlédl mezi révovím jeho bílou hlavu. Starý kněz, maje klobouk v ruce, zvolna stoupal vinicí nahoru; hned zapomněl na únavu, když uviděl Jiříka. Usedl vedle něho, hladil mu přepadlou tvář i hubené bílé ruce a těšil jej, že tady, na zdravém povětří, procul negotiis[52](#footnote-30240-52), se spraví, jen aby se šetřil, to že mu babička vzkazuje, a doktor Globic žádá, aby nic nedělal, nic nečetl. A ví-li, vzpomněl, slyšel-li o tom židovi, jenž se rouhal sv. Janu Nepomuckému.
+Nazejtří měl vzkaz od babičky. P. Daniel ho přinesl. Jiřík sedě odpoledne na verandě na sluníčku, zahlédl mezi révovím jeho bílou hlavu. Starý kněz, maje klobouk v ruce, zvolna stoupal vinicí nahoru; hned zapomněl na únavu, když uviděl Jiříka. Usedl vedle něho, hladil mu přepadlou tvář i hubené bílé ruce a těšil jej, že tady, na zdravém povětří, procul negotiis[^52], se spraví, jen aby se šetřil, to že mu babička vzkazuje, a doktor Globic žádá, aby nic nedělal, nic nečetl. A ví-li, vzpomněl, slyšel-li o tom židovi, jenž se rouhal sv. Janu Nepomuckému.
 
 Jiřík nevěděl, ale zvěděl teď o Frešlovi, a také to, že ten žid dosud sedí v staroměstské šatlavě, že jej už kolikrát mučili, ale nic z něho dosud nedobyli, že tvrdošíjně zapírá a nechce se přiznat. Jiřík poslouchal mlčky. Jindá by se byl tím činem popudil; dnes jej to tížilo a bylo mu nevolno. P. Daniel toho nepostřehl; horlivě mu vypravoval a nadto pak ještě vzpomněl na kutnohorského měšťana a kupce Fellmanna, o kterém mu loni na podzim pověděl, jak se také rouhal sv. Janu Nepomuckému, ten že od té doby seděl v těžkém arestu, že o něm jednali také u apelačního soudu v Praze, ale než se to dojednalo, že ten nevěrec a rouhač bídně dokonal, teď, těchhle dnů, v žaláři že duši pustil, bez pokání, zatvrzelý, v smrtelném hříchu. Vtom starý jezovita přestal, a mžouraje očima, kvapně se nahnul k Jiříkovi, jenž sklesl do křesla a zavřel oči.
 
-Veseleji bylo, když pozejtří přišel Hubátius. Přinesl samé rozmarné příhody a radost zněla z jeho srdečného smíchu. Také o hudbě mnoho věděl; vypravoval o letošní muzice na šífech, o starém Brixim, že opět měl nové opus, že je hráli zase cum applausu[53](#footnote-30240-53), to že bylo plácání, a minulou neděli jak se producírovali, že hráli u cyriáků v kostele po požehnání a zase nové opus, jež složil pan Garaffe, to že je muž virtuosus, že hráli jeho Oratorium seu Operettam de vita sancti Joannis Nepomuceni, že začali po požehnání a že to trvalo až do sedmi hodin.
+Veseleji bylo, když pozejtří přišel Hubátius. Přinesl samé rozmarné příhody a radost zněla z jeho srdečného smíchu. Také o hudbě mnoho věděl; vypravoval o letošní muzice na šífech, o starém Brixim, že opět měl nové opus, že je hráli zase cum applausu[^53], to že bylo plácání, a minulou neděli jak se producírovali, že hráli u cyriáků v kostele po požehnání a zase nové opus, jež složil pan Garaffe, to že je muž virtuosus, že hráli jeho Oratorium seu Operettam de vita sancti Joannis Nepomuceni, že začali po požehnání a že to trvalo až do sedmi hodin.
 
 „A co pan deklamátor?“ vzpomněl Jiřík.
 
@@ -82,7 +82,7 @@ Jiřík záhy začal neposlouchati rad P. Daniela i své babičky. Unavovalo je
 
 Byly však chvíle, kdy nechával vysněného světa, kdy schvacovaly jej tesknota a touha; tu zacházel do starého domu U Pražáků. Taky na vinici netísnily ho úvahy o víře, že Helenka je z kacířského rodu; teď jen toužil ji spatřit. Věčností se mu zdálo, co ji neviděl. A nemohl o ní pohovořit, leda se jen kradí a jako mimochodem zmínit, když Tomáš přišel. Už to jej těšilo, a proto rád vítal mladého vinaře, i proto, že mu svou tváří připomínal Helenku. –
 
-Druhého pátku, co Jiřík meškal na vinici, dověděl se od pantáty, že se zítra sem přestěhuje panímáma, aby se zotavila po dlouhé, těžké nemoci. Jiřík se těšil na macechu. Hned od časného jitra ji očekával. Přišli nosiči, kteří dopravili sem peřiny, truhlu s vinutím[54](#footnote-30240-54) a šatstvem. Od nich zvěděl, že paní stará přibude později, před polednem, zatím že se tu všechno urovná a přichystá. Vyšel ze stavení a usedl pod dub. Vzal si knihu s sebou, ale nechal ji na lavičce, jak se zahleděl po vinicích a okolí, vyzářených krásným červnovým jitrem. Svěží vánek vál, listí v koruně dubu zticha šelestilo. Zraky Jiříkovy těkaly, až pak náhle utkvěly na stezce vedoucí vinicí nahoru k lusthauzu.
+Druhého pátku, co Jiřík meškal na vinici, dověděl se od pantáty, že se zítra sem přestěhuje panímáma, aby se zotavila po dlouhé, těžké nemoci. Jiřík se těšil na macechu. Hned od časného jitra ji očekával. Přišli nosiči, kteří dopravili sem peřiny, truhlu s vinutím[^54] a šatstvem. Od nich zvěděl, že paní stará přibude později, před polednem, zatím že se tu všechno urovná a přichystá. Vyšel ze stavení a usedl pod dub. Vzal si knihu s sebou, ale nechal ji na lavičce, jak se zahleděl po vinicích a okolí, vyzářených krásným červnovým jitrem. Svěží vánek vál, listí v koruně dubu zticha šelestilo. Zraky Jiříkovy těkaly, až pak náhle utkvěly na stezce vedoucí vinicí nahoru k lusthauzu.
 
 Rychlým krokem, s pochýlenou tváří, sledující cestu a schůdky z břeven místem v cestě zdělané, svižně stoupalo děvče, ne vinařské, ale po městsku oblečené, s pentlíkem ve vlasech, ve světlém kvítkovaném kabátku s rukávy po lokte. Na okamžik mu zmizelo pod schody terasy, vtom už se po nich překmitla a stanula na posledním stupni dychtivě vyhlížejíc a pozorujíc lusthauz dále nalevo před ní. Jiříkovi se zachvěla kolena. Helenka! S úžasem hleděl na ni jako na zjevení. Neviděla ho, chtěla jíti dále do stavení.
 
@@ -122,8 +122,8 @@ Jiřík pozdravil matku hned u schodů terasy. Vítal ji srdečně, s patrným
 
 Dojat políbil jí vroucně ruku. Ani nevěděl, že v tom pohnutí byl i záchvěv bezděčné vděčnosti za Helenku.
 
-[52](#footnote-30240-52-backlink) Vzdálen ruchu světa, prost starostí. Pozn. red.
+[^52]: Vzdálen ruchu světa, prost starostí. Pozn. red.
 
-[53](#footnote-30240-53-backlink) S potleske. Pozn. red.
+[^53]: S potleske. Pozn. red.
 
-[54](#footnote-30240-54-backlink) Prádlo. Pozn. red.
+[^54]: Prádlo. Pozn. red.

@@ -18,7 +18,7 @@ Za týden a víc po verbuňku překvapil stůl blíženců novinou, že Marka b
 
 „Vy ho znáte?“
 
-„A dobře. Ten byl už rybářem, když Švejdové oblehali Staré Město, to už tenkrát lovil v Moldavě ryby a prodával je Švejdům, a pěkně za hotové, protože měl salvaguardu[47](#footnote-30240-47). O tom, milý pane Samečku, nebudu psát nic, ten mne ještě přečká.“
+„A dobře. Ten byl už rybářem, když Švejdové oblehali Staré Město, to už tenkrát lovil v Moldavě ryby a prodával je Švejdům, a pěkně za hotové, protože měl salvaguardu[^47]. O tom, milý pane Samečku, nebudu psát nic, ten mne ještě přečká.“
 
 „Tak o staré paní Turkové, ta prý také pamatuje Švejdy.“
 
@@ -76,4 +76,4 @@ Jiřík teď k babičce tak často nedocházel jako o prázdninách. Za první
 
 „Takhle by se zdálo, že nic, že je katolička; nic není pozorovat, kříž dělá, růženec se umí modlit, všecko. Ale těm lidem není co věřit. Pan páter,“ myslila bratrance, pátera Daniela, „povídal, že je mladá a nic zarytá, takže se dá všechno ještě spravit, kořínky bludu vytrhat, to že si vezme na starost –“
 
-[47](#footnote-30240-47-backlink) Vojenská ochrana. Pozn. red.
+[^47]: Vojenská ochrana. Pozn. red.

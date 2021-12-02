@@ -122,7 +122,7 @@ Jiříkovi převanulo pomyšlení, vrátí-li se opravdu, hned však je zamítl 
 
 „Myslivec –“
 
-„– kdyby ten myslivec opravdu želel a litoval, a byl někdo, kdo by za něj in optima forma juris kavíroval[69](#footnote-30240-69) a ručil, nemusil by na smrt.“
+„– kdyby ten myslivec opravdu želel a litoval, a byl někdo, kdo by za něj in optima forma juris kavíroval[^69] a ručil, nemusil by na smrt.“
 
 „Kdyby deklamátor kavíroval –“
 
@@ -148,4 +148,4 @@ Za soumraku, za měkkého májového soumraku, vrátil se Jiří domů. Šel nej
 
 A ticho. Přísná, pronikavá slova přestala. Jiří byl sám. Stál v houst­noucím šeru dosud na témže místě ustrnulý. Tedy přišlo to, čeho se tajně obával. Otcova řeč účinkovala mocně sama sebou i připomínkou na nebožku matku. Bylo to pravda, bylo to matčiným vroucím přáním, věděl to. Tenkráte myslíval, že snadno, s radostí je splní. Ale teď – A „přišlo-li nějaké pokušení“ – Zachvěl se. Ví-li něco pantáta, nebo jen hádá – Ne, neví, sám to řekl, nemůže vědět. Ale až zví –
 
-[69](#footnote-30240-69-backlink) Byl ručitelem po právní stránce zcela vyhovujícím. Pozn. red.
+[^69]: Byl ručitelem po právní stránce zcela vyhovujícím. Pozn. red.

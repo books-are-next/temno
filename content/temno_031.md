@@ -46,7 +46,7 @@ Když správce odešel, vstal pan Lhotský a zase tak jako prve a ještě nech
 
 „Pane strejče, vám by se myslím nezachoval ať s řetězem, nebo bez řetězu.“
 
-„Protože, ech –,“ mávl rukou, „protože je to –,“ chtěl říci komedie, ale nevyslovil toho jména, aby slečna se nepohoršila; neumkl však, nýbrž ostře pokračoval: „Tenhle s řetězem, onen zas jinak. Milá Polexino, mám rád pobožnost a příkladné kázání, ale co tihle – Věříš-li, já před lety slyšel v Rychnově jednoho kázat, že jezovité jsou andělé, že nejedí, nepijí, to že se jen zdá, že jedí a pijí, a haha, viděl jsem ho pak na zámku, jak chutě polykal koroptve a bažanty a zuňkal vínečko i pivečko. Ale to všechno se jen zdálo, jejich hlavní, skutečné jídlo, jejich šau-essen[36](#footnote-30240-36) je moudrost a umělost, to také kázal, a to mu šlo asi nejvíce k duhu, po tom byl červený, buclatý.“
+„Protože, ech –,“ mávl rukou, „protože je to –,“ chtěl říci komedie, ale nevyslovil toho jména, aby slečna se nepohoršila; neumkl však, nýbrž ostře pokračoval: „Tenhle s řetězem, onen zas jinak. Milá Polexino, mám rád pobožnost a příkladné kázání, ale co tihle – Věříš-li, já před lety slyšel v Rychnově jednoho kázat, že jezovité jsou andělé, že nejedí, nepijí, to že se jen zdá, že jedí a pijí, a haha, viděl jsem ho pak na zámku, jak chutě polykal koroptve a bažanty a zuňkal vínečko i pivečko. Ale to všechno se jen zdálo, jejich hlavní, skutečné jídlo, jejich šau-essen[^36] je moudrost a umělost, to také kázal, a to mu šlo asi nejvíce k duhu, po tom byl červený, buclatý.“
 
 „Jeden nejsou všichni.“
 
@@ -110,4 +110,4 @@ Vyrazil ven.
 
 Na dvoře zmírnil krok. U zadních vrátek, vedoucích na sad a k lesu, na okamžik stanul a ohlédl se. Naposledy viděl myslivnu pod rozložitou korunou ohromného topola.
 
-[36](#footnote-30240-36-backlink) Z něm. Schauessen, tj. slavnostní hostina dávaná na odiv. Pozn. red.
+[^36]: Z něm. Schauessen, tj. slavnostní hostina dávaná na odiv. Pozn. red.
