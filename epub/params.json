@@ -47,7 +47,7 @@
         "filename": "temno_002.md",
         "xhtml": "temno_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -1536,4 +1536,3 @@
     "generatedAt": 1632237134119
   }
 }
-
