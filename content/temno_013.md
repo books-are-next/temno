@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Na Skalku občas zabloudili potulný písničkář nebo hudec, olejkář, žebravý student nebo pocestný obchodník, někdy také krajkář. Těm se tu teď za správce Čermáka valně nedařilo, zvláště pocestným obchodníkům a krajkářům. Každý z nich musil nejprve na kancelář k němu, na ostrý výslech, kdo je, odkud a kam jde, co prodává, nemá-li s sebou zapovězených knih.

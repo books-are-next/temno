@@ -1,5 +1,6 @@
 ---
 title: LIII
+contentType: prose
 ---
 
 Když sodálové dozpívali, vystoupil na Husovu kazatelnu zavalitý jezovita v bělostné rochetě a vykládal nasládlým, chvílemi tremolujícím hlasem shromážděnému bratrstvu o jeho patronce, velikomocné císařovně nebes i země, nejblahoslavenější Panně Marii, o jejím nanebevzetí a její slávě mezi kůry andělskými, o jejím svatém dvořanstvu, z něhož jmenovitě připomenul hlasem povýšeným, jakoby radostí se chvějícím, veleslavná knížata a měšťany nebeské, svaté patrony české, před bohem všech Čechů orodovníky a zástupce, svaté Cyrhu a Strachotu, svatého Václava i ostatní, zvláště však radostně Jana Nepomuckého, ač dosud nebyl vyhlášen za svatého.

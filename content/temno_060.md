@@ -1,5 +1,6 @@
 ---
 title: LIV
+contentType: prose
 ---
 
 Toho večera bylo u stolu blíženců v hospodské klenuté místnosti u Březinů jako obyčejně, jenže nejednali jako často od jara o židu Frešlovi, který máje měsíce potupil novou státui Jana Nepomuckého, postavenou před klášterem cyriáků u sv. Kříže většího, a jenž od té doby seděl v „očistci“ na Staroměstské radnici. Zapíral, když jej chytili, zapíral, když jej hodili na žebřík a mučili, a nepřiznal se ani pak, když jej nanovo vzali na skřipec a všelijak trápili.

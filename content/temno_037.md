@@ -1,5 +1,6 @@
 ---
 title: XXXI
+contentType: prose
 ---
 
 Před pěti léty začal František Hubátius, tenkráte ještě filozof, denně chodit k Březinům na Koňském trhu, ne však dolů do hospodské jizby klenuté, nýbrž do patra, do nevelkého pokoje, kdež na něj vždycky čekal Březinův nejmladší, Jiřík. Tyto návštěvy nastaly nedlouho po tom, co Jiříka přijala prima seu infima classis grammaticae seu principiorum v jezovitské koleji u sv. Klimenta.

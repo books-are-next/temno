@@ -1,5 +1,6 @@
 ---
 title: XXXVIII
+contentType: prose
 ---
 
 Hubátius řekl jednou koncem zimy Jiříkovi, že Jiřík snad už přestane k němu chodit a že se pomalu přestěhuje k panu deklamátorovi. Řekl to žertem a směje se dodal, že Jiřík ještě bude také chodit do Židů a že bude domů nosit staré špargály. Jiřík se jen usmál a odvětil, že má deklamátor nejen mnoho knih, ale že si s ním také pěkně pohovoří.

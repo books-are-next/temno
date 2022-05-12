@@ -1,5 +1,6 @@
 ---
 title: XXX
+contentType: prose
 ---
 
 V září toho roku 1725 přijeli do Prahy jízdečtí verbíři a usadili se na Koňském trhu v hospodě U zlaté husy podle Zeleného domu sládka Bernarda Palmy. Tu rozbili svůj stánek, tu vábili mladé muže, aby se dali „pod dragouny“; vábili je, lákali, mámili, aby uvěřili, „že na tej vojně, tam že „hojně“ a veselo a jaká krása sloužit na koni v dragounském mundúru a rystuňku.

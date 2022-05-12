@@ -1,5 +1,6 @@
 ---
 title: XL
+contentType: prose
 ---
 
 Po této neděli ve středu odpoledne před svátkem blahoslaveného Jana Nepomuckého zastavil se Jiřík Březina s houslemi pod paždí v domě U božího oka. Pospíchal, neboť se těšil na hudbu na lodích, které se měl poprvé účastnit. S Hubátiem si sjednal, že přijde sem a pak že se společně vydají do kostela sv. Kříže většího u cyriáků, kdež slavnost měla se začíti. V té nedočkavosti přišel o něco dříve. Hubátius nebyl ještě doma. Proto se zastavil u deklamátora Svobody. Zastal ho jak obyčejně bez paruky, v černé vlněné čepičce, s knihou v ruce. Usmívavě uvítal Jiříka, ale upřel na něj oči a na okamžik se odmlčel, když uslyšel, kam se Jiřík chystá. Pak jen řekl: „Tak, tak, musica navalis, musica aquatica.“ Když se ho Jiřík zeptal, nepůjde-li také si ji poslechnout, zakroutil hlavou a nějak s úštěpkem dodal:

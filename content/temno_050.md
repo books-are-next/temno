@@ -1,5 +1,6 @@
 ---
 title: XLIV
+contentType: prose
 ---
 
 Za čtrnáct dní poté, v sobotu za listopadového, chmurného podvečera, zastavil se Tomáš Machovcův v domě U Pražáků. Odskočil sem z Koňského trhu od Březinů, kamž z vinice přišel pro potraviny. Nedal se za Helenkou nahoru do bytu, nýbrž vzkázal jí po služce, aby přišla na okamžik dolů. Přiběhla dychtivě očekávajíc novinu z domova. Tomáš neměl žádné; Helence hned pokynul, aby šli z průjezdu ven přede dveře, a tam se jí tlumeně optal, půjde-li zítra do kostela.

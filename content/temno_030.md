@@ -1,5 +1,6 @@
 ---
 title: XXIV
+contentType: prose
 ---
 
 Na schodech k ní vynořila se nad spoustou hlav postava misionářova. P. Koniáš v černém vysokém kvadrátku na hlavě, v černém hábitě přepásaném širokým černým cingulem, stoupal vzhůru po stupních, zvolna, v ramenou přikrčen, jakoby pod nějakou tíhou.

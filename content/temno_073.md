@@ -1,5 +1,6 @@
 ---
 title: LXVII
+contentType: prose
 ---
 
 Jednou odpoledne počátkem března zašel si Jiří k Božímu oku na concertum. Hubátius rozkládaje partesy, podotkl, že budou bez auditoria.

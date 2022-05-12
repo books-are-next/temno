@@ -1,5 +1,6 @@
 ---
 title: LI
+contentType: prose
 ---
 
 Jiřík po tomto večeru nevídal Helenku častěji nežli jindy, aniž mohl s ní déle pohovořiti. Ale krátké jejich rozmluvy, někdy chvatné, byly srdečnější, slovo, pohledy prohřáty kouzlem blažícího srozumění. Než tyto jako kradené okamžiky Jiříkovi už nestačily, zvláště když se mu zdálo, že Helenka je teď ouzkostlivější a opatrnější. Nejednou se o tom zamyslil, jak by bylo možná s ní sejít se; to býval jeho sen a toho snu místo vždycky pod košatým krytem starého dubu, jenž mu byl teď ještě milejší nežli předtím. A začal už i čas počítat, že nastal srpen, že již tu asi dlouho s panímámou nebudou, a pak až se vrátí do města, co Helenka, půjde-li zase k babičce –

@@ -1,5 +1,6 @@
 ---
 title: LVI
+contentType: prose
 ---
 
 Odpoledne přijela paní Březinová. Nazejtří přibyli na vinici čtyři drvoštěpové, které pan starý poslal, aby zčásti uklidili starý dub. Jejich pila urovnala pahýl nad kořeny, řezala a svištěla v koruně, oddělujíc mohutné větve od kmene; v odříznutých blyštěly se sekery, odsekávaly menší haluze. Otepě z nich odnesli za lusthauz k plotu a tam vyrovnali z nich celý stoh.

@@ -1,5 +1,6 @@
 ---
 title: LXXI
+contentType: prose
 ---
 
 Helenka, vypuzená paní Lerchovou, utekla se do své komůrky. Plakala, raněná výčitkami staré paní. Bolestně cítila nespravedlnost té z nich, že je svodnicí; pálila však také ta, že jí připomenula, že jen z lásky k Jiříkovi neprchla a zůstala, že pro něj zapřela svou víru, opustila bratra i otce. A strach ji obcházel, že Jiří teď jistě trpí od svých a ona že musí od něho, že jí tu nenechají, že s Jiřím bude sotva moci promluvit, že ho snad už ani neuvidí. To pomyšlení bylo nejhroznější.

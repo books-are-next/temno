@@ -1,5 +1,6 @@
 ---
 title: XLI
+contentType: prose
 ---
 
 Tomáš pospíchal příští neděle k Helence ještě víc nežli jindá; bylť žádostiv, aby uslyšel, jak bylo o té svatojánské slavnosti, na kterou musila. Nadál se, že sestra bude nechutě o ní vypravovat; než nebylo tak docela. Vycítil, že se jí ta podívaná líbila i muzika a zpěv; ale také on napjatěji naslouchal, když vypravovala o sólu lesních rohů, a jak také mladý pán si na něj vzpomněl a jak jí ukázal cestu. Nakonec však řekl zasmušile, kdyby jí raději na ty kejkle nevodili, a vzpomněl starostně na domov, na otce, a cože Kiš nejede –

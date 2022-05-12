@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Rytíř Mladota ze Solopysk poslal začátkem června list, kterým svou tetu a pana Lhotského nemálo překvapil. Nepsal z Prahy, nýbrž z Karlových Var, oznamuje, že se tu na nějaký týden usadili, jak lékař jeho paní poradil, odtud že se vrátí do Prahy a pak že snad pojedou na Mašťov (mínil zámek a panství svého tchána), na Skalku že by se podívali až na podzim.

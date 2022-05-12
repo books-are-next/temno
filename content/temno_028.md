@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 Obloha za noci jasná po ránu se zaklopila hustými šedými mraky. Pozdě odpoledne začalo mžít a mžilo i zvečera. V té nepohodě přijela silnicí od Opočna svatá misie. Napřed jeli dva jezovité v širokých černých kloboucích a v tmavých pláštích, P. Mateřovský a P. Firmus, každý na hnědém koni; za nimi jejich fámulus, student, také na tmavém klusáku s dvěma vaky vpředu zavěšenými. Za tím kráčela bílá kobyla, která nesla dva jezdce. Napřed seděl jezovita, P. Antonín Koniáš, rovněž pláštěm zahalený, a za ním jeho služebník, pachole, studentek. Vpředu u sedla přivázán pytel silně nacpaný a nevelký tlumok. Kněžím nebylo dobře vidět do tváře pro široké klobouky i pro vysoké límce velikých plášťů. A smrákalo se.

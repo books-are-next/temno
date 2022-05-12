@@ -1,5 +1,6 @@
 ---
 title: LVII
+contentType: prose
 ---
 
 Téhož dne pozdě odpoledne stál „starý kníže“, strýc obou páterů Mateřovských, vysoký, hubený stařec, bez paruky, dlouhých bílých vlasů, prostřed klenuté, vybílené jizby, jež byla v přízemí nevysokého domu v uličce proti jezovitské koleji u sv. Klimenta, a volal přísně, velitelsky, hlavu vzhůru:

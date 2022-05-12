@@ -1,5 +1,6 @@
 ---
 title: XXIX
+contentType: prose
 ---
 
 Nazejtří, v pátek, loučila se svatá misie s Dobruškou. Po slavném vyzvánění všemi zvony pozdě odpoledne měl P. Mateřovský na rynku kázání. Bylo poslední, ne však závěrkou celé šestidenní činnosti hradeckých jezovitů. Ta se měla státi po kázání na hřbitově.

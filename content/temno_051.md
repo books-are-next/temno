@@ -1,5 +1,6 @@
 ---
 title: XLV
+contentType: prose
 ---
 
 Jiří po tom nakvašeném hovoru o Janu Husovi a Janu Nepomuckém nestavil se za delší čas u deklamátora Svobody. Nechtělo se mu tam, tajná nechuť mu nedala i obava, že by deklamátor snad začal zase takovou rozprávku. Ale když se s ním pak u Hubátia setkal, nic na něm nepozoroval; byl, jako předtím býval, jako by o tom hovoru nic nevěděl. A také touha po čtení se ozvala. I navštívil opět deklamátora a pak zas. Hovořili o knihách a také si zas knihy odnášel.

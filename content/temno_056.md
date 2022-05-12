@@ -1,5 +1,6 @@
 ---
 title: L
+contentType: prose
 ---
 
 Pan starý Březina odešel z vinice za soumraku. Jeho paní odebrala se po jeho odchodu do svého pokoje a unavena návštěvami záhy ulehla. Jiřík byl té chvíle ve svém bytě. Chodíval také časně spat, než toho večera neměl na spaní ani pomyšlení. Stál u okna, vyhlížel ven k verandě, neukáže-li se tam Helenka. Chtěl ještě dnes vědět, proč ji P. Daniel odvolal od stolu; bylť tím velmi znepokojen. U okna čekal už drahnou chvíli, čím dále tím neklidněji. Pak vyšel ven, nahlédl do vedlejšího příbytku. Nespatřil nikoho. Dveře kuchyně na konci chodby byly zavřeny. Domníval se, že stará kuchařka šla již spat a Helenka že je ve své světničce. Opatrně obešel stavení, podívat se na její okno. Tma v něm. Nebylo možná, usuzoval, aby již Helenka spala. Ještě více znepokojen vrátil se do svého bytu. Jen se opět u okna postavil, kmitla se kolem něho. Někam chvátala. Okamžik váhal, pak vykročil rychle ven.

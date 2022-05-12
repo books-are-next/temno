@@ -1,5 +1,6 @@
 ---
 title: XXVIII
+contentType: prose
 ---
 
 Tomáš s Helenkou byli tou chvílí zase v myslivně. Ale jak se tam vrátili! Po výslechu nepustili jich z kanceláře, aby volně odešli domů. Správce jim dal průvod, dráb je vedl. U ratejny, u stodoly, pod lipami u nádržky vody stála čeládka a dívala se v bezohledné, lačné zvědavosti na myslivcovy děti jako na chycené zločince. Ten onen, ta ona na ně i pokřikli, posměškem hodili. Helenku polilo horko, zamžívalo se jí před očima; viděla lidi, ale nerozeznala nikoho. Pod zámeckými okny sklopila oči. Dívá-li se slečna, připadlo jí, vidí-li ji takto, s drábem – Tomáš rozhořčen správcovým jednáním, pln odporu i vzdoru kráčel vztyčen, ani se neohlédnuv.

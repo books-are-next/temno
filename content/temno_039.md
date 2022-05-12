@@ -1,5 +1,6 @@
 ---
 title: XXXIII
+contentType: prose
 ---
 
 Toho večera meškaly děti myslivce Machovce již druhý den v Praze v rozlehlém domě hraběte Goltze na Staroměstském náměstí. Plné tři dny sem jely ze Skalky. Náhle, znenadání musily se na tu cestu vypravit. Od toho dne, co jezovité P. Koniáš a P. Firmus odjeli s pobranými knihami ze Skalky, zůstávaly mezi dvorskou čeládkou, Helenka mezi děvečkami, Tomáš mezi pacholky.

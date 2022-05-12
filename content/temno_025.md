@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 Luka po šíru daleku na jih od Meziříčí a na sever k Rohenicům zatemnila se nocí. Kde za dne svítila oslnivými pablesky kovově třpytná hladina hluboké tůně, tam vyhaslo, slepo v černu rákosí a sítin. Houštiny po březích říčky i v jejím oblouku ztemněly; nad nimi jako nad shlukem stanů táborových vztyčené štandáry mladých topolů až po korunku osekaných. Skupiny stromů u řeky i stará doubrava za ní rozlehly se v masu obrovitých siluet měkkých obrysů.

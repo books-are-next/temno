@@ -1,5 +1,6 @@
 ---
 title: XXXIX
+contentType: prose
 ---
 
 Toho dne pozdě večer zemřela paní Dorota Kateřina Turková z Rosenthalu, rodem Payerová z Payersberku. Zhasla ještě dříve, nežli se stará paní Lerchová nadála. Pozejtří večer byl slavný pohřeb za světla dvacíti pochodní kolem rakve, za světla voskovic, jež neslo dvanáct párů mnichů, za průvodu bratrstev v pohřebních pláštích, za hlaholu zvonů, za zpěvu a za hlasů pozounů, tak jak si to nebožka již před lety ustanovila.

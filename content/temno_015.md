@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 Pak opět uslyšel o novém světci, v říjnu, kdy vrchnost odjela do Prahy. Hned první dny po tomto odjezdu zastavil se na Skalce žebravý mnich, který loni tu byl poprvé po fráteru Marciánovi, řečenému Nedělka; rovnou zase ke správci zamířil. Byl opět jeho hostem, a když správce začal o komisí papežem povolené, fráter nejenže o ní věděl, ale také hned posloužil novinkou, že zkoumání o mučednické smrti a zázracích začne v Praze teď v zimě a že bude snadné, když se zázraky dějí ještě teď, jako nedávno.

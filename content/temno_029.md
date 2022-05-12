@@ -1,5 +1,6 @@
 ---
 title: XXIII
+contentType: prose
 ---
 
 Regentova zpráva o misii polekala Machovce až do zmatku. A ještě nová obava jej zneklidnila, zdali regent sobě nepovšiml toho jeho leknutí. V tom došel upokojení. Pan Lhotský ani slovem, ani pohledem neprojevil nějakého podezření. Tento mrak myslivcovi záhy zaběhl. Ale misie – Regent pravda řekl, že jezovité do Oujezda nepřijedou, ale budou tak blízko – Myslivci také připadlo, co řekl Vostrý tenkrát, když s ním v noci seděl dole u židovského hřbitova, že misionárusové přepadají znenadání. A pak správce –

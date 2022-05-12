@@ -1,5 +1,6 @@
 ---
 title: LXXVI
+contentType: prose
 ---
 
 Za kalného listopadového odpoledne pracoval Machovec, někdy myslivec, teď zahradník, ve velké zahradě na předměstí Žitavy města. Znenadání přišel k němu cizí muž, vysoký, hubený, kterého ochotně uvítal, když cizinec se ohlásil, že je z Prahy, Fiala soustružník, přítel nebožtíka deklamátora Svobody.

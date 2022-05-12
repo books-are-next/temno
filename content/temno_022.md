@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Jiřík domů nepospíchal. Šel volným krokem, s hlavou sklopenou. Uvažoval, že se musí tedy ve velkém pokoji zas ukázat. V tom hodlal povolit vůli své babičky. Ale jen ukázat, a ne zůstat, tak se rozhodoval, a budou-li ho vyzývat do tance, měl-li by jít mezi tanečnice, to raději zase zmizí. Vracel se nerad, a přitom temně tížilo pomyšlení na macechu, bude-li muset k ní, otec že bude toho vyžadovat.

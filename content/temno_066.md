@@ -1,5 +1,6 @@
 ---
 title: LX
+contentType: prose
 ---
 
 Jiří se pozdě probudil; jeho jizba byla již všechna sluncem vyzářena. Jen oči otevřel, připadl mu včerejší večer. Pocítil blaživé zjasnění; těše se pospíchal, aby už byl venku, aby uviděl Helenku. Nadál se, že bude s panímámou na verandě; nezastal jich však. Od staré kuchařky zvěděl, že panímáma se dává právě česat. Zůstal na verandě, usedl v koutku do křesla a čekal.

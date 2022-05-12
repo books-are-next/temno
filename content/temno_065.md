@@ -1,5 +1,6 @@
 ---
 title: LIX
+contentType: prose
 ---
 
 Paní Březinová odebrala se toho dne záhy po večeři do svého pokoje a Jiří také. Helenka pak pomáhala uklízet. Pracovala chvatně, pospíchala, lekla se však, když stará kuchařka jí připomenula, že dnes už dost, aby si šla. Když vstoupila do své světničky a pohleděla na tmavou houštinu za zahrádkou a na stoh dubového klestí, černající se u plotu vinice, vzpomněla se strachem, že tam snad už stojí Tomáš. Kdyby věděl – Zakolísala ve svém odhodlání, ale hned se odvrátila od okna, ke dveřím zašla. Jiří čeká, a slíbila mu, že přijde.

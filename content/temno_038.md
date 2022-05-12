@@ -1,5 +1,6 @@
 ---
 title: XXXII
+contentType: prose
 ---
 
 Jřík dlouho nevydržel v zástupu rozčileném tím zločinem, rozpáleném dychtivou zvědavostí a lačném nových zpráv a podrobností. Bylo mu tu nevolno. Trnul nad krádeží spáchanou v kostele, ale zachvěl se také a otřásl nad surovým týráním chyceného zloděje. On, jenž se odvracel i odcházel, když babička plísnila někoho z pivovarské chasy nebo čeládky, měl poslouchat o krvavých ranách, pod kterými zatčený klesl polomrtev na ulici.

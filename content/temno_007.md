@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Antonín Josef Mladota ze Solopysk, pán na Skalce, měl na slavný vjezd Karla VI. do Prahy v červnu roku 1723 trvalou památku: znamenitý dluh, kterýž udělal v Praze pro ten slavný vjezd a pro korunovaci Karla VI. po tom vjezdu. Kromě toho dluhu zůstal mu na památku drahý postroj na jízdeckého koně, kantár[^2], prsosiny se střapci a řemení vysekávané, stříbrem hojně kované, i nové sedlo nádherné a pod ně čabraka malinové barvy s mladotovským znakem bohatě vyšívaným. Na ten králův vjezd pořídil si pan Mladota také, a to za kolik set tolarů, novou paruku francouzskou grand in-folio, jejíž husté kadeře hrnuly se mu na ramena a přes týl až na záda, a zlatem premovaný klobouk s krásným bílým peřím i kabát aksamitový, skvostně vyšívaný.

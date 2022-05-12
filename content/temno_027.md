@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 Misie, misie, všude jen o misii. Z dobrušské radnice, z vrchnostenských kancelářů rozběhly se zprávy o ní, z kazatelen ji hlásili, všude o ní mluvili, všude na opočenském panství, na skaleckém a pak, po obilním trhu dobrušském, i dále po vsích v Orlických horách. Očekávali ji jako událost a leckde také s obavami, s tajným strachem. Věděliť, že nebude jen okázalou pobožností plnou ohni­vého horlení, ale i bojem, že misionáři nepřijdou jen nadšeně kázat, ale i prohledávat a stíhat.
