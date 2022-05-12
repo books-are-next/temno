@@ -1,22 +1,104 @@
 {
-  "author": "Alois Jirásek",
-  "edition": "beletrie",
-  "identifier": "jirasek-temno-d049b10",
-  "languagecode": "cs",
-  "modified": "2021-09-21T14:06:26.874Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
-  "subtitle": "Historický obraz",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Temno",
-  "revision": "d049b10",
+  "subtitle": "Historický obraz",
+  "author": "Alois Jirásek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "jirasek-temno-03db403",
+  "revision": "03db403",
+  "readingOrder": [
+    "promo.html",
+    "temno_007.html",
+    "temno_008.html",
+    "temno_009.html",
+    "temno_010.html",
+    "temno_011.html",
+    "temno_012.html",
+    "temno_013.html",
+    "temno_014.html",
+    "temno_015.html",
+    "temno_016.html",
+    "temno_017.html",
+    "temno_018.html",
+    "temno_019.html",
+    "temno_020.html",
+    "temno_021.html",
+    "temno_022.html",
+    "temno_023.html",
+    "temno_024.html",
+    "temno_025.html",
+    "temno_026.html",
+    "temno_027.html",
+    "temno_028.html",
+    "temno_029.html",
+    "temno_030.html",
+    "temno_031.html",
+    "temno_032.html",
+    "temno_033.html",
+    "temno_034.html",
+    "temno_035.html",
+    "temno_036.html",
+    "temno_037.html",
+    "temno_038.html",
+    "temno_039.html",
+    "temno_040.html",
+    "temno_041.html",
+    "temno_042.html",
+    "temno_043.html",
+    "temno_044.html",
+    "temno_045.html",
+    "temno_046.html",
+    "temno_047.html",
+    "temno_048.html",
+    "temno_049.html",
+    "temno_050.html",
+    "temno_051.html",
+    "temno_052.html",
+    "temno_053.html",
+    "temno_054.html",
+    "temno_055.html",
+    "temno_056.html",
+    "temno_057.html",
+    "temno_058.html",
+    "temno_059.html",
+    "temno_060.html",
+    "temno_061.html",
+    "temno_062.html",
+    "temno_063.html",
+    "temno_064.html",
+    "temno_065.html",
+    "temno_066.html",
+    "temno_067.html",
+    "temno_068.html",
+    "temno_069.html",
+    "temno_070.html",
+    "temno_071.html",
+    "temno_072.html",
+    "temno_073.html",
+    "temno_074.html",
+    "temno_075.html",
+    "temno_076.html",
+    "temno_077.html",
+    "temno_078.html",
+    "temno_079.html",
+    "temno_080.html",
+    "temno_081.html",
+    "temno_082.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 19:22:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638472925668
+    "date": "Thu May 12 2022 10:36:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351802240
   },
   "documents": [
     {
-      "title": "Temno",
-      "file": "temno_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +106,17 @@
       "order": 0,
       "prev": null,
       "next": "temno_007.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "I • Temno",
+      "title": "I",
       "file": "temno_007.html",
       "words": 2281,
       "chars": 13475,
       "ideas": 28,
       "role": "chapter",
       "order": 1,
-      "prev": "temno_002.html",
+      "prev": "promo.html",
       "next": "temno_008.html",
       "toc": [
         {
@@ -55,7 +129,7 @@
       ]
     },
     {
-      "title": "II • Temno",
+      "title": "II",
       "file": "temno_008.html",
       "words": 2554,
       "chars": 15020,
@@ -75,7 +149,7 @@
       ]
     },
     {
-      "title": "III • Temno",
+      "title": "III",
       "file": "temno_009.html",
       "words": 1496,
       "chars": 9041,
@@ -95,7 +169,7 @@
       ]
     },
     {
-      "title": "IV • Temno",
+      "title": "IV",
       "file": "temno_010.html",
       "words": 1416,
       "chars": 8359,
@@ -115,7 +189,7 @@
       ]
     },
     {
-      "title": "V • Temno",
+      "title": "V",
       "file": "temno_011.html",
       "words": 2468,
       "chars": 14392,
@@ -135,7 +209,7 @@
       ]
     },
     {
-      "title": "VI • Temno",
+      "title": "VI",
       "file": "temno_012.html",
       "words": 1387,
       "chars": 8481,
@@ -155,7 +229,7 @@
       ]
     },
     {
-      "title": "VII • Temno",
+      "title": "VII",
       "file": "temno_013.html",
       "words": 2059,
       "chars": 11994,
@@ -175,7 +249,7 @@
       ]
     },
     {
-      "title": "VIII • Temno",
+      "title": "VIII",
       "file": "temno_014.html",
       "words": 2584,
       "chars": 15337,
@@ -195,7 +269,7 @@
       ]
     },
     {
-      "title": "IX • Temno",
+      "title": "IX",
       "file": "temno_015.html",
       "words": 2066,
       "chars": 12095,
@@ -215,7 +289,7 @@
       ]
     },
     {
-      "title": "X • Temno",
+      "title": "X",
       "file": "temno_016.html",
       "words": 3808,
       "chars": 22560,
@@ -235,7 +309,7 @@
       ]
     },
     {
-      "title": "XI • Temno",
+      "title": "XI",
       "file": "temno_017.html",
       "words": 2455,
       "chars": 14614,
@@ -255,7 +329,7 @@
       ]
     },
     {
-      "title": "XII • Temno",
+      "title": "XII",
       "file": "temno_018.html",
       "words": 1331,
       "chars": 7922,
@@ -275,7 +349,7 @@
       ]
     },
     {
-      "title": "XIII • Temno",
+      "title": "XIII",
       "file": "temno_019.html",
       "words": 1996,
       "chars": 12299,
@@ -295,7 +369,7 @@
       ]
     },
     {
-      "title": "XIV • Temno",
+      "title": "XIV",
       "file": "temno_020.html",
       "words": 2293,
       "chars": 13640,
@@ -315,7 +389,7 @@
       ]
     },
     {
-      "title": "XV • Temno",
+      "title": "XV",
       "file": "temno_021.html",
       "words": 1656,
       "chars": 9390,
@@ -335,7 +409,7 @@
       ]
     },
     {
-      "title": "XVI • Temno",
+      "title": "XVI",
       "file": "temno_022.html",
       "words": 1855,
       "chars": 11185,
@@ -355,7 +429,7 @@
       ]
     },
     {
-      "title": "XVII • Temno",
+      "title": "XVII",
       "file": "temno_023.html",
       "words": 1791,
       "chars": 10733,
@@ -375,7 +449,7 @@
       ]
     },
     {
-      "title": "XVIII • Temno",
+      "title": "XVIII",
       "file": "temno_024.html",
       "words": 1661,
       "chars": 9887,
@@ -395,7 +469,7 @@
       ]
     },
     {
-      "title": "XIX • Temno",
+      "title": "XIX",
       "file": "temno_025.html",
       "words": 1912,
       "chars": 11444,
@@ -415,7 +489,7 @@
       ]
     },
     {
-      "title": "XX • Temno",
+      "title": "XX",
       "file": "temno_026.html",
       "words": 2102,
       "chars": 12286,
@@ -435,7 +509,7 @@
       ]
     },
     {
-      "title": "XXI • Temno",
+      "title": "XXI",
       "file": "temno_027.html",
       "words": 1265,
       "chars": 7650,
@@ -455,7 +529,7 @@
       ]
     },
     {
-      "title": "XXII • Temno",
+      "title": "XXII",
       "file": "temno_028.html",
       "words": 2254,
       "chars": 13345,
@@ -475,7 +549,7 @@
       ]
     },
     {
-      "title": "XXIII • Temno",
+      "title": "XXIII",
       "file": "temno_029.html",
       "words": 1135,
       "chars": 6760,
@@ -495,7 +569,7 @@
       ]
     },
     {
-      "title": "XXIV • Temno",
+      "title": "XXIV",
       "file": "temno_030.html",
       "words": 2447,
       "chars": 14852,
@@ -515,7 +589,7 @@
       ]
     },
     {
-      "title": "XXV • Temno",
+      "title": "XXV",
       "file": "temno_031.html",
       "words": 1657,
       "chars": 9618,
@@ -535,7 +609,7 @@
       ]
     },
     {
-      "title": "XXVI • Temno",
+      "title": "XXVI",
       "file": "temno_032.html",
       "words": 1757,
       "chars": 10581,
@@ -555,7 +629,7 @@
       ]
     },
     {
-      "title": "XVII • Temno",
+      "title": "XVII",
       "file": "temno_033.html",
       "words": 3015,
       "chars": 17487,
@@ -575,7 +649,7 @@
       ]
     },
     {
-      "title": "XXVIII • Temno",
+      "title": "XXVIII",
       "file": "temno_034.html",
       "words": 2065,
       "chars": 12159,
@@ -595,7 +669,7 @@
       ]
     },
     {
-      "title": "XXIX • Temno",
+      "title": "XXIX",
       "file": "temno_035.html",
       "words": 1080,
       "chars": 6668,
@@ -615,7 +689,7 @@
       ]
     },
     {
-      "title": "XXX • Temno",
+      "title": "XXX",
       "file": "temno_036.html",
       "words": 1919,
       "chars": 11066,
@@ -635,7 +709,7 @@
       ]
     },
     {
-      "title": "XXXI • Temno",
+      "title": "XXXI",
       "file": "temno_037.html",
       "words": 2905,
       "chars": 17248,
@@ -655,7 +729,7 @@
       ]
     },
     {
-      "title": "XXXII • Temno",
+      "title": "XXXII",
       "file": "temno_038.html",
       "words": 875,
       "chars": 5166,
@@ -675,7 +749,7 @@
       ]
     },
     {
-      "title": "XXXIII • Temno",
+      "title": "XXXIII",
       "file": "temno_039.html",
       "words": 1598,
       "chars": 9019,
@@ -695,7 +769,7 @@
       ]
     },
     {
-      "title": "XXXIV • Temno",
+      "title": "XXXIV",
       "file": "temno_040.html",
       "words": 2632,
       "chars": 15124,
@@ -715,7 +789,7 @@
       ]
     },
     {
-      "title": "XXXV • Temno",
+      "title": "XXXV",
       "file": "temno_041.html",
       "words": 2597,
       "chars": 15376,
@@ -735,7 +809,7 @@
       ]
     },
     {
-      "title": "XXXVI • Temno",
+      "title": "XXXVI",
       "file": "temno_042.html",
       "words": 1882,
       "chars": 10997,
@@ -755,7 +829,7 @@
       ]
     },
     {
-      "title": "XXXVII • Temno",
+      "title": "XXXVII",
       "file": "temno_043.html",
       "words": 2664,
       "chars": 14840,
@@ -775,7 +849,7 @@
       ]
     },
     {
-      "title": "XXXVIII • Temno",
+      "title": "XXXVIII",
       "file": "temno_044.html",
       "words": 2895,
       "chars": 16633,
@@ -795,7 +869,7 @@
       ]
     },
     {
-      "title": "XXXIX • Temno",
+      "title": "XXXIX",
       "file": "temno_045.html",
       "words": 1561,
       "chars": 8947,
@@ -815,7 +889,7 @@
       ]
     },
     {
-      "title": "XL • Temno",
+      "title": "XL",
       "file": "temno_046.html",
       "words": 3903,
       "chars": 23174,
@@ -835,7 +909,7 @@
       ]
     },
     {
-      "title": "XLI • Temno",
+      "title": "XLI",
       "file": "temno_047.html",
       "words": 3033,
       "chars": 17577,
@@ -855,7 +929,7 @@
       ]
     },
     {
-      "title": "XLII • Temno",
+      "title": "XLII",
       "file": "temno_048.html",
       "words": 1514,
       "chars": 9246,
@@ -875,7 +949,7 @@
       ]
     },
     {
-      "title": "XLIII • Temno",
+      "title": "XLIII",
       "file": "temno_049.html",
       "words": 1951,
       "chars": 10973,
@@ -895,7 +969,7 @@
       ]
     },
     {
-      "title": "XLIV • Temno",
+      "title": "XLIV",
       "file": "temno_050.html",
       "words": 2140,
       "chars": 12824,
@@ -915,7 +989,7 @@
       ]
     },
     {
-      "title": "XLV • Temno",
+      "title": "XLV",
       "file": "temno_051.html",
       "words": 2020,
       "chars": 11601,
@@ -935,7 +1009,7 @@
       ]
     },
     {
-      "title": "XLVI • Temno",
+      "title": "XLVI",
       "file": "temno_052.html",
       "words": 1911,
       "chars": 11016,
@@ -955,7 +1029,7 @@
       ]
     },
     {
-      "title": "XLVII • Temno",
+      "title": "XLVII",
       "file": "temno_053.html",
       "words": 2502,
       "chars": 14814,
@@ -975,7 +1049,7 @@
       ]
     },
     {
-      "title": "XLVIII • Temno",
+      "title": "XLVIII",
       "file": "temno_054.html",
       "words": 2735,
       "chars": 16054,
@@ -995,7 +1069,7 @@
       ]
     },
     {
-      "title": "XLIX • Temno",
+      "title": "XLIX",
       "file": "temno_055.html",
       "words": 1447,
       "chars": 8597,
@@ -1015,7 +1089,7 @@
       ]
     },
     {
-      "title": "L • Temno",
+      "title": "L",
       "file": "temno_056.html",
       "words": 706,
       "chars": 4057,
@@ -1035,7 +1109,7 @@
       ]
     },
     {
-      "title": "LI • Temno",
+      "title": "LI",
       "file": "temno_057.html",
       "words": 1155,
       "chars": 6942,
@@ -1055,7 +1129,7 @@
       ]
     },
     {
-      "title": "LII • Temno",
+      "title": "LII",
       "file": "temno_058.html",
       "words": 808,
       "chars": 5028,
@@ -1075,7 +1149,7 @@
       ]
     },
     {
-      "title": "LIII • Temno",
+      "title": "LIII",
       "file": "temno_059.html",
       "words": 1814,
       "chars": 10680,
@@ -1095,7 +1169,7 @@
       ]
     },
     {
-      "title": "LIV • Temno",
+      "title": "LIV",
       "file": "temno_060.html",
       "words": 1746,
       "chars": 10194,
@@ -1115,7 +1189,7 @@
       ]
     },
     {
-      "title": "LV • Temno",
+      "title": "LV",
       "file": "temno_061.html",
       "words": 1958,
       "chars": 11183,
@@ -1135,7 +1209,7 @@
       ]
     },
     {
-      "title": "LVI • Temno",
+      "title": "LVI",
       "file": "temno_062.html",
       "words": 2594,
       "chars": 14732,
@@ -1155,7 +1229,7 @@
       ]
     },
     {
-      "title": "LVII • Temno",
+      "title": "LVII",
       "file": "temno_063.html",
       "words": 1144,
       "chars": 6862,
@@ -1175,7 +1249,7 @@
       ]
     },
     {
-      "title": "LVIII • Temno",
+      "title": "LVIII",
       "file": "temno_064.html",
       "words": 2565,
       "chars": 15282,
@@ -1195,7 +1269,7 @@
       ]
     },
     {
-      "title": "LIX • Temno",
+      "title": "LIX",
       "file": "temno_065.html",
       "words": 1809,
       "chars": 10233,
@@ -1215,7 +1289,7 @@
       ]
     },
     {
-      "title": "LX • Temno",
+      "title": "LX",
       "file": "temno_066.html",
       "words": 2199,
       "chars": 12715,
@@ -1235,7 +1309,7 @@
       ]
     },
     {
-      "title": "LXI • Temno",
+      "title": "LXI",
       "file": "temno_067.html",
       "words": 3809,
       "chars": 21818,
@@ -1255,7 +1329,7 @@
       ]
     },
     {
-      "title": "LXII • Temno",
+      "title": "LXII",
       "file": "temno_068.html",
       "words": 2690,
       "chars": 15840,
@@ -1275,7 +1349,7 @@
       ]
     },
     {
-      "title": "LXIII • Temno",
+      "title": "LXIII",
       "file": "temno_069.html",
       "words": 5059,
       "chars": 29293,
@@ -1295,7 +1369,7 @@
       ]
     },
     {
-      "title": "LXIV • Temno",
+      "title": "LXIV",
       "file": "temno_070.html",
       "words": 1996,
       "chars": 11556,
@@ -1315,7 +1389,7 @@
       ]
     },
     {
-      "title": "LXV • Temno",
+      "title": "LXV",
       "file": "temno_071.html",
       "words": 2441,
       "chars": 14296,
@@ -1335,7 +1409,7 @@
       ]
     },
     {
-      "title": "LXVI • Temno",
+      "title": "LXVI",
       "file": "temno_072.html",
       "words": 1837,
       "chars": 10802,
@@ -1355,7 +1429,7 @@
       ]
     },
     {
-      "title": "LXVII • Temno",
+      "title": "LXVII",
       "file": "temno_073.html",
       "words": 3169,
       "chars": 18529,
@@ -1375,7 +1449,7 @@
       ]
     },
     {
-      "title": "LXVIII • Temno",
+      "title": "LXVIII",
       "file": "temno_074.html",
       "words": 3013,
       "chars": 17394,
@@ -1395,7 +1469,7 @@
       ]
     },
     {
-      "title": "LXIX • Temno",
+      "title": "LXIX",
       "file": "temno_075.html",
       "words": 2294,
       "chars": 13743,
@@ -1415,7 +1489,7 @@
       ]
     },
     {
-      "title": "LXX • Temno",
+      "title": "LXX",
       "file": "temno_076.html",
       "words": 3142,
       "chars": 18334,
@@ -1435,7 +1509,7 @@
       ]
     },
     {
-      "title": "LXXI • Temno",
+      "title": "LXXI",
       "file": "temno_077.html",
       "words": 4718,
       "chars": 27599,
@@ -1455,7 +1529,7 @@
       ]
     },
     {
-      "title": "LXXII • Temno",
+      "title": "LXXII",
       "file": "temno_078.html",
       "words": 3904,
       "chars": 22453,
@@ -1475,7 +1549,7 @@
       ]
     },
     {
-      "title": "LXXIII • Temno",
+      "title": "LXXIII",
       "file": "temno_079.html",
       "words": 3490,
       "chars": 20641,
@@ -1495,7 +1569,7 @@
       ]
     },
     {
-      "title": "LXXIV • Temno",
+      "title": "LXXIV",
       "file": "temno_080.html",
       "words": 2667,
       "chars": 16464,
@@ -1515,7 +1589,7 @@
       ]
     },
     {
-      "title": "LXXV • Temno",
+      "title": "LXXV",
       "file": "temno_081.html",
       "words": 4279,
       "chars": 26203,
@@ -1535,7 +1609,7 @@
       ]
     },
     {
-      "title": "LXXVI • Temno",
+      "title": "LXXVI",
       "file": "temno_082.html",
       "words": 497,
       "chars": 3045,
@@ -1555,11 +1629,11 @@
       ]
     },
     {
-      "title": "Tiráž • Temno",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 200,
-      "chars": 1284,
-      "ideas": 30,
+      "words": 181,
+      "chars": 1138,
+      "ideas": 24,
       "role": "colophon",
       "order": null,
       "prev": "temno_082.html",
@@ -1577,9 +1651,9 @@
   ],
   "totals": {
     "all": {
-      "words": 170238,
-      "chars": 1000797,
-      "ideas": 4694
+      "words": 170219,
+      "chars": 1000651,
+      "ideas": 4688
     },
     "chapters": {
       "words": 170033,

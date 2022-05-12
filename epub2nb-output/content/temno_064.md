@@ -1,5 +1,6 @@
 ---
 title: LVIII
+contentType: prose
 ---
 
 Nad vinicemi ve svazích a v úpatí Žižkova rozléhalo se troubení. Prosté fanfáry tam hlaholily, oznamujíce, že konec díla. Zněly tam i níže na Špitálsku ve vinicích, které se tu ještě zachovaly; byloť jich tam mnoho vysekáno, když před devíti lety se zakládala nová silnice od Špitálské brány.

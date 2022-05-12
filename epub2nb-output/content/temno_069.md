@@ -1,5 +1,6 @@
 ---
 title: LXIII
+contentType: prose
 ---
 
 Když Vostrý, Žitavec, unikl z vinice Kantůrky přes vinici Březinovu, dostal se s Tomášem do Podhoří u Vltavy k tajnému bratrovi. Tři dny se tam skrývali v chalupě, většinou na půdě v seně, a nevyšli ze stavení ani na krok. A jako v noci tam dorazili, tak také v noci odtud vyrazili. Mířili za české hranice do Žitavy; přímo však a zjevně po silnicích a cestách nemohli, nýbrž tajně a velikými oklikami, většinou polními stezkami a lesy.

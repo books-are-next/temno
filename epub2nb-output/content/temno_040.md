@@ -1,5 +1,6 @@
 ---
 title: XXXIV
+contentType: prose
 ---
 
 Časně ráno je vzbudili. Do hustého šera vykročili za vozem plným zásob ze Skalky. Zámeček, myslivna, dvůr, všechno v temnu; lípy a topol, alej v zahradě černaly se mlhavým, sychravým vzduchem. Za branou naposledy se obrátili po myslivně, nad níž rozložitá koruna starého topole zašuměla jako ze spaní.

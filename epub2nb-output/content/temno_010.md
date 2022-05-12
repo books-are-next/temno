@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 Lustr v jídelně nerozsvícen; čtyři svíčky ve dvou svícnech hořely na velkém stole bělostně pokrytém, na němž mdle pobleskovaly cínové mísy a talíře. Pan Lhotský a slečna Polexina seděli v starých křeslech kolmých lenochů, modrým suknem potažených. Na velké dubové kredenci, plné cínového a majolikového nádobí, u níž stála Helenka myslivcova, hořely dvě svíčky. Tu jasno; v pozadí kolem velkých zelených kamen s krancly[^7] příšeří. Rovněž na obrazy nad dubovým táflováním nepadalo plné světlo, na několik krajin na plátně se zčernalým, hustým stromovím a na jeden „landšaft marinářský“, z něhož nejjasněji vyrážely zežloutlé, někdy bělostné plachty korábu v bouři. Na stěně proti dveřím visel samojediný obraz, na plátně malovaný kontrfekt nebožtíka císaře Leopolda I. v alonžové paruce.

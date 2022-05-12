@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 Pan Lhotský šel pozdě spat, ale časně vstal a vypravil se na hon. Málomluvný, vážný myslivec v zelenavém kabátci širokých výložků u rukávů, opásaný tesákem, v černém prostém klobouku třírohém, ve vysokých botách čekal už pod utišeným topolem, pušku za řemen na rameni. S ním tu stál jeho Tomáš, výrostek šestnáctiletý; kromě pušky měl ještě brašnu. Pan Lhotský, čilý a čiperný, svěže zardělý, v zeleném kabátě, sotva k nim došel a již se ptal, no tak co Helenka, co říkala, měla-li radost z obrázku a pentliček. Myslivec palcem potáhl řemen své pušky, pohodil ramenem, a pak, že děkuje, že Helena měla radost a že teď, když odcházeli, rovnala si ty pentličky a prohlížela.

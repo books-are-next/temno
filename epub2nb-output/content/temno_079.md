@@ -1,5 +1,6 @@
 ---
 title: LXXIII
+contentType: prose
 ---
 
 Jiří nepustil z mysli to, co Hubátius mu řekl, že deklamátor Svoboda snad ví, kam Helenka odešla, kde je. Z toho pokušení, aby sám se k deklamátorovi odvážil. Váhal však, rozmýšlel se a zas uvažoval, jak by se k němu dostal, aby Hubátius o tom nezvěděl. Pak náhodě vše odevzdával; dvakráte zašel až k domu U božího oka, kdyby tu deklamátora snad potkal. Než nedočkal se ho. Když přicházel potřetí, bylo koncem srpna, pozdě odpoledne, zahlédl, že Hubátius právě vykročil z domu. Jiří se v ten okamžik rozhodl. Vešel, rychle stoupal do známých schodů, rozčilen se zastavoval, váhal, pomýšlel, jak to říci, a co pak, kdyby deklamátor jej odbyl, proč se na něj obrací, co on –

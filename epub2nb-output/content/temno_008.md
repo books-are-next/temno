@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 V noci přestalo pršet, ale nevyjasnilo se. Ráno bylo zase pod mrakem. Pan Lhotský vypravil se velmi časně. Jen vyjel z nádvoří dřevěnou branou na silnici, už zaklel. Žebravý mnich se mu namanul do cesty. A to neměl za dobré znamení. Ale když si pak zapálil a kouřil, zapomněl na frátera a zabýval se opět Skalkou. Počítal, kde asi pacholka s povozem dojede, vzpomněl, že Polexina se bude mrzet, poněvadž v Praze nenavštívil její sestřenici v šlechtickém „štiftu“ a tetu jeptišku v klášteře voršilek, jak jej o to požádala; ale až jí vyloží, že v tom shonu nebylo možná – Zato ji potěší novinou, že „paní hrabinka“ na Skalku teď na podzim nepřijede, letos už ne, a myslím, že do jara ne, že zůstanou v Praze. Ta „paní hrabinka“ byla synovcova žena, paní Mladotová ze Solopysk, dcera hraběte Goltze. Stará slečna ji někdy tak s ouštěpkem pojmenovala, ale jen před ním, před panem strejcem.

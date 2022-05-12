@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 Správce Čermák stal se od této chvíle ještě ostražitějším a přís­nějším. –

@@ -1,5 +1,6 @@
 ---
 title: XLVIII
+contentType: prose
 ---
 
 I když doktor Globic předevčírem oznámil, že by paní Březinová mohla již na vinici, zašel její muž ke své první tchyni, paní Lerchové, poradit se. Byltě v nesnázích stran obsluhy; vyložil, že by Lyzlu s ženou poslal, ale že je Lyzly v domácnosti nezbytně třeba, že by nikoho za ni neměl, a žena že potřebuje svědomité obsluhy. Na to hned paní Lerchová, tu že je snadná pomoc, žeť má u ní svou poddanou, Helenu, toho myslivce ze Skalky, a chválila ji navýsost, jaká je ochotná, svědomitá a důvtipná, často že pomyšlení uhodne a udělá a že bývala v panské službě, u slečny Mladotovny.

@@ -1,5 +1,6 @@
 ---
 title: LXIV
+contentType: prose
 ---
 
 Minul týden, minul měsíc, co Tomáš uprchl z Prahy, a Helenka nic o něm nezaslechla. Přestávala se o něj lekat a již pevně doufala, že vyvázl. Když také říjen se nachýlil ke konci, věřila, že je i s Vostrým za hranicemi, u pantáty. Ten teď už ví také o ní. To pomyšlení tížilo skoro stále; temně za dne i při práci, prudčeji, když byla sama a v noci, kdy často probděla dlouhé chvíle v trudném myšlení a vzpomínání. Také sny ji děsily; otce vídala nebo Vostrého, bledého, s rudým puchýřem na víčku, jak ji honí, jak po ní sahá, a ona do země jako zarostlá, nohy slabé, bez vlády. Jindy ve snu se s Tomášem modlila, tady v komůrce, z Klejchovy knížky se modlili a ona ji přikrývala kabátkem, a vtom že přišel Lazar Kiš, žid ze Skalky, a hlásil, tak že pro ně přijel, aby šli a sedli si, pantáta že se nemůže dočkat. Tenkrát se ve spaní rozplakala.

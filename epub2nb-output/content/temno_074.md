@@ -1,5 +1,6 @@
 ---
 title: LXVIII
+contentType: prose
 ---
 
 Helenka nemohla tenkráte na vinici, když se jí Jiří zčistajasna otázal, zná-li deklamátora Svobodu, pochopit a vysvětlit si, proč se jí na něj ptá, a marně hádala, kdo ten muž je. Pak za těch pohnutých dnů a změn zapomněla na něj. Teď uslyšela o něm nanovo a zas se jí ptali, P. Daniel, zná-li deklamátora Svobodu. Tentokrát alespoň zvěděla, že je to nějaký úředník a bratr myslivce Svobody. Z tohoto označení vyšlo jí světlo; skoro naurčito hádala, že ten pan deklamátor je ten tajemný měšťan, který přišel za Tomášem na vinici a přinesl mu Klejchův špalíček, že to je ten, kterého loni o Božím těle, když s Tomášem uskočili Šantrůčkové, potkali v Týnské ulici a s kterým se pak setkali o tajné pobožnosti u Vorlíčků.

@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 V roubené sedničce hnědých trámů, ve které nalevo při delší stěně stála odestlaná postel a napravo u dveří malovaná truhla, seděla u stolu vysoká, přihrbená stařena v bílém prostém čepci přiléhavém, v bělostných rukávcích, v černém živůtku s proramenicemi, v tmavozelené mezulánce, v červených punčochách, bez střevíců. Vysoký věk dal jí šediny, vyschlé paže, popelavý, vrásčitý obličej; v její tváři, v šedivých očích přísná vážnost z přešlých utrpení, z uzavřeného života, za stálého ohrožení pro tajenou víru.

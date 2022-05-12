@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Všecko svatá pravda, všecko tak, jak to Mariánek přinesl. Toho večera bylo to ještě tajemstvím, ale nazejtří věděl o tom všechen Koňský trh od velké Scheidlerovské zahrady nahoře u Koňské brány až dolů k příkopům, všechen Koňský trh po obou stranách. Stůl „u blíženců“ jednal o té zprávě po kolik večerů. Vzrušovala jej, poněvadž se týkala jejich pana starého a jeho rodiny, jejíž osudy sledovali s vřelým účastenstvím, jako jmenovitě před sedmi lety, když měl pan starý Březina těžkou alteraci[^17] pro nejstaršího syna svého Vojtěcha, teď, tohoto času, kaplana v Plzni, když veselý student i outrata tenkráte nechtěl přistoupiti k důstojnosti kněžské. A s druhým, Ondřejem, teď cisterciákem, nebylo o nic lépe.

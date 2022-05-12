@@ -1,5 +1,6 @@
 ---
 title: LXV
+contentType: prose
 ---
 
 Večer posledního dne toho roku 1727 bylo u Březinů po všem pro­storném domě velmi živo, zvláště dole v hospodské klenuté jizbě, kdež pod oblakem kouře z dýmek zvučely do šumu a hlučného hovoru struny Žufničkovy loutny a jeho nevalný tenor, ale také klení divokého ševce Kocourka. Florián Mariánek zkazil mu veselý večer nejnovější svou zprávou, s kterou přišel, že dnes odpoledne, před večerem pustili z vězení žida Frešla, toho rouhače, který potupil sochu sv. Jana Nepomuckého. Od jara seděl, přes tu chvíli ho vyslýchali, a jak ostře, několikrát jej mučili, ale nezmohli ho, aby se přiznal.

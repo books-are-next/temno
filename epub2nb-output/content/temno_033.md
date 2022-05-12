@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Slečna Polexina pozbyla tou nenadálou návštěvou svého klidu i své rozhodnosti. Pobouřilo ji, že k nim na Skalku přišli za takovým účelem a že vůbec bylo možná s takovým podezřením na ně si troufat. Lekla se ho, vzpírala se mu, pocítila žár hanby při pomyšlení, že by snad přece bylo pravda. A na Machovce se rozhorlovala, co kvůli němu je a že by mohl on, jemuž tak důvěřovali a jemu a jeho rodině přáli, tak jednat, takové zahanbení jim způsobit! Mluvila o tom s panem Lhotským, znovu se rozčilovala a hned se zase konejšila, že to přece není možná.

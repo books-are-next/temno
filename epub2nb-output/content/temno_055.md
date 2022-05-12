@@ -1,5 +1,6 @@
 ---
 title: XLIX
+contentType: prose
 ---
 
 Hubátius navrátiv se zapálil si hned svou bílou holandskou dýmčičku a zasedl ke stolu, aby dopsal list, který chystal pantátovi… Nežli začal, četl si, co již napsal. Bylo to:

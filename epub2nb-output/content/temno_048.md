@@ -1,5 +1,6 @@
 ---
 title: XLII
+contentType: prose
 ---
 
 Jiřík nedal se převézti na Staré Město. Vrátil se od přívozu nedbaje cesty. Pojednou stál opět u Jezovitské zahrady. Kovaná mříž její zamčena, svatozář sochy nad ní pohasla, lípy u brány ztemněly, po zahradě se stmívalo. Jen na konci šeré lípové aleje prosvítala ztichlá, zavřená kaple. Hleděl do zahrady, hleděl, Helenku zas viděl –

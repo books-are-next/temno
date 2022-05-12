@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 Správce Čermák vstal ráno po této neděli velmi záhy tak jako vždy. Umyv se, pomodlil se kleče na podlaze obrácen k obrazům v koutě nad stolem a vyšel pak ven. Dvůr byl už dávno vzhůru. Všude v něm ruch časného díla, hlavně u chlévů a konírny. Správce nevydal se k nim na přehlídku jako jindy; po myslivně se rozhlížel, pak k šafáři zašel, na krmení se ptal a jako za řeči také na to, jsou-li myslivcovi doma.

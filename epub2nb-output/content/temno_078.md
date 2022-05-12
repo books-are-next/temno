@@ -1,5 +1,6 @@
 ---
 title: LXXII
+contentType: prose
 ---
 
 Když Jiří nazejtří ráno otvíral okno svého pokoje, postrčil přitom knihami tam ležícími; přitom si všiml, že v jedné z nich je zastrčený nějaký obrázek. Nevěděl o něm, a proto rozevřel knihu, aby se podíval. Nepamatoval se na něj ani na to, že by jej byl sem uložil. Jak jej zase dával do knihy, zahlédl, že na jeho zadní, prázdné straně jsou psané řádky. Podíval se, začal číst, a již četl, četl; úžas z těch řádků, úžas, leknutí. Nevěřil, četl zas. Zraky uvázly na řádku: „teď přišel otec, musím s ním –“ Její otec, kacíř! A zas ulpěly na začátku. „Chtěli mne poslat zas na Skalku –“ Je to od Helenky, je; a toto: „Co jsem řekla na zahrádce, je pravda –“

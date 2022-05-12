@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 Altán v zahradě na Skalce zase prohlédl. Staré listí kolem něho odmetli, zelené žaluzie vytáhli, dveře, okénka otevřeli. Jarní, svěží vzduch provanul dřevěným domkem, proud zářivého světla vyjasnil několik rytin po jeho ztemnělých stěnách.

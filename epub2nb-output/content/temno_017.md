@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 Fileček a Sameček, psali se Filetschek a Sametschegk, scházeli se skoro denně v pivovaře U Březinů na Koňském trhu v Praze. Sedali večer v klenuté jizbě hostinské u stolu v koutě vpravo ode dveří, každý na svém určitém místě; Sameček na lavici u zdi, Fileček na židli vždycky proti němu. Sameček míval po pravé ruce své Mikuláše Kroupu, jenž s nadšením a obdivem hovoříval o vzácném domu Brandlinských ze Štěkře, Fileček pak po levici své Jana Kubíčka, jenž s nadšením a obdivem mluvíval o vzácném domu Hubrykovském. Občas pohovořil o české kronice, v níž on, dědeček sedmdesáti let, čilý a červený a bělovlasý, pilně čítal a pořád ještě bez brejlí; občas zmínil se také o malovaných obrázcích, kterých byl milovníkem, a někdy také, a pokaždé srdečně a něžně, o Ančičce, staré své sestře, kteráž jemu, vdovci, spravovala domácnost.

@@ -1,5 +1,6 @@
 ---
 title: LXI
+contentType: prose
 ---
 
 Ráno jí Lyzla oznámila, že má před polednem o jedenácté přijíti na rathouz, že jí to pan starý nařizuje, a že ji tam žena podstaršího vyprovodí. Helenka si vydechla; lekalať se, že biřic pro ni přijde nebo snad i sám krevní písař a že všechen dům bude vzhůru. Odešla však nepozorována. Na dolejším konci Koňského trhu mezi kotci a boudami přitočil se k nim znenadání Florián Mariánek jakoby náhodou. Dal se do hovoru a hned se nabídl, že dovede Helenku až na rathouz do kanceláře, že by si tam nevěděla rady, že by ji tam posílali od Pontia k Pilátu.

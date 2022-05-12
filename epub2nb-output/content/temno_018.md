@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Nazejtří večer u Březinů u stolu blíženců i po veškeré místnosti klid. Po bouři ticho a vyjasnění, svornost a jedna mysl i v tom, že březinovské hořké chutnalo všem, i Filečkovi, jenž, jaksi z pokání, je i nahlas pochválil. To Florián Mariánek nebyl ještě u stolu. Nepřicházel nadobyčej dlouho. Tak tedy svorně pili a svorně soudili o nočních výtržnících, o mladém Rainerovi a Losovi z Losenfeldu.

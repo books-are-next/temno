@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Pan Lhotský zašel po prvním uvítání do svého pokoje, upravit se, tlumok rozdělat a také aby dal otevřít bednu s objednaným zbožím a dary. Nemohl se již dočkat, až před svou neteří vše vyloží. Ta mínila zatím počkat ve svém pokoji. Nebyl prostranný, a přece zplna na něj nestačilo světlo dvou svíček na stole. Pološero v koutech i výše po stěnách, zvláště v pozadí nad dvěma okny, mezi nimiž visel krucifix. Jasněji vynikala španělská stěna kvítkovaná před koutem napravo ode dveří vedoucích do ložnice. Nad tou španělskou stěnou visely nahoře tři nevelké obrazy svatých na plátně malované; pod prostředním z nich, pod bolestnou Matkou boží, tiše hořel plamínek v rudé skleněné lampičce.

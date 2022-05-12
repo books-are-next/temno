@@ -1,5 +1,6 @@
 ---
 title: LV
+contentType: prose
 ---
 
 Jiřík ani nazejtří nenabyl jistoty, přihodilo-li se něco Helence. Zahlédl ji ráno na chodbě, šla s Lyzlou. Byla v tváři pobledlejší, ale poděkovala s úsměvem na jeho pozdravení. Nebyl to však úsměv rtů, očí i duše, jakým se jindy za takových setkání na něj usmála. Ten úsměv jako květ na okénku, ale v komůrce duše šero a smutno. Promluviti s ní nemohl. Ráno ji nezastal samotnu, před polednem musil k babičce, odpoledne pak, jak se doslechl, odešla Helenka na vinici, kamž ji macecha napřed poslala. Sami se tam měli odebrat až nazejtří.

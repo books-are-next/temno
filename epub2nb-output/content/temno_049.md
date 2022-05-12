@@ -1,5 +1,6 @@
 ---
 title: XLIII
+contentType: prose
 ---
 
 Helenka zamlčela paní Lerchové, že setkala se s jejím vnukem v Jezovitské zahradě; ale také Tomášovi se o tom nezmínila, když potom druhé neděle odpoledne ji navštívil. Zato on jí pověděl, že mladý pán byl tento týden dvakrát na vinici a pokaždé že se u něho, u Tomáše, zastavil a s ním pohovořil.

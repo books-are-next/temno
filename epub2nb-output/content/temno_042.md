@@ -1,5 +1,6 @@
 ---
 title: XXXVI
+contentType: prose
 ---
 
 U stolu blíženců jednali po kolik večerů o té krádeži u sv. Víta, o mladém zloději, o tom, že tvrdošíjně zapírá i na mučení, že už byl vhozen na žebřík i boky že mu pálili. Pro tuto vzrušující událost zapomněl starý Kubíček i na tatrmany a maňasy, na Pantalona ze Staré rychty i na taliánskou operu na Poříči. Pak vypravoval Florián Mariánek podivnou historii o dvou venkovských, o Helence a Tomášovi, proč je do Prahy poslali, jak je rozváděl na místa a jak ti tajní berani se mají rádi.

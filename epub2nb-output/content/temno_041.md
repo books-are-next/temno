@@ -1,5 +1,6 @@
 ---
 title: XXXV
+contentType: prose
 ---
 
 Nazejtří dopoledne vstoupil tlustý lokaj v červené livreji do komory k Machovcovým dětem a oznámil jim usmívaje se, tak že se budou loučit, tady že neostanou. Tomáš prudce vstal a ptal se, pošlou-li je zpátky na Skalku.

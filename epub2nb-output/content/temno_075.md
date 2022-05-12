@@ -1,5 +1,6 @@
 ---
 title: LXIX
+contentType: prose
 ---
 
 Téhož odpoledne, kdy Jiří meškal u Hubátia, dorazil deklamátor Svoboda do Kopidlna. Bylo to třetího dne, co se vypravil z Prahy. Šel pěšky, někdy se svezl kus cesty, jak se příležitost naskytla. Došed nehledal bratrovy myslivny. Vědělť, že by tam z rodiny nenašel nikoho. Hned jak myslivce odvedli do vězení, musily se obě dcery jeho z myslivny vystěhovat. Tři synové, myslivci, ponecháni zatím ve službě v jejich revírech, jak byli v Nadslavi, v Křešicích a v Hlásné Lhotě. Mluvilo se však o tom, že hrabě jich tam asi nenechá, protože jsou také podezřelí, pokud se víry týče.

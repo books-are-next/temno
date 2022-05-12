@@ -1,5 +1,6 @@
 ---
 title: LXXIV
+contentType: prose
 ---
 
 Na Skalce vše po starém, v obyčejném pořádku a klidu; jen v říjnu minulého roku 1727 způsobila pohnutí zpráva, kterou přinesl Lazar Kiš z Prahy, že Tomáš, syn myslivcův, utekl z vinice s nějakým Žitavákem, že není po nich ani stopy, že tou dobou jistě je za hranicemi. Zpráva ta dotkla se zvláště regenta panství, starého pana Lhotského ze Ptení. Své neteři, slečně Polexině, řekl ne bez výčitky: „Tak vidíš, Polexino, že by bývalo líp, kdyby byl ostal tu; myslilas, že se v Praze obrátí, a tu máš –“

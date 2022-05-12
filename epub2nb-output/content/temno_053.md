@@ -1,5 +1,6 @@
 ---
 title: XLVII
+contentType: prose
 ---
 
 Jeden čas se podobalo, že Florián Mariánek připíše Březinova filozofa do rejstříku svých nebožtíků a že mu bude obstarávati pohřeb. Než nestalo se tak. Jiřík se vytrhl smrti, ale zápas ten ho zkrušil. Byl všechen vysílen. Královský zemský fyzikus doktor Globic uznal, že jeho mladý pacient nenabude sil z lahviček od Zlatého noha, a kdyby mu jich sebevíce předepsal, nýbrž že nesmí zůstat ve svém pokojíčku, že musí ven na zdravé povětří.

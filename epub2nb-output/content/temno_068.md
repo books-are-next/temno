@@ -1,5 +1,6 @@
 ---
 title: LXII
+contentType: prose
 ---
 
 P. Daniel Suk vracel se pozejtří poté z návštěvy u své sestřenice, staré paní Lerchové. Smrákalo se, mžilo a foukal sychravý vítr. Ulice, jejichž chatrná, blátivá dlažba se mokře leskla, pustly. Bělovlasý jezovita v tmavém plášti vykračoval rychle, ne však proto, že bylo nevlídno, nýbrž proto, že mu tichá radost poháněla kroky.

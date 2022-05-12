@@ -1,5 +1,6 @@
 ---
 title: LXVI
+contentType: prose
 ---
 
 Nazejtří dopoledne zašel Jiří k babičce přát jí šťastného nového roku. Ve velkém pokoji vyhřátém a v plném světle jasného, mrazivého dne zastal jen Helenku. Stará paní byla sice doma, ale vrátivši se právě z kostela, odstrojovala se v malém sklípku. Jiří potěšen, že alespoň okamžik může sám s Helenkou promluvit, stiskl jí ruku, přál všeho dobrého a srdečně dodal:

@@ -1,5 +1,6 @@
 ---
 title: LII
+contentType: prose
 ---
 
 Pozdě odpoledne o tom svátku bylo před Betlémskou kaplí rušno a živo. Měšťané v kadeřavých parukách, ve svátečních pláštích, bohaté měšťanky v zlatých čepcích, v širokých rajfrokách, voskovice v rukou, i vystrojení mládenci a panny a kněží, namnoze jezovité, samí členové „veleslavné české kongregací pod titulem Vítězslavného nanebevzetí Panny Marie“ brali se do Betlémské kaple, teď majetku jezovitů, kdež kongregace konala svá shromáždění, kdež chovala také svou pokladnici a své album. Dva preláti přijeli v kočáru, za ním volně přihrčel druhý, nádhernější. Dva běhouni, strakatě odění, přiběhli před ním; vysoko na kozlíku seděl kočí, na prkně za kočárem premovaní lokajové v kloboucích s peřím; po stranách kráčeli dva hajduci v červených kabátcích, s opeřenými kaškety na hlavě. Z kočáru vystoupil Josef František hrabě z Vrbna a z Freudenthalu, rektor kongregace, jejž přeuctivě, s hlubokými poklonami vítali vicerektor, dva asistenti, dva kurátoři a sekretář bratrstva.

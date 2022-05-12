@@ -1,5 +1,6 @@
 ---
 title: XXV
+contentType: prose
 ---
 
 Slečna Polexina dověděla se zpráv o misii v Dobrušce později, nežli se nadála. Bouřka, jež se pozdě odpoledne strhla, zdržela tam všechny Skalecké. A slečna nemohla se dočkati. Dvakráte poslala Kačku podívat se, jsou-li myslivcovi už doma; stará kuchařka přišla pokaždé s ohlášením, že se ještě nevrátili, a nikdo. Pan Lhotský se v duchu divil, cože neť je těchto novin tak žádostivá, nicméně ji těšil, však že se zítra sama přesvědčí, že jí nazejtří bude jistě tak dobře, aby mohla jet do Dobrušky na misii. Když pak Kačka přišla potřetí a hlásila, že správce právě přijel, dala si ho slečna zavolat, ačkoliv pan Lhotský mínil, že by mohli ještě chvilku počkat, že myslivcovi už také brzo přijdou. Než slečna čekat nechtěla.

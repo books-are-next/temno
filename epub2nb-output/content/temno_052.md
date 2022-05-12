@@ -1,5 +1,6 @@
 ---
 title: XLVI
+contentType: prose
 ---
 
 Ale když se pak jaro otvíralo, přestalo tajemství paní Březinové býti tajemstvím. Florián Mariánek jeden z prvních je vystihl pohledem a svěřil je v březnu měsíci jednou večer náramně důvěrně stolu blíženců s významným úsměvem a mžikaje očima. Přitom také upozornil svůj zalíbený stůl, aby si povšimli pana starého, jak radostí a spokojeností jen září a že mu teď už nic neschází nežli „fon“, když paní manželka je rodem fon, tak aby synek, a jistě že to bude synek, měl také fon, a to že pan starý také pořídí.

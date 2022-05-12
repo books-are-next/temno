@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 Pan Lhotský hrubě nenadsazoval, když řekl, že s pražskými novinami vystačí na celý podzimek. Skoro každého večera a někdy také při obědě zabloudil do Prahy a jejích slavných dnů. Pokaždé ovšem tak dlouho nevypravoval jako ze začátku. Někdy také, nevěda, opakoval, co již předtím pověděl, obzvláště o „hloupém titulárním kalendáři“, to jest jak holdoval králi atd.

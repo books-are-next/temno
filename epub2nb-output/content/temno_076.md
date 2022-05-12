@@ -1,5 +1,6 @@
 ---
 title: LXX
+contentType: prose
 ---
 
 Jiří nazejtří po tom večeru, kdy otec jeho se tak rozhodně vyslovil, nevykročil z domu. S otcem, s macechou uviděl se jen v poledne, a ještě nakrátko. Po jídle neposeděl jako jindá, nýbrž hned vstal a odešel, vymluviv se, že mu není dobře. Březina, když s ženou osaměl, ihned vyložil, proč Jiří tak pospíchá, proč asi mu je nevolno, a vyslovil přitom svou nevoli a nevrlost nad jednáním Jiříkovým. Čekal ženin souhlas, a horlivý. Paní Březinová však, uslyševši, že se Jiřímu nechce na kněžství, povzdechla soucitně.
