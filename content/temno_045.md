@@ -3,6 +3,8 @@ title: XXXIX
 contentType: prose
 ---
 
+<section>
+
 Toho dne pozdě večer zemřela paní Dorota Kateřina Turková z Rosenthalu, rodem Payerová z Payersberku. Zhasla ještě dříve, nežli se stará paní Lerchová nadála. Pozejtří večer byl slavný pohřeb za světla dvacíti pochodní kolem rakve, za světla voskovic, jež neslo dvanáct párů mnichů, za průvodu bratrstev v pohřebních pláštích, za hlaholu zvonů, za zpěvu a za hlasů pozounů, tak jak si to nebožka již před lety ustanovila.
 
 Březinova rodina i paní stará od Pražáků šli ji také vyprovodit. Helenka Machovcova zůstala sama ve velkém pokoji. Ale jen stará paní odešla, přiběhla děvečka oznámit, že dole čeká bratr. Helenka vyskočila od šití. Tomáš ještě nikdá nepřišel sem všedního dne a tak pozdě. Něco se stalo, něco nese; blesklo jí, že Lazar Kiš přijel a tentokrát že se stavil u něho. Jen bratrovi ruku podala a již se ptala najisto, přijel-li Kiš.
@@ -37,7 +39,9 @@ Nejvíc jezoviti je hlídají a pátrají po nich. Ve vinicích mají pořád d
 
 „V neděli mně o tom, Helenko, povíš. Teď už musím zase na Koňský trh. Sháněli by se po mně a podruhé by mne třeba už do města neposlali.“ Dal dobrou noc a kvapně zmizel. Helenka se vrátila do velkého pokoje jako u vidění. Zapomněla na práci. Marně se namáhala dostati se z šera té záhady, kdo ten muž, kdo o nich ví, o ně se stará. To je božím řízením, že dostali zase knížku, aby nebyli bez outěchy, zrovna božím řízením.
 
-  
+</section>
+
+<section>
 
 V klenuté šenkovně u Březinů bylo toho večera hostí husto; kolem stolu blíženců všecko jeho kolegium. Florián Mariánek měl slovo.
 
@@ -67,7 +71,9 @@ Nad tímto posledním pořízením veselost kolem stolu i v sousedství. Jen I
 
 „Ale abyste se na tu cestu ještě hned nevydali,“ přál vesele Sameček; přiťukl Filečkovi a Mariánkovi a všechen stůl pozvedl džbánky.
 
-  
+</section>
+
+<section>
 
 Helenka se nemohla neděle dočkat. Tomáš přišel záhy odpoledne. Jen vkročili do komůrky, už se ptala po knížce. Ohlédl se opatrně a pak ji vytáhl zpod kamizoly. Helenka dychtivě po ní sáhla a dychtivě ji prohlížela. Dychtivě a pak s pohnutím. Zrovna podobnou měli, modlitby, při nich krátký katechismus, ten obrázek na konci rejstříku, věneček a v něm srdce s mečem a růžemi a podruhé ten obrázek po katechismu, a za katechismem četla „Zpěvové duchovní“. Zatrnulo v jejím nitru. Ovzduší rodné světnice v myslivně ji náhle obklopilo a jako zavonělo, před oči jí vyvstaly večery, kdy při zavřených dveřích a okenicích čítali na Skalce, otec, někdy ona, jak poslouchali vážný hlas otcův, jak i zazpívali. Dojata, mlčky hleděla do Klejchovy knížky.
 
@@ -106,3 +112,5 @@ Když pak Tomáš byl na odchodu, vzpomněl, že tenhle čtvrtek je svátek.
 „A myslíš?“
 
 „Jen co o pantátovi zvíme.“
+
+</section>

@@ -3,6 +3,8 @@ title: XXXV
 contentType: prose
 ---
 
+<section>
+
 Nazejtří dopoledne vstoupil tlustý lokaj v červené livreji do komory k Machovcovým dětem a oznámil jim usmívaje se, tak že se budou loučit, tady že neostanou. Tomáš prudce vstal a ptal se, pošlou-li je zpátky na Skalku.
 
 „Ne, to ne, na Skalku nepojedete, do toho hnízda se už nikdá nevrátíte.“
@@ -45,14 +47,18 @@ Tomáš zasmušilý dával Helence sbohem. Tiše plakala. Její oporu a posledn
 
 Toho dne odpoledne nevalně jasného šel Jiřík Březinův navštívit svou babičku, jak to teď o vagacích skoro denně činíval. V průjezdě starého nákladnického domu U Pražáků ticho; kolem šenkýřčiny stolice prázdno. Byloť ještě záhy a chladný podzimní den nezaháněl nikoho před časem jako za parného léta, aby se u šenkýřky občerstvil. Zato z nádvoří, plného sudů a dvoukolových kar, zazníval zpěv. Mladý sladovnický mazal tam jednu z dvoukolek, na kterých se pivo rozváželo hospodským, a přitom si zpíval:
 
-  
+</section>
+
+<section>
 
 _Pan starej mne předvolává,  
 odpuštění z práce dává,  
 z práce děkuje, štěstí vinšuje,  
 štěstí vinšuje-é-e._
 
-  
+</section>
+
+<section>
 
 Toto sentimentální protahování a prolamování slova i nápěvu neslo se za Jiříkem až na dřevěné schody. Bezděky mu naslouchal stoupaje do patra, přestal však hned, jak dokročil na poslední schod nahoře. Na vybílené síni u dveří stálo mladé děvče s uzlem v rukou, nápadné svou urostlou postavou. Na hlavě měla čapku kožešinou obšitou s nevelkým černým střapcem v dýnku. Šedivý soukenný kabátek byl na ní jako ulitý; sukně tmavá, červené punčochy. Venkovské děvče, asi z malého města. Stálo nehnutě, hledíc úzkostně ke dveřím velké světnice; rychle se však ohlédla, když zaslechla kroky na schodech. Plachý a ulekaný byl její pohled.
 
@@ -64,14 +70,18 @@ Paní Lerchová o hůl se opírajíc, stanula ve dveřích. Usmála se na vnuka
 
 Mariánek, spokojen výsledkem svého poslání, chutě a hbitě sestupoval po schodech; dole však na konci průjezdu stanul a okamžik se díval na několik sladovnických, kteří nakládali sud piva na dvoukolovou káru. Dlouho však mlčky jich nepozoroval. Usmál se zeširoka a začal na poškádlenou sladovnických zpívat:
 
-  
+</section>
+
+<section>
 
 _Kočár s dvěma koly,  
 na něm pivo vozí,  
 šenkýřkám spouštějí,  
 tam se s nima čičmají –_
 
-  
+</section>
+
+<section>
 
 Do toho náhlý sbor sladkovských od „kočáru s dvěma koly“. Lijavec jadrných nadávek a hrozeb se na něj spustil, a když jeden se od káry odtrhl, jako by se chtěl hotovými odměnit, zpěvák narychlo uhnul a směje se pospíchal zrychlenými kroky směrem k Dlouhé třídě.
 
@@ -134,3 +144,5 @@ P. Daniel horlivě přisvědčoval a pochvaloval si, to že je pravá křesťan
 „Tím líp, tím líp –,“ pochvaloval P. Daniel a přikyvoval bílou hlavou.
 
 Když Jiřík odcházel, bezděky se ohlédl na síni na místo u dveří, kde prve Helenka stála. Nespatřil tam nikoho; i ten uzel zmizel.
+
+</section>

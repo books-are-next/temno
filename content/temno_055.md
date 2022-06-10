@@ -3,17 +3,25 @@ title: XLIX
 contentType: prose
 ---
 
+<section>
+
 Hubátius navrátiv se zapálil si hned svou bílou holandskou dýmčičku a zasedl ke stolu, aby dopsal list, který chystal pantátovi… Nežli začal, četl si, co již napsal. Bylo to:
 
-  
+</section>
+
+<section>
 
 „Praenobilis domine parens honorandissime! Valde con­sternatus fui, dum hodierna posta nullas litteras super meas duplices reperui; nescio, quid sit causae. Per dominum patruelem Czizek 17 fl. rite obtinui, pro quo paterno affectu summas agens gratias, filialiter obligatus ero.[^56] Punčochy tuto dobrý, který se jako hedbávný ponesou, dal jsem za ně 1 fl. 30 kr., neb jsou na novou módu. Nejní zapotřebí mně za ně peníze odeslati, ale pěknejch raků dvě kopy, pěknejch, neb nanicovatých mám v Praze dosti. Dva český katechismusy, menší a jeden věčí, odesílám, za ty malý přišlo 10 kr. a za velkej 12 kr., taky půl libry zázvoru, čtyry pepře, libru hřebíčku, půl květu odesílám. Můžou-li se nějaký kosi mladý dostat, ať pantáta zase nějakého pro distructione vyživí, však ať je samec, přitom žádám vo šest šátků, ne pro mne, ale pro jednoho pátera cyriáka, za které peníze odešlu, ať jsou jenom tejnky a barvy tmavý, štráfovaný celý.“
 
-  
+</section>
+
+<section>
 
 Vzal pero a psal dále:
 
-  
+</section>
+
+<section>
 
 „Peto informari, utrum quattuor poma citrina et tabaca obtenta sint.[^57] Ostatně odtud nic nového nepřipadá. Žádám, aby pantáta mně avisi dal, zdali forman všecko odvedl a nepřijde-li rakařka spíš nežli jindy, což když očekávati budu, se poroučím a zůstávám praenobilis domini parentis oboedientissimus filius[^58]
 
@@ -96,3 +104,5 @@ Deklamátor vzhlédl k němu tázavě.
 [^58]: Vysoce urozeného pana otce nejposlušnější syn. Pozn. red.
 
 [^59]: Zkr. „prendre“, tj. vzít do Tábora. Pozn. red.
+
+</section>

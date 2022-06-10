@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Všecko svatá pravda, všecko tak, jak to Mariánek přinesl. Toho večera bylo to ještě tajemstvím, ale nazejtří věděl o tom všechen Koňský trh od velké Scheidlerovské zahrady nahoře u Koňské brány až dolů k příkopům, všechen Koňský trh po obou stranách. Stůl „u blíženců“ jednal o té zprávě po kolik večerů. Vzrušovala jej, poněvadž se týkala jejich pana starého a jeho rodiny, jejíž osudy sledovali s vřelým účastenstvím, jako jmenovitě před sedmi lety, když měl pan starý Březina těžkou alteraci[^17] pro nejstaršího syna svého Vojtěcha, teď, tohoto času, kaplana v Plzni, když veselý student i outrata tenkráte nechtěl přistoupiti k důstojnosti kněžské. A s druhým, Ondřejem, teď cisterciákem, nebylo o nic lépe.
 
 Doma měl pan starý ještě dva syny, Jindřicha, jenž byl při živnosti, a Jiříka, nejmladšího. Ten chodil tohoto roku 1725 do rétoriky[^18] k jezovitům v koleji u sv. Klimenta.
@@ -59,20 +61,28 @@ Dole v nádvoří se ozvaly housle a harfa s nimi, pak zpěv rozveselené cha
 
 Tak ubíhalo odpoledne v šumu a veselí. Než se kdo nadál, nachýlilo se. Nebe ještě zářilo, na pavlačích však už hasl poslední zlatý pruh světla; a v nádvoří dole všude už stín. V něm nová kratochvíle. Jeden ze sladovnických chytl mladou děvečku a začal se s ní vrtět, zanotovav:
 
-  
+</section>
+
+<section>
 
 _Že nevíte, pane kmotře, proč k vám jdu._
 
-  
+</section>
+
+<section>
 
 A housle, harfa hned vpadly a kamarádi tleskajíce zpívali dál:
 
-  
+</section>
+
+<section>
 
 _Ztratila tu naše máma zástěru.  
 Jaká byla? Pane kmotře, strakatá —_
 
-  
+</section>
+
+<section>
 
 V tu chvíli stanul nahoře na pavlači nejmladší Březinův syn, Jiřík, rétor sedmnácti let, mládenec štíhlý, ale drobný, v černých punčochách, v černém obleku s širokými cípy bělostného šátku krajkového na prsou. Byl bez klobouku, v studentské nevelké paruce tmavé, v níž podlouhlá, jemná jeho tvář zdála se ještě outlejší a bledší.
 
@@ -99,3 +109,5 @@ V tom hukotu a v tlačenici žádný sobě nepovšiml, že se houfem v průj
 [^21]: Členové soudu rozhodujícího dlužní pře. Pozn. red.
 
 [^22]: Krinolína. Pozn. red.
+
+</section>

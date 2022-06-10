@@ -3,6 +3,8 @@ title: XLVI
 contentType: prose
 ---
 
+<section>
+
 Ale když se pak jaro otvíralo, přestalo tajemství paní Březinové býti tajemstvím. Florián Mariánek jeden z prvních je vystihl pohledem a svěřil je v březnu měsíci jednou večer náramně důvěrně stolu blíženců s významným úsměvem a mžikaje očima. Přitom také upozornil svůj zalíbený stůl, aby si povšimli pana starého, jak radostí a spokojeností jen září a že mu teď už nic neschází nežli „fon“, když paní manželka je rodem fon, tak aby synek, a jistě že to bude synek, měl také fon, a to že pan starý také pořídí.
 
 Pak už i po nákladnickém domě mezi čeledí a chasou pošuškávali vážně i s úsměvy o vráně a křtinách, o princi nebo princezně. Jen Jiřík neměl o nastávající události dosud ani tušení. V ten čas, kdy zima přecházela, nebyl zdráv. Útlý jeho organismus snášel tentokrát nesnadno dny plískanic, mlh a sychravých větrů. Babička, paní Lerchová, starostně jej pozorovala, zvláště když i za pohody prvního jara se nějak tratil. Napomínala jej, radila mu za každé návštěvy, až jej to již unavovalo. Byl by proto rád polevil a řidčeji přicházel, ale nedokázal toho kvůli Helence.
@@ -102,3 +104,5 @@ Tady posluchači přerušili Mariánka; zlostně se chechtali, láli a klnuli F
 Druhá senzace Mariánkova, tišší, která však dojímala stůl blíženců, byla, že mladá paní stará, paní Březinová, těžce onemocněla, že se ráno něco stalo, hned že poslali pro bábu, pak pro doktora Globice a také Tobiáš Ledecký chirurgus že byl povolán, pan starý že chodil vedle v pokoji, tam že čekal, čekal, pak když se nemohl dočekat, že vyrazil na chodbu a tam že běhal jako smyslů zbavený, za hlavu že se chytal, s paní že je zle, vykládal Mariánek, protože jí ušlo mnoho krve, že leží jako bez sebe a že se neví –
 
 [^51]: K nejvyšší pohaně svatého… vystrčil na něho zadek. Pozn. red.
+
+</section>

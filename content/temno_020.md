@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Dal se jím dolů, za příkopy přes Můstek, kolem Staré rychty, kolem vojenské strážnice při kotcích, dlouhém to stavení s řadou krámů a krámků, kůrkami krytém; kolem něho a za ním v podloubí u sv. Havla mezi boudami a stánky dosud šum a ruch tandlmarku, ač se den už nachyloval. Jiří se po tom rojení ani neohlédl. Pospíchaje přešel Celetnou ulicí, dál šerým průjezdem, nevalně čistou uličkou Templovou ke klášteru sv. Jakuba.
 
 Minulé neděle sem pospíchal do kostela. Zaslechlť u svého učitele hudby, varhaníka u sv. Martina Brixiho, že u sv. Jakuba zahraje o hrubé veliké sólo ten taliánský houslista, jenž tu v Praze zbyl od předloňska, od korunovace po představení Fuxovy slavnostní opery, Giuseppe Tartini, nyní v domácí kapele hraběte Kinského.
@@ -102,3 +104,5 @@ Jiřík stržen tím vroucím projevem své babičky, vždy rázné a přísné
 [^24]: Jantarový. Pozn. red.
 
 [^25]: Pláštík. Pozn. red.
+
+</section>

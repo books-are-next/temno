@@ -3,6 +3,8 @@ title: XXXI
 contentType: prose
 ---
 
+<section>
+
 Před pěti léty začal František Hubátius, tenkráte ještě filozof, denně chodit k Březinům na Koňském trhu, ne však dolů do hospodské jizby klenuté, nýbrž do patra, do nevelkého pokoje, kdež na něj vždycky čekal Březinův nejmladší, Jiřík. Tyto návštěvy nastaly nedlouho po tom, co Jiříka přijala prima seu infima classis grammaticae seu principiorum v jezovitské koleji u sv. Klimenta.
 
 Tam suma všeho učení byl „mateřský jazyk jezovitů“, latina. Latina a pořád latina. Číst, psát a mluvit po latinsku, to bylo všecko. Jiříkovi to ze začátku hrubě nešlo, ač se dost přičinil a paměť mořil. Měl trápení s latinou a ještě ho jí pokoušel Ph. a Med. Dr. Jan Globic z Budčína, královský zemský fyzikus, přítel pana starého Březiny a domácí lékař. Ten, kdykoliv přišel, spustil na Jiříka po latinsku nebo žádal, ať říká, ale hodně zčerstva: „Pietatem ama.“[^39] Studentík poprvé vyhověl a vysoký, mohutný fyzikus v černém kabátě, v černých punčochách se řehtal, až se mu husté kučery jeho dlouhé paruky potřásaly, a volal, co to Jiřík mele, že říká: „Pije táta, máma.“ A vesele dokládal: „To ne, pije táta, máma. Nebo kde táta piják a máma pivoňka, tam syn pijáček a dcera pijavka. Ale pi-e-ta-tem a-ma!“
@@ -25,14 +27,18 @@ Jiřík pohlédl udiveně na Hubátia.
 
 „Vidíš, mlčel bys jako každý, a starý Brixi by se ušklíbil a řekl by ti, jako vždycky říkává:
 
-  
+</section>
+
+<section>
 
 _Tu mi hrej, můj papoušku,  
 povíš, co víš.  
 Pověděl bys víc,  
 ale neumíš nic.“_
 
-  
+</section>
+
+<section>
 
 „Co mu tedy mám říct –“
 
@@ -133,3 +139,5 @@ Jiřík byl by zůstal na kraji náměstí, Hubátius hnal se však dál až do 
 [^45]: Mořený. Pozn. red.
 
 [^46]: Pomocný úředník. Pozn. red.
+
+</section>

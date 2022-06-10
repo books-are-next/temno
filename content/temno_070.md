@@ -3,6 +3,8 @@ title: LXIV
 contentType: prose
 ---
 
+<section>
+
 Minul týden, minul měsíc, co Tomáš uprchl z Prahy, a Helenka nic o něm nezaslechla. Přestávala se o něj lekat a již pevně doufala, že vyvázl. Když také říjen se nachýlil ke konci, věřila, že je i s Vostrým za hranicemi, u pantáty. Ten teď už ví také o ní. To pomyšlení tížilo skoro stále; temně za dne i při práci, prudčeji, když byla sama a v noci, kdy často probděla dlouhé chvíle v trudném myšlení a vzpomínání. Také sny ji děsily; otce vídala nebo Vostrého, bledého, s rudým puchýřem na víčku, jak ji honí, jak po ní sahá, a ona do země jako zarostlá, nohy slabé, bez vlády. Jindy ve snu se s Tomášem modlila, tady v komůrce, z Klejchovy knížky se modlili a ona ji přikrývala kabátkem, a vtom že přišel Lazar Kiš, žid ze Skalky, a hlásil, tak že pro ně přijel, aby šli a sedli si, pantáta že se nemůže dočkat. Tenkrát se ve spaní rozplakala.
 
 Jinak měla v domě pokoj. Paní Lerchová přestala o Tomášově útěku mluvit a P. Daniel, jenž občas přicházel návštěvou, choval se k Helence zvlášť laskavě. Přinesl jí také mědirytinu, obrázek Jana Nepomuckého, na znamení své přízně. Když jí připomenul, že je svěcený, políbila obrázek a začervenala se. Skalka se jí kmitla, jak regent, starý pan Lhotský, podal jí také takový obrázek, který jí z Prahy přivezl, a jak tenkráte jen naoko jej políbila. A teď. Svědomí uhlodlo, smutek pocítila a se sklopenýma očima poslouchala, jak P. Daniel před ní a před starou paní vykládal, že došly dobré zprávy z Říma, že se tam jedná o kanonizaci blahoslaveného Jana Nepomuckého, že se jeho svatořečení už bohdá brzy dočkají.
@@ -74,3 +76,5 @@ A vtom vstoupila.
 Když s Helenkou odešla, nechal Jiří betléma, nechal svíčky hořet a přiskočil k oknu, aby zahlédl Helenku, až bude z průjezdu vycházet. Dočkal se jí. Díval se za ní, až zmizela v bílé metelici.
 
 [^67]: Sláva na výsostech (Bohu a pokoj lidem dobé vůle). Pozn. red.
+
+</section>

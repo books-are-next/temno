@@ -3,6 +3,8 @@ title: LV
 contentType: prose
 ---
 
+<section>
+
 Jiřík ani nazejtří nenabyl jistoty, přihodilo-li se něco Helence. Zahlédl ji ráno na chodbě, šla s Lyzlou. Byla v tváři pobledlejší, ale poděkovala s úsměvem na jeho pozdravení. Nebyl to však úsměv rtů, očí i duše, jakým se jindy za takových setkání na něj usmála. Ten úsměv jako květ na okénku, ale v komůrce duše šero a smutno. Promluviti s ní nemohl. Ráno ji nezastal samotnu, před polednem musil k babičce, odpoledne pak, jak se doslechl, odešla Helenka na vinici, kamž ji macecha napřed poslala. Sami se tam měli odebrat až nazejtří.
 
 Byl nespokojen, nejraději by se byl rozběhl za bránu do lusthauzu. Chystal si ve svém pokojíku knihy, přes tu chvíli však upadal v zamyšlení, v dohady, že ten mužík snad přece přinesl Helence novinu, a ne dobrou; proč by byla večer smutna, proč vzpomněla na starý dub, na zlé znamení.
@@ -35,13 +37,17 @@ Ta slova se tenkráte vryla jí do srdce a hned se jí tenkráte také ozvala v
 
 Za lusthauzem od plotu sousední vinice zalehl do večerního ticha zpěv příjemného hlasu:
 
-  
+</section>
+
+<section>
 
 _Můj bože, vzhlédni okem své milosti  
 na ouzkosti mé a pošli z výsosti  
 anděla svého —_
 
-  
+</section>
+
+<section>
 
 Tomáš! Zachvěla se. Chtěla vstát, jíti mu naproti, nohy však jako by ztuhly; nehnuté hleděla rozšířenýma očima vstříc bratru, jako by jí přinášel ortel. Ví-li už – A neví-li, musí mu to sama říci – Blížil se, chvátal a čepicí zamával, což dosud nikdy neudělal. To je z radosti, to již ví, ví –
 
@@ -114,3 +120,5 @@ Byla dojata jeho starostlivostí, pravdu však říci nemohla. Zakroutila hlavou
 „A snad navečer nebo večer! To jsem tam také byl, Helenko, pořád jsem tam v duchu byl – a – s vámi. A vy, vzpomněla jste si? Vzpomněla jste?“ ptal se tiše. Přikývla, usmála se, oči sklopila.
 
 Vtom stará kuchařka zavolala ze síně. Helenka tam odkvapila. Ta tichá, milá odpověď jej těšila. Přec však zůstalo v něm temné, tíživé neuspokojení, že o té své starosti a o tom krajanu neřekla nic určitého, že přece snad se něco stalo a že to tají –
+
+</section>

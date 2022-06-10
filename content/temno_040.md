@@ -3,6 +3,8 @@ title: XXXIV
 contentType: prose
 ---
 
+<section>
+
 Časně ráno je vzbudili. Do hustého šera vykročili za vozem plným zásob ze Skalky. Zámeček, myslivna, dvůr, všechno v temnu; lípy a topol, alej v zahradě černaly se mlhavým, sychravým vzduchem. Za branou naposledy se obrátili po myslivně, nad níž rozložitá koruna starého topole zašuměla jako ze spaní.
 
 Helenka s Tomášem kráčeli za vozem; poklasný, průvodčí vozu a jejich strážce, s nimi. Sešli dolů, dostali se pod strmou opukovou skálu, na níž čněla Skalka, do vsi pod ní a dále v dolině. Ve všech staveních tma; vesnice spala, černá byla, jenom před roubeným příbytkem mladého žida Lazara Kiše hořela svítilna u vozu, do kterého Kiš zapřahal svého koníka. Jak Tomáš žida zhlédl, chvatně k němu zaběhl a chvatně ho žádal, aby, kdyby někdo z Mezřiče se u něho stavil, aby po něm strýci Klancovi vzkázal, že je odvezli do Prahy a že strejce a babičku pozdravují, on a Helenka, a že budou-li moci, že časem do Mezřiče vzkážou.
@@ -108,3 +110,5 @@ To byl sběh pro toho zloděje, kterého od sv. Víta přivlekli do radnice. Pro
 „Toho si nechám, do vinic by se mi hodil, je silný, a taky teď nikoho nemám, kdo by troubil na dělníky.“
 
 „Jak rozumíte, pane. A co pan Hubátius?“ Březinová se obrátila s úsměvem k Jiříkovi. Ten hned začal chutě vypravovat o bytu u Božího oka, jak to tam Hubátius má, a také o jeho auditoriu, o panu deklamátorovi zemských desk Johanu Svobodovi.
+
+</section>

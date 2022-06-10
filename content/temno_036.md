@@ -3,6 +3,8 @@ title: XXX
 contentType: prose
 ---
 
+<section>
+
 V září toho roku 1725 přijeli do Prahy jízdečtí verbíři a usadili se na Koňském trhu v hospodě U zlaté husy podle Zeleného domu sládka Bernarda Palmy. Tu rozbili svůj stánek, tu vábili mladé muže, aby se dali „pod dragouny“; vábili je, lákali, mámili, aby uvěřili, „že na tej vojně, tam že „hojně“ a veselo a jaká krása sloužit na koni v dragounském mundúru a rystuňku.
 
 Ten mundúr a rystuňk verbíři vyvěsili na znamení „verbuňku“ a jako volavého u Zlaté husy v přízemním okně pěknou novou uniformu slavného pluku savojského prince Eugenia, bělostný dlouhý plášť s červeným límcem a s takovou podšívkou, vedle kabát šarlatové barvy s černými výložky rukávů širšími a s černým obšitím šosů lehko zahnutých. Na těch šosích, na výložkách, vpředu na kabátě třpyt žlutých kovových knoflíků. Nad rudým kabátem černý klobouk na tři facky s lesklým premováním a níž pod kabátem a běležlutou kamizolou jezdecké boty s ostruhami jako stříbrnými, třpytný palaš vedle, karabina, pistole dvě.
@@ -13,7 +15,9 @@ Před tou jizbou v průjezdě plno mladých mužů, tovaryšů, plavců z Pods
 
 Na ten se podívat přišel také Ignác Fileček, komorník desk zemských. Netlačil se v průjezdu, nýbrž čekal kousek výše na chodníku a hleděl k Zlaté huse, odkudž právě vyrážela ne tuze ladně písnička opilých odvedenců:
 
-  
+</section>
+
+<section>
 
 _Já voják, ty voják, dva vojáci,  
 dáme si vína dát po sklenici  
@@ -21,7 +25,9 @@ za zdraví všech hezkých pražských panen,
 zvlášť kerý jsme milovali,  
 víc nebudem —_
 
-  
+</section>
+
+<section>
 
 Vtom před Filečkem jeho blíženec, Filip Sameček, komorník při královském ouřadě perkmistrovském hor viničných pražských. Oba v polovičních, španihelských parukách pozdravili se, zdvořile si navzájem pikslu nabídli (španihelskou hůl každý pod paždí), Fileček stříbrnou s obrazem Turka na víčku, Sameček stříbrnou s tajenou figurou nahé ženštiny na dně pod tabákem. Oba občerstvili své hodně dlouhé, na konci bambulové nosy, oba však nestejné míry: Fileček spokojeně usmívavý, Sameček, jindy samý šprým, té chvíle mrzutý. A hned se začal durdit, když měl odpovědět, jak se má; že by se radši neviděl, tisíc láter, že je jako honicí pes.
 
@@ -79,14 +85,18 @@ Hudba, jež vzdálivši se zněla tlumeněji, pojednou zase sílila. Obrátilť 
 
 „Tak co večír, uvidíme se, přijdete,“ vzpomněl a rychle pověděl Mariánek, obraceje se po průvodu. „Teď se půjdu podívat po tom chlapci. Sbohem zatím.“ A již byl z chodníku na prostranství, už se tam ztratil mezi čekajícími a vyhlížejícími. Průvod se blížil, hudba na okamžik umlkla. Tím plněji vyrazil a rozléhal se zpěv naverbovaných:
 
-  
+</section>
+
+<section>
 
 _Mý zlatý rodiče, kříž děláte,  
 kdo ví, zdali mne už uhlídáte.  
 Adio, bratříčku, poroučím se,  
 mý zlatý sestřičky, též loučím se —_
 
-  
+</section>
+
+<section>
 
 I v oknech z obou stran domů, tenkráte nevysokých, většinou jen patrových, plno diváků. Také štíhlá, mladá paní Březinová v domácím kabátku přiléhavém krátkých rukávů s krajkami, v bělostném čepečku, jenž jí velmi slušel, půvabná i v tom domácím obleku, stála u okna a dívala se za průvodem, jenž hluče míjel jejich dům a zacházel dolů prostranstvím mezi zástupy na něj zevlujícími. Zadívavši se ani nezpozorovala, že vstoupil její muž. Přišel ve sváteční paruce, v hnědém nedělním kabátě a v takové kamizole.
 
@@ -149,3 +159,5 @@ Lehounký červánek překmitl po tvářích mladé paní.
 [^37]: Rychle, rychle. Pozn. red.
 
 [^38]: Přísedící soudu. Pozn. red.
+
+</section>

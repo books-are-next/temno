@@ -3,6 +3,8 @@ title: LXXII
 contentType: prose
 ---
 
+<section>
+
 Když Jiří nazejtří ráno otvíral okno svého pokoje, postrčil přitom knihami tam ležícími; přitom si všiml, že v jedné z nich je zastrčený nějaký obrázek. Nevěděl o něm, a proto rozevřel knihu, aby se podíval. Nepamatoval se na něj ani na to, že by jej byl sem uložil. Jak jej zase dával do knihy, zahlédl, že na jeho zadní, prázdné straně jsou psané řádky. Podíval se, začal číst, a již četl, četl; úžas z těch řádků, úžas, leknutí. Nevěřil, četl zas. Zraky uvázly na řádku: „teď přišel otec, musím s ním –“ Její otec, kacíř! A zas ulpěly na začátku. „Chtěli mne poslat zas na Skalku –“ Je to od Helenky, je; a toto: „Co jsem řekla na zahrádce, je pravda –“
 
 Helenka to psala. Obrázek se chvěl v jeho rukou jako lupen. Na­vždycky ji chtěli dostat z Prahy, pantáta; a teď navždycky odešla. Kam – Do ciziny, jistě, když pro ni přišel otec. Do luterské země ji zavede. To je tady v lístku: „Vy mně neodpustíte –“ Zaúpěl, sklesl na židli, obrázek v ruce. Hleděl strnule na jeho řádky, ale již nečetl. Uhodily, a uhodilo pomyšlení, kterak se obrázek sem dostal, že Helenka jej přinesla, že tu byla nablízku, tady u okna, tady. Mohl ji uvidět, mohl s ní promluvit, a ona nesměla, tajila se – Ach ten vzlyk, který včera večer z réví zaslechl a který se mu pak v tichu večera i tady ozval, na který nemohl zapomenout –
@@ -137,7 +139,9 @@ Jiřík chvatně sáhl po knize, jako by se o ni bál, a tiše, ale rozhodně 
 
 Hubátius odešel a Jiří, hledě do prázdna, myslil dále na to, co Hubátius řekl, že Helenka odešla s otcem. Musila, musila, ach jistě musila. Tady ji vyháněli, otec přišel, a snad také kvůli němu, Jiříkovi, odešla. „Všecko bych pro vás podstoupila,“ zaznělo mu v duchu, jak tam na zahrádce řekla. Všecko by podstoupila. To aby mu uvolnila. V náhlém pohnutí sáhl po knize, podíval se na Helenčin obrázek, znovu četl její řádky. „Ach, vy mně neodpustíte, to je hrozné pomyšlení, ale co jsem řekla na zahrádce, je pravda, do smrti, do smrti –“ A četl zas: „Co jsem řekla na zahrádce, je pravda, do smrti, do smrti.“ Oči se mu zakalily, ne poprvé nad těmito řádky, a šeptem si opakoval: „Do smrti, do smrti –“
 
-  
+</section>
+
+<section>
 
 „Čtvrtého června, to jest pozejtří,“ ta slova, a jak to deklamátor pověděl, dojala Hubátiá a pamatoval na ně. Jmenovitě pozejtří, toho označeného dne, živě si vzpomněl na svého souseda. Nezpozoroval, že by byl ráno odešel; než z jeho bytu nezaslechl žádného šramotu, žádného hlasu. Ale deklamátor doma byl.
 
@@ -258,3 +262,5 @@ Za dva dny vyplatil Hubátius deklamátorovi značnější sumu za stoh knih, me
 „Zaplať pánbůh. Škoda že nesmím vědět jeho jméno. Ale po­zdravujte ho, pozdravujte ho.“
 
 Přišel zjednaný mužský, jenž do té chvíle nevěděl, kam knihy poveze, a začal je snášeti dolů na vozík před vraty. Hubátius se vytratil. Deklamátor usedl do kouta a hleděl do země. Teprve když mužský hlásil, že béře poslední, tak že snad je to všechno, vstal, mlčky přisvědčil; nemohl ani promluvit. Díval se za mužem, až vyšel, díval se vlastně po knihách v jeho náručí, pak se obrátil po prázdných stojanech skoro nadobro vymetených. Bylo mu jako o pohřbu, když vynesli drahého srdci. Slzy se hrnuly deklamátorovi po zvadlých, požloutlých tvářích.
+
+</section>

@@ -3,6 +3,8 @@ title: XLV
 contentType: prose
 ---
 
+<section>
+
 Jiří po tom nakvašeném hovoru o Janu Husovi a Janu Nepomuckém nestavil se za delší čas u deklamátora Svobody. Nechtělo se mu tam, tajná nechuť mu nedala i obava, že by deklamátor snad začal zase takovou rozprávku. Ale když se s ním pak u Hubátia setkal, nic na něm nepozoroval; byl, jako předtím býval, jako by o tom hovoru nic nevěděl. A také touha po čtení se ozvala. I navštívil opět deklamátora a pak zas. Hovořili o knihách a také si zas knihy odnášel.
 
 Ale poté jednou, bylo na podzim, ukázal se mu deklamátor zase podivný, nějak záhadný. Stalo se u Hubátia, když dohráli, to již při rozžatých svíčkách, jak teď za podzimních podvečerů hrávali. Housle ležely na stole. Jiřík seděl na židli u pulpitu, auditorium se schoulilo v křesle u vyhřátých kamen, Hubátius, zapáliv si loučkou svou bílou holandskou dýmčičku, spustil se na postel. Chutě pokuřuje, chutě a vesele hovořil. Vypravoval, co se mu dnes přihodilo, jaké bene měl, že šel před samým polednem s mladým Blatnickým (byl bohatý, měšťanský synek) a vtom že potkali Holtzhaye, to že je, aby věděli, výborný loutenist, že se živí instrukcí v muzice, ten že zvandroval světa kus, Uhry, Slezsko i Polsko, a v Bavorsku že byl, ve Vídni, všude že učil na loutnu, a v jakých domích, u vrchností, u hrabat, baronů, teď že učí také v Praze, a taky mladého Blatnického.
@@ -55,7 +57,9 @@ Tentokráte mu zase pomáhala mladá jeho macecha tak jako loni, jenže ne tak v
 
 Jako rétor a ještě loni zasedl si na Boží hod odpoledne pod betlém a v milé tichosti, sám, četl si ze Zdoroslavíčka „Pastýřské rozmlouvání dvou pastýřův, Mavona a Davona, kteří o závod muzicírují a nočním časem boha vychvalují, když měsíc a hvězdy jasněji svítí“. To se mu tak líbilo, když četl:
 
-  
+</section>
+
+<section>
 
                _Byl právě měsíc na plně,  
                — — — — — — —  
@@ -70,7 +74,9 @@ Jak         každý na to nejvíc myslil,
                koleratury vymyslil,  
                byť znělo nejliběji —_
 
-  
+</section>
+
+<section>
 
 A s tichým zalíbením četl další skládání pastýřská „Vzhůru, vzhůru, k drahému dítěti pospěšte –“ a „Již jest v karmazín červený ráno oblečeno –“
 
@@ -80,34 +86,46 @@ Utišilo se ve velkém pokoji, když se paní obrstvachtmistrová v rajfroku pr
 
 V tu chvíli černé hodinky si vzpomněl Březina, že by manželka mohla zazpívat a Jiřík přitom na housle zahrát. Mladá paní nesáhla tak čile a chutě po loutně, ale vyplnila přání svého muže hned; Jiřík zaskočil do svého pokojíčka pro housle a již byl koncert. Březina, ještě v paruce, seděl v křesle, zpěvačka a hudec vedle na konci stolu. Venku sněžilo; v pokoji měkký soumrak, klid a útulno. Několik akordů na loutně úvodem, pak zpěv a tlumený doprovod houslí.
 
-  
+</section>
+
+<section>
 
 _Chtíc, aby spal, tak zpívala synáčkovi  
 matka, jenž ponocovala, miláčkovi –_
 
-  
+</section>
+
+<section>
 
 Paní Březinová měla krásný hlas a pěkně zpívala. Mile zněla před betlémem, pod jeho světélkem, stará vánoční píseň v souladném doprovodu plném citu. Pan starý poslouchal pobožně, nespouštěje očí ze své mladé ženy. Ale pak i Jiřík, jenž hrál maje oči sklopeny, pohlédl po maceše, jak se jí hlas náhle zachvěl a na okamžik i zakolísal. Bylo právě, když zpívala:
 
-  
+</section>
+
+<section>
 
 _Nynej, ráje mého kvítku, rozmarýne,  
 z tebeť sobě dělám kytku, jenž nezhyne.  
 Ó fialo, ó lilium, ó ruže má! Nynej,  
 vonné konvalium, zahrádko má._
 
-  
+</section>
+
+<section>
 
 A repetici „nynej, vonné konvalium – –“ vynechala. Jen struny zněly. Hned se však vzchopila a začala zas, ač ne tak zplna a svěže, spíše s namáháním, jak se zdálo:
 
-  
+</section>
+
+<section>
 
 _Ó loutno má, ó labuť má, můj slavíčku,  
 nynej, líbezná harfo má, cimbálíčku.  
 Na dobrou noc dej hubičku, nynej, dítě,  
 kolíbat bude matička —_
 
-  
+</section>
+
+<section>
 
 Přestala, nemohla dál. Březina k ní rychle přistoupil a dotazoval se, co jí je, nepostřehnuv v příšeří, že zbledla a hned zase zčervenala.
 
@@ -116,3 +134,5 @@ Přestala, nemohla dál. Březina k ní rychle přistoupil a dotazoval se, co 
 „Tak už dost, Jiříku, dost.“
 
 Jiřík hleděl překvapen i starostně na macechu; když otec opakoval, tak že už dnes dost, odnášel housle do svého pokoje. Jak zavřel dveře, ptal se Březina znovu, naléhavěji, co je, co se stalo. Paní Březinová okamžik mlčela, pak prudce vstala, chytla jej kolem krku, hlavu na prsa mu přiklonila a pošeptala mu. A on ji k sobě přitiskl, hladil ji a políbil za sladké tajemství, jež mu cudně svěřila –
+
+</section>

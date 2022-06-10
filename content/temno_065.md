@@ -3,6 +3,8 @@ title: LIX
 contentType: prose
 ---
 
+<section>
+
 Paní Březinová odebrala se toho dne záhy po večeři do svého pokoje a Jiří také. Helenka pak pomáhala uklízet. Pracovala chvatně, pospíchala, lekla se však, když stará kuchařka jí připomenula, že dnes už dost, aby si šla. Když vstoupila do své světničky a pohleděla na tmavou houštinu za zahrádkou a na stoh dubového klestí, černající se u plotu vinice, vzpomněla se strachem, že tam snad už stojí Tomáš. Kdyby věděl – Zakolísala ve svém odhodlání, ale hned se odvrátila od okna, ke dveřím zašla. Jiří čeká, a slíbila mu, že přijde.
 
 Rychle vykročila na verandu. Vnitřní zima ji roztřásla. Vychýlila se, upírala zrak k Jiříkovým oknům v přízemí. Byla osvětlena. Chtěla zpět do světničky, ale v ten okamžik stanul Jiří ve dveřích. Chtěla na něj zavolat, hrdlo však se jí stáhlo a srdce bušilo. A vtom odkvapil. Musí za ním; kdož ví, jak zítra, Tomáš, a ten – mínila Vostrého. A je to snad naposledy, naposledy, už rozloučení.
@@ -162,3 +164,5 @@ Slyšela, jak ji bratr všechen od sebe tlumeně volá a že se pustil za ní. 
 To Helenku zastavilo. Třesouc se vyděšeně se ohlédla. Spatřila Tomáše, jak skočil s Vostrým za stoh. Oba tam zmizeli. Naslouchala, vyhlížela; ale nic se již nehnulo. Ticho, temno. Pak se odvážila několik kroků dál, až ke stohu, až k plotu pokročila. Černal se v temnu, nikdo však u něho, nikdo za ním. Shýbla se k otvoru; tyče přiraženy, zavřeno. Byli nadobro pryč, uprchli. Tomáš se vrátí k pantátovi, a ona – ho nechala, zradila, zůstala v hanbě – v hanbě –
 
 V očích ji pálilo, stud a lítost ji krušily. Chytla se za hlavu, rukama zalomila, „Tomáši!“ do tmy vykřikla. Hlas vyzněl do hlucha, mrtvé ticho, ale v nitru se jí ozvalo: „Římanko! Ty římanko!“ A v to zas: „Pánbůh ji potrestá,“ jak Vostrý za ní hrozivě zavolal. Kmitl se jí jeho obličej, jako by z trávy se pozvedl, bledý v černých dlouhých vlasech, se zarudlým puchýřkem na víčku. Strach ji obešel, obrátila se, spěchala kolem stohu zpět –
+
+</section>

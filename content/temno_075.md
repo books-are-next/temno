@@ -3,6 +3,8 @@ title: LXIX
 contentType: prose
 ---
 
+<section>
+
 Téhož odpoledne, kdy Jiří meškal u Hubátia, dorazil deklamátor Svoboda do Kopidlna. Bylo to třetího dne, co se vypravil z Prahy. Šel pěšky, někdy se svezl kus cesty, jak se příležitost naskytla. Došed nehledal bratrovy myslivny. Vědělť, že by tam z rodiny nenašel nikoho. Hned jak myslivce odvedli do vězení, musily se obě dcery jeho z myslivny vystěhovat. Tři synové, myslivci, ponecháni zatím ve službě v jejich revírech, jak byli v Nadslavi, v Křešicích a v Hlásné Lhotě. Mluvilo se však o tom, že hrabě jich tam asi nenechá, protože jsou také podezřelí, pokud se víry týče.
 
 Deklamátor Svoboda snadno se doptal na neteře. Našly si byt v dřevěném stavení na kraji města. Když vstoupil, daly se do pláče, jako by na pohřeb přicházel. Baruška, mladší, nemohla ani promluvit. Statečnější Zuzanka, která v únoru přiběhla do Prahy mu povědět, že jim náhle odvedli pantátu do vězení a proč, oznámila teď třesoucím se hlasem, že včera přišel z Prahy rozsudek.
@@ -131,13 +133,19 @@ A níže žalmistovo:
 
 Obracel, nežli se dal do řádného, pobožného čtení, narychlo přehlížel modlitby, písně. Ach, samé milé, známé. Jak pěkně mu je bratr vybral, ty staré, jež s otcem, dědem doma tajně zpívávali, jež si pozanotoval v lesní samotě „na šancích“ pod duby, kdež se i modlíval. Tu, hle, také stará, Lutherova:
 
-  
+</section>
+
+<section>
 
 _Hrad přepevný jest pánbůh náš,  
 zbroj výborná i síla,  
 onť nás chrání, když satanáš  
 proti nám své vysílá –_
 
-  
+</section>
+
+<section>
 
 A tu také „píseň lidí pocestných“: Ve jménu Páně na cestu se dávám – A četl znovu: na cestu se dávám – Přestal, zamyslil se; cesta mu připadla, která mu nastává, daleká cesta, předaleká, na věčnost – Zahleděl se do prázdna, ale pak jako by hrůze myšlenek utíkal, útočiště, útěchu hledal, nachýlil se ke knížce, dal se do čtení. Zabral se do něho s hlubokou vroucností.
+
+</section>

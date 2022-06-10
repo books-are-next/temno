@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 Obloha za noci jasná po ránu se zaklopila hustými šedými mraky. Pozdě odpoledne začalo mžít a mžilo i zvečera. V té nepohodě přijela silnicí od Opočna svatá misie. Napřed jeli dva jezovité v širokých černých kloboucích a v tmavých pláštích, P. Mateřovský a P. Firmus, každý na hnědém koni; za nimi jejich fámulus, student, také na tmavém klusáku s dvěma vaky vpředu zavěšenými. Za tím kráčela bílá kobyla, která nesla dva jezdce. Napřed seděl jezovita, P. Antonín Koniáš, rovněž pláštěm zahalený, a za ním jeho služebník, pachole, studentek. Vpředu u sedla přivázán pytel silně nacpaný a nevelký tlumok. Kněžím nebylo dobře vidět do tváře pro široké klobouky i pro vysoké límce velikých plášťů. A smrákalo se.
 
 Zvony se rozhlaholily.
@@ -79,12 +81,16 @@ Rozdělal tlumok na židli položený, vyňal z něho kostěný kalamář, lahv
 
 Poklekl na podlahu a sepjav ruce modlil se polonahlas, obrácen k obrázkům nad stolem, otčenáš, zdrávas i zvláštní modlitbu k Panně Marii a k sv. Antonínu Paduánskému, patronu všech hledajících a pátrajících; pak požehnav se třikráte křížem říkal, a vroucněji a hlasitěji, zbožná slova, v něž věřil jako v přemocná, že zvláštní silou pomáhají v tom pátrání:
 
-  
+</section>
+
+<section>
 
 _Ecce crucem Domini, fugite partes adversae!  
 Vicit leo de tribu Juda, radix David, alleluja!_
 
-  
+</section>
+
+<section>
 
 Vstal, nahmátkou prudce otevřel podezřelou postilu a dychtivě zrakem přelétl nadpis zežloutlé strany švabachem tištěné. Bylo to čtení na svátek Navštívení Panny Marie. Nečetl ho, obrátil nedočkavě list, druhý, třetí. A tu zarazil. Za tím listem, hle, čtení na svátek mistra Jana Husa.
 
@@ -96,29 +102,39 @@ Vlahou, vlhkou nocí červnovou ozval se táhlý zpěv hlásného z ochozu radn
 
 Bylo již drahně po půlnoci, když Koniáš pozvedl hlavu od hustých řádek staré knihy. Připadloť mu, aby se ještě podíval na kázání. Sáhl po rukopisném svazku, z něhož čouhala popsaná škartka. Vzal ji, chtěje ji vložit do knihy jako znamení, kam až dočetl. Maně utkvěl mu zrak na řádcích toho listu a bezděky jal si je, svůj plod, čisti, kus rýmování, které si v Hradci začal. To měl na mysli Manniho hrozný Pekelný žalář, jemuž zdrojem byla vznešená Božská komedie. Tam z velkolepé, gigantické básně Dantovy příšerné, surové líčení a z tohoto pak tu ta Píseň o mukách pekelných, mající lidu oživovat a připomínat trápení zatracenců, kteráž fanatický misionář na svých kázáních tak palčivě a strašidelně maloval. I četl si tiše:
 
-  
+</section>
+
+<section>
 
 _Rozškleb se, tlamo pekelná,  
 zatmělá jeskyně,  
 buď mi aspoň dnes zřetelná,  
 ať vkouknu do tvé síně._
 
-  
+</section>
+
+<section>
 
 Chtěl se jen na začátek podívat, než autorská láska mu nedala; četl dál, zapomenuv na kázání. Říkal si, už ne šeptem, ale polonahlas:
 
-  
+</section>
+
+<section>
 
 _Neb mám bídu všemu lidu  
 zatracencův malovat,  
 jejich muky, ďáblův hluky  
 všem vykontrfektovat[^35]._
 
-  
+</section>
+
+<section>
 
 Tu se jeho dílo končilo. Umlkl, hleděl před se rozšířenýma očima, jako by nazíral do města věčné strasti za pekelnou bránu s hrozným nápisem: Nech naděje, kdo sem vstoupíš! Náhle, jakoby stržen, vzal péro a psal:
 
-  
+</section>
+
+<section>
 
 _Slyšán jsem. Stojí dokořen  
 ten žalář otevřený.  
@@ -127,8 +143,12 @@ strachy jsem omámený.
 Ach nevím sám, kde začít mám  
 žalostnou píseň zpívat —_
 
-  
+</section>
+
+<section>
 
 Péro mu vypadlo, oběma dlaněma chytl se za spánky; tupá bolest, která mu ryla za očima, začala zuřivě píchat a bodat ve spáncích, v zadní části lebky. Chvilku tak seděl všechen bledý, strnulý; pak vstal a v těch mukách přešel prudkými kroky jizbu. Pojednou padl na kolena, chvatně rozpínal na prsou kleriku a vytáhl odtud malý obrázek Panny Marie Jičínské. Políbil jej, pozvedl v prstech oběma rukama jako hostii před svou tvář, zavzdychal a začal se úpěnlivě modlit.
 
 [^35]: Zobrazit. Pozn. red.
+
+</section>

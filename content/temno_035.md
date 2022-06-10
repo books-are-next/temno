@@ -3,6 +3,8 @@ title: XXIX
 contentType: prose
 ---
 
+<section>
+
 Nazejtří, v pátek, loučila se svatá misie s Dobruškou. Po slavném vyzvánění všemi zvony pozdě odpoledne měl P. Mateřovský na rynku kázání. Bylo poslední, ne však závěrkou celé šestidenní činnosti hradeckých jezovitů. Ta se měla státi po kázání na hřbitově.
 
 Tam na volném místě za kostelem přichystal hrobař hranici suchého dříví. Oba jezovitští fámulové vytahovali u ní ze tří pytlů knihy většinou staré, ale také zánovní, hlavně ze Žitavy tajně sem dopravené, všechny tady pobrané. Byly mezi nimi také ty, které P. Koniáš přivezl si z Očelic, které sebrali na Skalce, a jiné, které lidé přinesli po kázáních, hlavně Koniášových, sami, dobrovolně na děkanství nebo je tam tajně poslali.
@@ -25,31 +27,43 @@ Smrákalo se, ticho, ani zavanutí. Byl dusný červencový podvečer. Ani líst
 
 Ti vzadu v zástupu se tlačili, krky natahovali, na špičky se stavěli, zvláště když od ohně se ozval misionářův hlas; to Koniáš měl krátké proslovení: ať zhynou ty knihy, kořen zla, dílo ďáblovo, plné bludů a kacířství, ať se s nimi spálí hříšná láska k nim. Pokynul a student fámulus podal první svazky a volal: „Knihy Václava Machovce, myslivce ze Skalky!“ Kostelník je vzal a hodil nejprve starou bibli odranou, bez desek, do plamenů. Vtom kantor Vondřejc švihl pravicí nad hlavou, dupl nohou a zanotoval:
 
-  
+</section>
+
+<section>
 
 _Zapalte kacířské bludy —_
 
-  
+</section>
+
+<section>
 
 Do toho hned mečivý tenor učitelského mládence i příval svěžích hlasů dívčích a chlapeckých:
 
-  
+</section>
+
+<section>
 
 _— zkazte pekelné obludy,  
 spalte pohanské nevěry —_
 
-  
+</section>
+
+<section>
 
 Za biblí padla do plamenů druhá, třetí kniha. Listy starých tisků žárem se prudce kroutily, čepejřily, černaly a v okrajích hned řeřavěly, hořely. A zase do nich žuchlo, jak kostelník i fámulus přihazoval nové; chomáče jisker vyletěly a zase chytal svazek za svazkem a zase volal student fámulus jména majetníků, Jiřího Lemfelda, jež prudčeji hnulo zástupem, jména sedláků očelických.
 
 Kniha za knihou míhala se nad žíznivými plameny, padala do nich. Hořely a hynuly radost a chlouba předků, utěšení nejednoho pokolení ve chvílích úzkosti a zármutku, hynula jediná útěcha, opora i útočiště posledních věrných víře svých otců. V popel se rozpadávaly bible svatá i postila Husova, Komenského Praxis, Hlubina bezpečnosti, zánovní Klejchova Koruna pobožnosti a jiné a jiné. Měkké chuchvalce tmavého dýmu letěly rovně k tmějícímu se nebi a s nimi hlahol školních zpěváčků, uvábených neobyčejným divadlem, zpívajících chutě, plnými hlasy strašlivou kletbu, kteréž nerozuměli, která, jakož všechno to autodafé, utvrzovala a sílila vštěpovanou jim ošklivost a nenávist k slavné minulosti a k velikým jejím duchům. Plným hlasem zpívali a slavili to, co, jak jim kázali, bylo pro spásu všech:
 
-  
+</section>
+
+<section>
 
 _Hořiž, hořiž, Jene Huse,  
 ať nehoří naše duše –_
 
-  
+</section>
+
+<section>
 
 Na tvářích misionářů uspokojení; právo městské za nimi ve vážném postoji, jako by přihlíželo náboženskému výkonu. Jen radní Doubrava víc klopil zrak, nežli se díval do plamenů, nebo úkosem pohlédl po hrozných misionářích a myslil na starého Lemfelda a Machovce myslivce, ten že se statečně rozhodl, a on, Doubrava, že pořád obojetný, jinou víru v srdci a jinou v ústech. A myslil na svých sedmnáct nekatolických knih a lekal se, jak dlouho ještě bude možná je ukrývat, jak dlouho ještě bude moci sám sebe tajit –
 
@@ -58,3 +72,5 @@ Plameny vysoko šlehaly, praskaly, kotouče dýmu hustěji se valily a hlaholn�
 Starý Lemfeld seděl doma v koutě u dveří skleslý, sepjaté ruce na klíně, hlavu pochýlenu, sám a sám. Nikoho neměl a lidé z domu odběhli na hřbitov. Nikoho neměl, a co mu zůstalo drahého po předcích, staré knihy, jeho poklad, té chvíle pálili. A zpívali k tomu. Děti, odcizené děti zpívají, jak je ve škole učili! Temný ohlas jejich hlaholu zalehl až do šeré jizby, do smutného jejího ticha.
 
 V tmavém koutě u dveří vztyčila se bílá starcova hlava. Okamžik naslouchala, ale vtom už se potřásala od bolestného pláče.
+
+</section>

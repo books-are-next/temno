@@ -3,6 +3,8 @@ title: XXXVII
 contentType: prose
 ---
 
+<section>
+
 U Pražáků se měla Helenka líp než poslední čas na Skalce. Stará paní Lerchová neukládala jí žádné hrubé práce. Helenka zůstávala skoro pořád u ní službou a pomocí. Zato však neměla pokoje pro víru. To by byla trpělivě snesla, že všichni na ni zpočátku hleděli cize, a ne vlídně a ochotně. Tak se měli k ní také na Skalce, a ještě hůř. Ale tu v nákladnickém domě setkala se s knězem jezovitského řádu, na který měla tak smutnou památku. S hrůzou i odporem vzpomínala na ty dva, kteří k nim na Skalce vrazili, kteří jim knihy vydrali a pak je spálili, kteří Tomáše a ji tak krutě vyslýchali, ten bledý, rozcuchaný, s pronikavýma, planoucíma očima, a druhý, s velkou bradou, jenž se před ní stavěl, divže jí po nohách nešlapal, a tak na ni hleděl zlýma očima a tak hrozil a otázkami dorážel –
 
 Tady pak ji zavedli hned druhého dne do menšího, klenutého pokoje, kdež seděl bělovlasý, starý kněz. Přimhuřuje oči, prohlížel si ji a hned začal, u přítomnosti staré paní, se jí dotazovat jako ve zpovědnici. Byl to skoro takový výslech jako tenkráte v kanceláři na Skalce, když stála s bratrem před jezovity a správcem Čermákem, jenže P. Daniel se vyptával vlídně, shovívavě, na otce, jak mluvil o Panně Marii, o svátostech, kdy byla naposledy u svaté zpovědi, má-li modlitební knihu, růženec. Když pověděla, že růžence nemá, modlitby že jí vzali na Skalce, ihned přinesla stará paní růženec a knížky pak za dva dni P. Daniel.
@@ -136,3 +138,5 @@ Vtom přišla shora děvečka, oznamujíc, že se paní stará shání, co tu He
 „Nebyli, nesměli jsme, nepustili nás. Navečír nám to řekli a ráno jsme musili jít. Ani jsme nemohli dát babičce spánembohem.“ Hlas Helenčin se slabě zachvěl.
 
 Jiřík pozvedl kvapně hlavu skloněnou nad úzkou, dlouhou knihou účetní; šedomodré oči jeho upřely se na Helenku. V tichém jindy jejich pohledu byl úžas nad tvrdým jednáním i měkký svit soucitu.
+
+</section>

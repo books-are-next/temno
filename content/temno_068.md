@@ -3,9 +3,13 @@ title: LXII
 contentType: prose
 ---
 
+<section>
+
 P. Daniel Suk vracel se pozejtří poté z návštěvy u své sestřenice, staré paní Lerchové. Smrákalo se, mžilo a foukal sychravý vítr. Ulice, jejichž chatrná, blátivá dlažba se mokře leskla, pustly. Bělovlasý jezovita v tmavém plášti vykračoval rychle, ne však proto, že bylo nevlídno, nýbrž proto, že mu tichá radost poháněla kroky.
 
-  
+</section>
+
+<section>
 
 Zvědělť u paní Lerchové zevrubně o Tomášově útěku, o predikantu žitavském a také o Helence. Ten útěk jej popudil, zato však měl z Helenky velikou, upřímnou radost. S tou radostí hřály jej také uspokojení a sebelibost, že on, on má hlavní zásluhu, že to děvče zůstalo, že se ubránilo ďábelskému pokušení, že se stala takovou pevnou katoličkou. K němu chodila na katechismus, on ji vyučoval, varoval, nabádal, utvrzoval, kde jen mohl, a s boží pomocí ne nadarmo. Teď se to vyjevilo. Zachránil duši, vytrhl ji z kacířství, zachoval ji pravé, samospasitelné víře. Dal si Helenku zavolat, před sestřenicí ji pochválil a vybídl, aby se jen horlivě modlila, nejprve a především za bratra, aby jej bůh osvítil a zbavil takových zatvrzelých svodníků, jako je ten žitavský predikant.
 
@@ -111,7 +115,9 @@ Hradecký Mateřovský okamžik upíral mlčky své smolné oči na bratra a je
 
 „Pražský“ bratr se usmál a přikýval hlavou v plném souhlase a porozumění.
 
-  
+</section>
+
+<section>
 
 Téhož deštivého zářijového večera vypravil se deklamátor Svoboda do své hospůdky U Vorlíčků, kamž neměl daleko. Přes ramena přehodil si svůj tmavý plášť s límcem, vzal hůl a lucerničku, ve které však nerozsvítil, ač bylo husté temno. Klikatinou Týnské, neosvětlené ulice kráčel najisto kolem nároží křivolace vystupujících, pod oblouky tu tam mezi domy ve výši patra se přepínajícími. V zardělé záři linoucí se z oken leskla se dlažba i její bláto. Opodál Týnského kostela, jenž trčel jako obrovitý stín nad úzkou ulicí, hořela visutá svítilna v dlouhém, šerém průjezdu starého patrového domu. Rudý její plamen nevalně osvětloval jenom kraj průjezdu; dále šero a za průjezdem v úzkém nádvoří temno, jímž černala se nalevo v patře dlouhá pavlač, napravo slepá zeď sousedního domu a v pozadí nevysoké stavení šindelové střechy, to, ve kterém byli Tomáš s Helenkou na tajné bratrské pobožnosti.
 
@@ -170,3 +176,5 @@ Podali si ruce. Fiala zamířil k Staroměstskému rynku, deklamátor v opačn
 [^65]: Těchto pět věcí měj před očima, totiž: 1. Přetvařuj se. 2. Zatajuj. 3. Nikomu nevěř. 4. Všechno chval. 5. Hleď, ať cokoli děláš…
 
 [^66]: Pod obojí způsobou. Pozn. red.
+
+</section>

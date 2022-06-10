@@ -3,6 +3,8 @@ title: LVI
 contentType: prose
 ---
 
+<section>
+
 Odpoledne přijela paní Březinová. Nazejtří přibyli na vinici čtyři drvoštěpové, které pan starý poslal, aby zčásti uklidili starý dub. Jejich pila urovnala pahýl nad kořeny, řezala a svištěla v koruně, oddělujíc mohutné větve od kmene; v odříznutých blyštěly se sekery, odsekávaly menší haluze. Otepě z nich odnesli za lusthauz k plotu a tam vyrovnali z nich celý stoh.
 
 Jiří nechodil přihlížet k té práci a také Helenka se tam neukázala. Až paní Březinová je pozvala druhého dne navečer, když dělníci odešli, aby se šli podívat. Když stanuli u trupu mrtvého, okleštěného stromu, v trávě ležícího, zadíval se naň Jiřík a pak prohodil, že je jako silný Samson ostříhaný, bez síly, škoda že již hlasu nevydá ani stínem nepochladí.
@@ -81,7 +83,9 @@ Vztáhla mlčky pravici. Tomáš přistoupil, nahlédl jí do tváře vzrušené
 
 „Modli se, vzývej Hospodina,“ přišeptal mužík, „a pamatuj na pantátu. Dobrou noc.“ Zmizel plotem a Tomáš za ním. Helenka se dívala za nimi, až zmizeli v temnu mezi révím. Jako zmožena, osláblá vracela se do své světničky. Tam zakřesala, rozsvítila kahan, zavřela dveře i okenice, otevřela truhlu, vyndala z ní velký šátek, rozestřela jej na podlaze, skládala do něho šaty, prádlo, obuv a pak vše zavázala. Klečela nad uzlem, hleděla na něj, ale neviděla; zatmívalo se jí v očích. Náhle jej hodila do truhly, spustila víko, a jak zapadlo, sklesla na ně rukama i hlavou a dala se do pláče.
 
-  
+</section>
+
+<section>
 
 Tak bolestně se chystala na útěk. Toto její rozhodnutí, které by první čas svého pobytu v Praze byla s radostí učinila, nebylo z ochotné vůle, ne z horlivosti pro víru otcovu; v té již ochabla. Nutnosti povolila, tlaku, kterým ji tiskli Vostrý a Tomáš a nejmocněji její otec, trpící pro víru. Byl daleko, ale té chvíle, když Vostrý o něm mluvil, jako by nad ní stál. Jak jej tak zarmoutit – A bála se ho, zavrhl by ji, proklel. Musila poslechnout.
 
@@ -120,3 +124,5 @@ Začervenala se.
 „Bojíte se. Ale už tu na vinici dlouho nebudeme. A já musím s vámi mluvit o něčem důležitém. Přijdete dnes? Přijďte, Helenko, přijdete, viďte.“ Hleděl na ni a žádal ji s takovou vroucností, že se zachvěla blahem. A žádal, po čem sama tajně dychtila.
 
 „Přijdu,“ slíbila tiše, chvatně a sehnuvši se trhala kvítí. Když se vzpřímila, byla sama. Jako ve snu uvíjela kytici. A tak také jí míjel den. Neměl konce, a přece zas lekala se večera, kterého se nemohla dočkat. A se strachem pomýšlela na Tomáše, bude-li u plotu čekat.
+
+</section>

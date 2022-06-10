@@ -3,6 +3,8 @@ title: XLI
 contentType: prose
 ---
 
+<section>
+
 Tomáš pospíchal příští neděle k Helence ještě víc nežli jindá; bylť žádostiv, aby uslyšel, jak bylo o té svatojánské slavnosti, na kterou musila. Nadál se, že sestra bude nechutě o ní vypravovat; než nebylo tak docela. Vycítil, že se jí ta podívaná líbila i muzika a zpěv; ale také on napjatěji naslouchal, když vypravovala o sólu lesních rohů, a jak také mladý pán si na něj vzpomněl a jak jí ukázal cestu. Nakonec však řekl zasmušile, kdyby jí raději na ty kejkle nevodili, a vzpomněl starostně na domov, na otce, a cože Kiš nejede –
 
 Přijel s neděle a zase vyhledal Helenku. Sběhla v prudkém chvatu se schodů, když jí děvečka oznámila, že dole stojí nějaký žid a ptá se po ní. Lazar Kiš čekal u vrat. Přinesl pozdravení z Mezřiče, od babičky, od strýce, a také určitou zprávu o Machovcovi. Vypravoval, že v Mezřiči u strýce Klance se zastavil nějaký bratr, nějaký prý hodinář, a ten oznámil, že se Machovec na útěku schovával také u toho myslivce na Jičínsku a také u jiných bratří, a dlouho se prý skrýval, protože jej všude stíhali a bylo nebezpečno přejíti hranice. Teprve na podzim že dorazil šťastně do Žitavy, ale tam že se mu zpočátku zle dařilo, zvláště v zimě, protože si nemohl opatřit žádné živnosti, až pak k jaru dostal místo zahradníka u jednoho pána, že je zdráv, ale že pořád vzpomíná na ně, na děti, kdyby mohly z toho zajetí, že pro ně přijde a je vyvede, ale kdyby snad nemohl, aby byly přichystány, až by pro ně vzkázal nebo poslal.
@@ -122,3 +124,5 @@ Nevzpíral se, poslechl. Viděl ji zacházet mezi stromy a křovinami. Jako srn
 „Nu, tentokrát nemusilas mít žádný strach,“ podotkla paní Lerchová k Helence.
 
 Ta tenkráte, když se vrátila po svatojánské slavnosti, vypravovala vše, i to, jak jí mladý pán ukázal cestu. Teď o něm pomlčela a jen přisvědčila, že se nebála, že neměla strach. A bezděky potají povzdychla.
+
+</section>

@@ -3,6 +3,8 @@ title: LXXVI
 contentType: prose
 ---
 
+<section>
+
 Za kalného listopadového odpoledne pracoval Machovec, někdy myslivec, teď zahradník, ve velké zahradě na předměstí Žitavy města. Znenadání přišel k němu cizí muž, vysoký, hubený, kterého ochotně uvítal, když cizinec se ohlásil, že je z Prahy, Fiala soustružník, přítel nebožtíka deklamátora Svobody.
 
 „Podle jména tě znám,“ pravil Machovec, „bratr Svoboda tě jmenoval, když jsem byl u něho v Praze, a taky dcery myslivce Svobody kopidlanského mně vypravovaly, žes jim zachránil Kralickou, kterou si bratr deklamátor u tebe schoval.“
@@ -68,3 +70,5 @@ Nic neřekla, ani nepovzdechla, pobledla však, obrátila se. A Fiala si pomysl
 „Ba, nezapomněla.“
 
 Vtom se vrátil Machovec.
+
+</section>

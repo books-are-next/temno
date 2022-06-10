@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Altán v zahradě na Skalce zase prohlédl. Staré listí kolem něho odmetli, zelené žaluzie vytáhli, dveře, okénka otevřeli. Jarní, svěží vzduch provanul dřevěným domkem, proud zářivého světla vyjasnil několik rytin po jeho ztemnělých stěnách.
 
 Slečna Polexina občas tu poseděla v zlatém proudu hřejivém a zase začala tu sušit léčivé byliny. Helenka myslivcova nosila jí po jejím návodu dary prvního jara, zlatý podběl, bělostné trnkové květy, fialky, zardělé trsy plicníku. Chodila na něj a na jiné kvítí pod jižní zámecký svah, pod zámkem i dál hustě zarostlý. Pod tím prudkým svahem ve stínu vysokých, košatých olší tiše ubíhal Zlatý potok čiré, přečisté vody. Pěkně se tu chodilo loukou pod zámeckou skalou opukovou a dál proti vodě údolíčkem po stezníku; vedl pod buky a habry v samém úpatí lesnatého svahu, pod olšemi u klidné říčky, pod krytem mladě zelených, jarně prozářených korun, v nehnutých stínech i zlatých prosvitech chvějících se na šedých kmenech i lesní půdou i po stezce.
@@ -274,3 +276,5 @@ Rychtář musil vzpomínat, jak správce naléhal; i počítal, počítal, až 
 Když rychtáři odešli, uvažoval správce, co bylo toho dne, kdy rychtář zahlédl v Dlouhého mlýně toho „hodinářského“. Chodě sem tam kanceláří, rozpomínal se, počítal, až pojednou stanul, tváře vzedmul, odfoukl z nich, rukou mávl a bezděky nahlas zavolal: „Tak to je!“ To se dopočítal, že téhož dne přišel Machovec pozdě odpoledne z lesa a že pak večer, mimo obyčej, si vyšel a zamířil svahem dolů směrem k židovskému hřbitovu, tedy v tu stranu Dlouhého mlýna.
 
 „Hade jedna!“ zasoptil v duchu správce a pohrozil zaťatou pěstí.
+
+</section>

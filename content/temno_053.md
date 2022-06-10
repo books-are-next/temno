@@ -3,6 +3,8 @@ title: XLVII
 contentType: prose
 ---
 
+<section>
+
 Jeden čas se podobalo, že Florián Mariánek připíše Březinova filozofa do rejstříku svých nebožtíků a že mu bude obstarávati pohřeb. Než nestalo se tak. Jiřík se vytrhl smrti, ale zápas ten ho zkrušil. Byl všechen vysílen. Královský zemský fyzikus doktor Globic uznal, že jeho mladý pacient nenabude sil z lahviček od Zlatého noha, a kdyby mu jich sebevíce předepsal, nýbrž že nesmí zůstat ve svém pokojíčku, že musí ven na zdravé povětří.
 
 Porada dobrá a pomoc snadná. Pan starý Březina měl pod Žižkovem tři vinice. Jednu z nich, Ventryšku, koupila před léty paní stará u Pražáků od mnichů cyriáků kláštera sv. Kříže většího za 1200 zlatých a dala ji později své dceři, pak matce Jiříkově, jako část věna. Druhé dvě vedle sebe, jen plotem oddělené, rozkládaly se opodál. Ve větší z nich měl Březina jako mnohé z bohatých pražských rodin lusthauz, letní příbytek. Probělával se nejvýše nad vinicí na nevysoké terase, k níž vedlo několik širokých kamenných schodů. Skládal se ze dvou stavení, z přízemního staršího, původního, a z nového, z patrového pavilónu, který dal před několika léty pan starý Březina v boku přistavět. Bylo to stavení úpravnější, s plochými sloupy při zakulacených rozích, s bohatými římsami nad okny, s lomenou šindelovou střechou s malebným vikýřem o kulatém okně. V přízemí pavilónu přistavěna veranda, po jejíchž pilířích a nad jejich oblouky plazilo se révoví. Stranou zahrádka, křoviny a za pavilónem houšť malinových keřů. Sem se vydal Florián Mariánek jako ubytovatel a řídil tu všecku úpravu, sem pak ubíral se také jako průvodce pozdravujícího se filozofa, když jej sem v nosítkách nesli úzkou stezkou, zelenou vinicí vzhůru. Nahoře u lusthauzu čekala stará kuchařka a teď také ošetřovatelka, z Prahy sem napřed vyslaná.
@@ -128,3 +130,5 @@ Dojat políbil jí vroucně ruku. Ani nevěděl, že v tom pohnutí byl i zác
 [^53]: S potleske. Pozn. red.
 
 [^54]: Prádlo. Pozn. red.
+
+</section>

@@ -3,6 +3,8 @@ title: XXXVIII
 contentType: prose
 ---
 
+<section>
+
 Hubátius řekl jednou koncem zimy Jiříkovi, že Jiřík snad už přestane k němu chodit a že se pomalu přestěhuje k panu deklamátorovi. Řekl to žertem a směje se dodal, že Jiřík ještě bude také chodit do Židů a že bude domů nosit staré špargály. Jiřík se jen usmál a odvětil, že má deklamátor nejen mnoho knih, ale že si s ním také pěkně pohovoří.
 
 A pak si už od něho knihy vypůjčoval. Deklamátor Svoboda sám se mu nabídl, a Jiřík s radostí přijal. První kniha, kterou mu ze stojanu knihami nabitého vytáhl, byla maličká, do hrsti, ale krásně tištěná v cizozemsku, v Lejdě, v knihtiskárně Elzevirské, s pěknou rytinou českého lva a znaků zemí Koruny české na titulním listě; byla to Pavla Stránského Respublica Bohemiae.
@@ -118,3 +120,5 @@ Dali sbohem deklamátorovi. Ten nevkročil do svého bytu; stál, hledě za nimi
 [^48]: Prokázati význačné vojenské služby. Pozn. red.
 
 [^49]: Průvodce slávou svatého Jana Nepomuckého. Pozn. red.
+
+</section>

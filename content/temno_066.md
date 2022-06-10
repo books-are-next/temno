@@ -3,6 +3,8 @@ title: LX
 contentType: prose
 ---
 
+<section>
+
 Jiří se pozdě probudil; jeho jizba byla již všechna sluncem vyzářena. Jen oči otevřel, připadl mu včerejší večer. Pocítil blaživé zjasnění; těše se pospíchal, aby už byl venku, aby uviděl Helenku. Nadál se, že bude s panímámou na verandě; nezastal jich však. Od staré kuchařky zvěděl, že panímáma se dává právě česat. Zůstal na verandě, usedl v koutku do křesla a čekal.
 
 Helenka té chvíle těžko konala svou službu. Celou noc neza­mhouřila oka. Sklíčená, zoufalá strávila ji ve svém pokojíku. Výčitky jí drásaly srdce a strach o Tomáše, co by s ním bylo, kdyby jej chytili. Chvěla se o něj, chvěla se před jitrem, až se zjistí, že prchl, až nastanou výslechy, a že ji budou nutit, aby vše vyznala a pověděla. A co Jiří, až to uslyší, neodvrátí-li se, bude-li on, tak přísný ve víře, chtít ještě teď s ní mluvit. Úzkost z toho pomyšlení.
@@ -83,7 +85,9 @@ Odpoledne vrátil se posel a přinesl vzkaz, aby Helenka přišla ihned do měs
 
 Helenka nebyla překvapena tím rozkazem; nadála se ho. Jen povzdechla a hned se chystala. Zarazila se však a tázavě, smutně pohlédla na kuchařku, když od ní uslyšela, že vinař ji vyprovodí. Pocítila, že jí nedůvěřují; ještě více však se lekla, že by v tu chvíli, jsouc hlídána průvodčím, potkala Jiřího. Nepotkala. Neukázal se; ale když vycházejíc zpod verandy, kradí pohlédla k jeho oknu, zdálo se jí, že se u něho mihl. Skalka jí připadla, jak ji tenkráte vedli z kanceláře od správce Čermáka, jak je mušketýr vyprovázel do myslivny jako do vězení. Tenkráte byl Tomáš s ní; a teď utíká jako tenkráte pantáta, a ona, „římanka“, zrádkyně, kterou bůh potrestá, jde na výslech, aby vypovídala o vlastním bratru.
 
-  
+</section>
+
+<section>
 
 Toho dne večer měl slovo u stolu blíženců Filip Sameček. Stálá jeho společnost, bez Floriána Mariánka, jenž scházel, napjatě, ano dychtivě naslouchala komorníkovu vypravování o včerejší noční výpravě do vinice Kantůrky. Také od sousedních stolů přistupovali a poslouchali, všichni jako pěna; jen divoký Jiří Kocourek vykřikoval nebo zaklel, když slyšel o tajném shromáždění ve vinici, o kacířích husitech.
 
@@ -132,3 +136,5 @@ V tu chvíli myslila také sama Helenka na nový, ouřední výslech, jak se j�
 Zas jí připadlo, jak ji sem odpoledne zavedli, jak tady v pivovaře všichni pojednou tak divně na ni hleděli, Lyzla že se jí vyhnula, jako by se jí štítila, a jak pan starý na ni pohleděl, nežli začal. Všecko bylo tak trapné, tísnivé; nejvíce však ji skličovalo pomyšlení na Jiřího, co ten, změní-li se, bude-li se za ni stydět, odvrátí-li se – A do toho myšlení starost, strach o Tomáše. Bylo jí jako doma v myslivně tenkráte, když otec prchl, když jej honili a když celou noc v ouzkostech čekali, nepřivedou-li ho.
 
 Tenkráte se také chvěla nejistotou a strachy, ale tenkráte byl s ní Tomáš; a dnes ona sama. Zůstala, a kde! Při těch, s těmi, kteří jej pronásledují. A otec, otec až uslyší!
+
+</section>

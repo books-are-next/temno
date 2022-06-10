@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Nazejtří večer u Březinů u stolu blíženců i po veškeré místnosti klid. Po bouři ticho a vyjasnění, svornost a jedna mysl i v tom, že březinovské hořké chutnalo všem, i Filečkovi, jenž, jaksi z pokání, je i nahlas pochválil. To Florián Mariánek nebyl ještě u stolu. Nepřicházel nadobyčej dlouho. Tak tedy svorně pili a svorně soudili o nočních výtržnících, o mladém Rainerovi a Losovi z Losenfeldu.
 
 Když starý Kubíček, jenž včera před časem se vytratil od stolu, o těch dvou teď uslyšel, začal o nebožtíkovi Rainerovi, otci toho hejska, och chudák starý, takový hodný, dobrý člověk, svého kumštu malířského výborně znalý –
@@ -92,3 +94,5 @@ Mluvil s takovou jistotou, že přestávali pochybovat. Tím dychtivěji pak do
 „Ctná a šlechetná panna, panna Antonie Monika rozená Vyšínová z Klarenburku.“
 
 [^16]: Kandidát doktorátu práv. Pozn. red.
+
+</section>

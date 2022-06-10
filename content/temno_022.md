@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Jiřík domů nepospíchal. Šel volným krokem, s hlavou sklopenou. Uvažoval, že se musí tedy ve velkém pokoji zas ukázat. V tom hodlal povolit vůli své babičky. Ale jen ukázat, a ne zůstat, tak se rozhodoval, a budou-li ho vyzývat do tance, měl-li by jít mezi tanečnice, to raději zase zmizí. Vracel se nerad, a přitom temně tížilo pomyšlení na macechu, bude-li muset k ní, otec že bude toho vyžadovat.
 
 Soumrak už nastal. Když se blížil od kláštera svatého Jakuba k Čertově krčmě u Štupartů, kdež v průjezdu již rozsvítili a kdež bylo za stoly plno, ozval se ze Staroměstského náměstí zvonec. Na radnici začali zvonit na znamení všem domácím, kteří měli na svých domech lucerny zasazené předloni před slavným vjezdem královým, že je čas, aby je rozsvítili. Nebyly jejich, měli však povinnost v čas zvonem ohlášený je rozsvěcovat, konat to, co bylo povinností dvou „vizitátorů“, rozsvěcovačů, při svítilnách na veřejných budovách.
@@ -15,21 +17,27 @@ V průjezdě živo kolem šenkýřky na stolici sedací, hlučno v šenkovně,
 
 Když se Jiřík plaše ubíral průjezdem, obávaje se, aby ho někdo nezastavil a se ho nevyptával, pěl právě Žufnička s citem, s velikou vroucností tenkým svým tenorem:
 
-  
+</section>
+
+<section>
 
 _Adio, vale, stvoření drahé,  
 když tě mít nemohu,  
 poruč pánubohu,  
 Marii Panně —_
 
-  
+</section>
+
+<section>
 
 _A za tvou lásku kompliment skládám  
 ještě naposledy,  
 andělské stvoření,  
 hubičku žádám — —_
 
-  
+</section>
+
+<section>
 
 Nahoře ve velkém pokoji už dávno připili ženichu a nevěstě i pannám družičkám o věnec, už také tabule sklizena, už voskovice hořely na stolcích v koutech i na stěnách, šest hudebníků na pódiu v koutě už drahnou chvíli hrálo; housle, violy a flétna v lahodné souhře vábily hosti do kola. Začal je družba, mladý Šmíd, s nevěstou. Tančili sami dva, žádný jiný nesměl. Dlouho však netančil; nevěstu tanečnici přivedl ženichovi. Ten zas měl teď sólo, a teprve když odtančil, směli mládenci se svými tanečnicemi do kola.
 
@@ -73,7 +81,9 @@ Zmizeli. Jiřík zůstal sám. Okamžik váhal, má-li se vrátit do velkého po
 
 Jiřík zavřel okno; ale hudba, ta z taneční síně, pořád mu v duši zamženě zněla. Vytáhl svazek Vergilia (nebyl „ex-purgatus“, školního vydání), začal číst; než za chvilku toho nechal. Zahleděl se od světla před se; živě se mu zjevilo tančící kolo, vystrojené mladé panny, kmitla se mu jejich zardělá líce, bílá hrdla, zjevila se mu štíhlá paní, jeho macecha, jak se usmála, jak na něj pohlédla, – a hudba mu tiše zněla, lahodný, lichotný menuet. Vytrhl se, ohlédl se plaše, sáhl po malé knížce na stole ležící a začal, jak náhodou otevřel, čísti. Byl to Kadlinského Zdoroslavíček v kratochvilném hájičku postavený, který mu onehdy přinesl páter Suk. I četl:
 
-  
+</section>
+
+<section>
 
 _Ach ryzozlaté lucerny,  
 měsíčné tovaryšky,  
@@ -84,7 +94,9 @@ drobet se pozastavte
 a mé bolestné stížnosti  
 svědkové pozůstaňte —_
 
-  
+</section>
+
+<section>
 
 Dále již nečetl. Zahleděl se opět do prázdna. Na nebožku matku již drahnou chvíli nevzpomněl a nemyslil; a přece mu bylo smutno, teskno, temně bolno. A přitom jakoby z dálky ozval se tiše zase ten menuet.
 
@@ -119,3 +131,5 @@ To „viď“, to „ty“, ač se samo sebou rozumělo, mile jej překvapilo a�
 [^31]: Pacholek, hulvát. Pozn. red.
 
 [^32]: Zatracený chlap. Pozn. red.
+
+</section>

@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Pan Lhotský hrubě nenadsazoval, když řekl, že s pražskými novinami vystačí na celý podzimek. Skoro každého večera a někdy také při obědě zabloudil do Prahy a jejích slavných dnů. Pokaždé ovšem tak dlouho nevypravoval jako ze začátku. Někdy také, nevěda, opakoval, co již předtím pověděl, obzvláště o „hloupém titulárním kalendáři“, to jest jak holdoval králi atd.
 
 Někdy slečna Polexina sama jej zavedla na to opakování, když si na něco vzpomněla, co již sice slyšela, ale co ji obzvláště zajímalo, jmenovitě korunovační hostina, kterou pan strejc na své vlastní oči viděl ne sice jako stolovník, ale jako divák mezi šlechtici, když jí připadlo zeptat se, jak císař seděl u povýšené tabule a s kým, jak hosté při ostatních tabulích, jak byli rozsazeni, když žádný nesměl býti k němu zády, kteří z mladých šlechticů nosili mu jídla a jaká.
@@ -38,3 +40,5 @@ Proto slečna Polexina přála Helence; přála také jejímu bratru, že byl ho
 [^10]: Vejl – závoj jeptišek; vejlování – přijímání do řádu (zahalení). Pozn. red.
 
 [^11]: Zkr. Dvojí cti hodná. Pozn. red.
+
+</section>

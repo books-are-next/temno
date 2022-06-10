@@ -3,6 +3,8 @@ title: LXIII
 contentType: prose
 ---
 
+<section>
+
 Když Vostrý, Žitavec, unikl z vinice Kantůrky přes vinici Březinovu, dostal se s Tomášem do Podhoří u Vltavy k tajnému bratrovi. Tři dny se tam skrývali v chalupě, většinou na půdě v seně, a nevyšli ze stavení ani na krok. A jako v noci tam dorazili, tak také v noci odtud vyrazili. Mířili za české hranice do Žitavy; přímo však a zjevně po silnicích a cestách nemohli, nýbrž tajně a velikými oklikami, většinou polními stezkami a lesy.
 
 Vostrý, jenž ne poprvé takto cestoval, měl směr ustanovený dle „stavů“ u tajných bratří. Jenom tak mohl uniknouti pronásledování. Bylť útěk jeho a Tomášův i popis jejich po všech městech i vrchnostenských úřadech vyhlášen. V noci prchali společně, za dne, bylo-li možná postupovati, často rozděleně, každý s nevelkým vakem; Tomáš si nesl také lesní roh v hrubém pytlíku zabalený.
@@ -169,7 +171,9 @@ Záhy jim zmizel za ouvozem. Zpočátku kráčeli mlčky až Vostrý pojednou se
 
 A zas chvatně vykročili.
 
-  
+</section>
+
+<section>
 
 Za čtrnácte dní poté za deštivého říjnového odpoledne zastavil se na kopidlanském zámku P. Samuel Malobický, S. J., ne starý, urostlý, výrazné tváře; vracel se z Prahy a mířil domů, do jičínské koleje. Pán na Kopidlně František hrabě Šlik měl Malobického ve zvláštní vážnosti a velice mu přál. Rád ho viděl a srdečně jej uvítal. Když s ním seděl ve svém pokoji, parohy hojně ozdobeném, a jezovita se také optal, jak pan hrabě honů a lovů užívá, odpověděl, že jak náleží, a přitom si vzpomněl na událost, která se mu nedávno o honě přihodila. O mladém cizím trubači pověděl, jak se znenadání v lese „na šancích“ zjevil, krásně na lesní roh zatroubil veselou fanfáru a zase tak náhle zmizel. A dále vypravoval hrabě, že ačkoliv toho trubače dal ihned sledovat a hledat, že ho nenašli a více nespatřili, ba ani té nejmenší stopy neshledali, jako by se byl do země zpropadl.
 
@@ -298,3 +302,5 @@ Hrabě propustil mladého myslivce, znovu mu důtklivě přikázav, aby mlčel. 
 „Těm beranům je přísaha katolíkům složená jakoby nic.“
 
 „Ohó. Kdyby se shledalo, že nás klamal, že křivě přísahal, pak bych netrestal jenom já.“ Hrabě, již tím pomyšlením pobouřený, zahrozil ukazováčkem pravice tak prudce, až se mu kučery dlouhé paruky zatřásly.
+
+</section>

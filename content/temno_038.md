@@ -3,6 +3,8 @@ title: XXXII
 contentType: prose
 ---
 
+<section>
+
 Jřík dlouho nevydržel v zástupu rozčileném tím zločinem, rozpáleném dychtivou zvědavostí a lačném nových zpráv a podrobností. Bylo mu tu nevolno. Trnul nad krádeží spáchanou v kostele, ale zachvěl se také a otřásl nad surovým týráním chyceného zloděje. On, jenž se odvracel i odcházel, když babička plísnila někoho z pivovarské chasy nebo čeládky, měl poslouchat o krvavých ranách, pod kterými zatčený klesl polomrtev na ulici.
 
 Hubátius šel kousek cesty s Jiříkem, pak se vrátil, chystaje se do své hospody. Jiřík přidal do kroku, neboť se již připozdilo; mířil rovnou domů. Tenkrát o svatbách otcových vracel se loudavě, nerad od babičky; ostýchalť se macechy i tajně se jí strachoval. Ale hned toho večera sama mu zažehnala ty obavy. Naklonila si jej takřka okamžikem. A jak si jej získala, tak si jej udržela. U ní pozbyl své divné bázně a tísnivé ostýchavosti. Sblížení to utvrdila pak hudba, kterou mladá Březinová milovala tak jako její pastorek. Čeho se paní Lerchová bála, že zeťova druhá žena je „učená“, to bylo požehnáním pro vnuka staré paní. Hudbou se vřeleji spřátelil se svou macechou. Když hrávala na loutnu a zpívala, doprovázel ji na houslích.
@@ -44,3 +46,5 @@ Co s tím zlodějem, rokovali a pak se i přeli. V tom všichni byli zajedno
 „A pane Mariánku!“ volal ke stolu blíženců, „mám vám vyřídit, abyste přišel na chvíli k panu starému.“
 
 „Už jdu.“ Mariánek bera si klobouk, nežehnal se se svou společ­ností. Zeširoka se usmívaje, hlásil, však že ještě přijde.
+
+</section>

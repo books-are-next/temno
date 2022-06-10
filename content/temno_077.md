@@ -3,6 +3,8 @@ title: LXXI
 contentType: prose
 ---
 
+<section>
+
 Helenka, vypuzená paní Lerchovou, utekla se do své komůrky. Plakala, raněná výčitkami staré paní. Bolestně cítila nespravedlnost té z nich, že je svodnicí; pálila však také ta, že jí připomenula, že jen z lásky k Jiříkovi neprchla a zůstala, že pro něj zapřela svou víru, opustila bratra i otce. A strach ji obcházel, že Jiří teď jistě trpí od svých a ona že musí od něho, že jí tu nenechají, že s Jiřím bude sotva moci promluvit, že ho snad už ani neuvidí. To pomyšlení bylo nejhroznější.
 
 Ve svém rozrušení nepovšimla si, že se pootevřely dveře, že děvečka jimi zvědavě nahlédla; hned však ulekaně vstala, když děvečka pak přišla zas a přišeptala jí, že přišel pan starý Březina, že je u staré paní. Tedy už ví, jistě už mluvil s Jiřím a teď přišel, kvůli ní přišel; o ní se jedná, o ni se smlouvá se starou paní. Snad si ji, Helenku, dá zavolat a začne se nový výslech, uslyší nové výčitky, a jí, kdyby se hájila, neuvěří.
@@ -115,7 +117,9 @@ V ustarané tváři myslivcově náhle rozjasnění. Vzal Helenku za ruku.
 
 „Musíme ještě dnes, jen co bratru Svobodovi to oznámím. Vidělas ho, znáš ho, to je ten, co vám dal knížky. K němu mne Vostrý poslal, ujal se mne, poradil, všecko o tobě věděl, i kde teď jseš, všecko, Helenko. Takhle jsem to s ním smluvil, kdybys poslechla.“ A pověděl jak.
 
-  
+</section>
+
+<section>
 
 Jiří nechtěl na vinici, poněvadž viděl, že jej proto pantáta tam posílá, aby jej úplně odloučil od Helenky, aby jí nemohl už ani zhlédnout. Bránil se a rozčilil se tak, divže do mdlob neupadl. Zavolali doktora Globice a ten nařídil, vyhovuje přání pana starého, že Jiříkovi jsou nezbytny klid a samota, že musí na vinici. Usláblého ho usadili do nosítek a donesli do lusthauzu, kamž se zároveň odstěhovala paní Březinová. Ticho, hluboký klid samoty utěšené v jarní zeleni jej přijaly; než neoblažily ho tak jako loni těmito časy, kdy jej po těžké nemoci sem přivezli.
 
@@ -153,7 +157,9 @@ Jiří se zalekl a zeptal se, co tam, a pojednou prudce zvolal:
 
 Jiří se dál už neptal. Kráčel s hlavou sklopenou, mlčky až nahoru k lusthausu. Nevzhlédl ani, když Hubátius vypravoval, že soused deklamátor má nějakého hosta, včera že k němu přišel nějaký cizí, už starší muž, z venkova, že byl u deklamátora na noc, že ten muž je asi z kopidlanského příbuzenstva.
 
-  
+</section>
+
+<section>
 
 Helenka vrátivši se ze hřbitova, začala v přístěnku tajně chystat uzel na cestu, jak otec jí řekl. Teď teprve plně pocítila bolest svého rozhodnutí. Rozrušena, třesoucíma se rukama sbalovala oblek, vinutí; jen modlitební knížku, kterou měla od P. Daniela, nechala na posteli.
 
@@ -181,7 +187,9 @@ Machovec se tam zadíval a povzdechl:
 
 „Modlete se,“ deklamátor chmurně pokýval hlavou, „modlete se. A teď spánembohem – –“
 
-  
+</section>
+
+<section>
 
 Helenka se vrátila do bytu Šantrůčkové. Rozhodnuto; odejde, navždy odejde. Jiřího už ani neuvidí. Ani vzkázat mu nemůže, nesmí. Bolest ji zmohla, a v ní vyžehla palčivá touha dáti mu sbohem, alespoň slova s ním promluvit, třeba jen lísteček mu napsat, povědět mu, kam ji chtěli poslat.
 
@@ -201,7 +209,9 @@ Dech se jí zatajil, srdce zabuchalo, když uviděla lusthaus, verandu, kmen sta
 
 Helenka uskočila a zpět k bezovému houští teď už ztemnělému, ke staré zdi; běžela podél ní, jako by spáchala nějaký zločin, a nezastavila se až dole u kouta mezi zdí a plotem v čele vinice, v němž byla brána. K ní kráčela mezi keři révovými volněji a opatrně. Snad Hubátius s Jiřím ještě nedošel nebo snad u brány postojí. Ale Hubátius právě vykročil, mihl se kolem plotu; Jiří se od brány už obrátil. Plížila se révím, aby ho mohla ještě jednou zblízka uvidět, blíže mu být. Šel zvolna, s pochýlenou hlavou. Náhle stanul; opodál vpravo, v réví pláč, bolestné zavzlyknutí. Zarazil se, naslouchal; ale zas už ticho, ani hlas, a v tmavém réví ani hnutí. Snad to mámení sluchu; vykročil, znovu se však zastavil, naslouchal i rozhlížel se. Tichý májový soumrak; nikde ani hnutí, ani hlasu. Obrátil se a bral se stezkou vzhůru.
 
-  
+</section>
+
+<section>
 
 Machovec čekal u plotu první zahrady za Špitálskou branou. Hrozná nejistota minula, těžké břímě z něho spadlo. Helenka přijde, půjde s ním, odvede si ji k Tomášovi. Uvolnění cítil, upokojení. Ale pak, když ruch na silnici slábl, když slunce dávno zapadlo a soumrak nastával, obracel se vpravo, směrem ku bráně, vyhlížel po silnici. Dle ujednání měla Helenka tu již být. Snad ji něco zdrželo, konejšil se, nějaká překážka, snad žena, u které teď bydlila. Když se připozdívalo, začal se obávat, že by se v tom šeru mohli minout, že Helenku snad přehlédne. Nebo snad – Nechtěl domyslit, že by nepřišla, že by se rozmyslila.
 
@@ -216,3 +226,5 @@ Pojednou stála před ním jako zjevení. Nepřišla z té strany, kam hleděl;
 Machovec ihned poslechl a nic se neptal, nic nedomlouval. Byl rád, že Helenka přišla. Kráčel, hledě vpřed, na cestu; Helenka se ohlédla po vinicích, teď už zčernalých, po Březinově lusthauzu nad nimi. Svítili tam. To poslední ozářené okno vpravo – Tam prve byla. Teď je Jiří tam; nesedí s matkou, sám je. Našel-li už obrázek, najde-li ho. Najde. A co bude – Odvrátí-li se –
 
 Kráčeli zaprášenou, opuštěnou silnicí. Machovec začal hovořit, záhy však ustal. Helence nebylo do řeči, cítil to a viděl, že se obrací, často obrací, jistě po těch světlech vysoko nad vinicemi. Ohlížela se po Jiříkově oknu, vzpomínala, jak jej naposledy zahlédla. Pojednou silnice se zahnula, osvětlená okna zmizela; Helenka už jich neuviděla. A před ní temno. Chytl ji pláč; přemáhala jej, tajila. Vedle kráčel otec a tiše bohu děkoval, že ji vytrhl z římských osidel, že ji vyvádí z temné země ejpské.
+
+</section>

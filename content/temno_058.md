@@ -3,6 +3,8 @@ title: LII
 contentType: prose
 ---
 
+<section>
+
 Pozdě odpoledne o tom svátku bylo před Betlémskou kaplí rušno a živo. Měšťané v kadeřavých parukách, ve svátečních pláštích, bohaté měšťanky v zlatých čepcích, v širokých rajfrokách, voskovice v rukou, i vystrojení mládenci a panny a kněží, namnoze jezovité, samí členové „veleslavné české kongregací pod titulem Vítězslavného nanebevzetí Panny Marie“ brali se do Betlémské kaple, teď majetku jezovitů, kdež kongregace konala svá shromáždění, kdež chovala také svou pokladnici a své album. Dva preláti přijeli v kočáru, za ním volně přihrčel druhý, nádhernější. Dva běhouni, strakatě odění, přiběhli před ním; vysoko na kozlíku seděl kočí, na prkně za kočárem premovaní lokajové v kloboucích s peřím; po stranách kráčeli dva hajduci v červených kabátcích, s opeřenými kaškety na hlavě. Z kočáru vystoupil Josef František hrabě z Vrbna a z Freudenthalu, rektor kongregace, jejž přeuctivě, s hlubokými poklonami vítali vicerektor, dva asistenti, dva kurátoři a sekretář bratrstva.
 
 Proto musili ostatní docházející stanout a nemohli hned dále do kostela. Také Helenka Machovcova; přišla sem na přání paní Březinové, která tou chvíli byla s mužem a Jiříkem už v kapli. Helenka, tísníc se v houfu, hleděla na panstvo, upírala zrak na vchod nevelkého kostela, o kterém už doma slýchala, že v něm kázal mistr Hus. Otec jim o tom vypravoval i čítal. Vzpomněla na něj, když se sem vydávala, a teď opět. Bylo jí teskno, svědomí se jí ozvalo, kde až se ocitla, na jakou pobožnost jde a do kterého kostela. A Tomáš kdyby věděl –
@@ -22,3 +24,5 @@ Jak se nadšený zpěv za průvodu varhan rozšuměl, ohlédla se Helenka plaše
 Jak klečela, schýlila se ještě níž a zakryla dlaněma tvář. Nad ní, ke klenbě někdy Husovy svatyně, hlaholila jako vítězný hymnus píseň mariánská.
 
 [^61]: Zárubeň, dveřní rám. Pozn. red.
+
+</section>

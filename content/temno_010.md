@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Lustr v jídelně nerozsvícen; čtyři svíčky ve dvou svícnech hořely na velkém stole bělostně pokrytém, na němž mdle pobleskovaly cínové mísy a talíře. Pan Lhotský a slečna Polexina seděli v starých křeslech kolmých lenochů, modrým suknem potažených. Na velké dubové kredenci, plné cínového a majolikového nádobí, u níž stála Helenka myslivcova, hořely dvě svíčky. Tu jasno; v pozadí kolem velkých zelených kamen s krancly[^7] příšeří. Rovněž na obrazy nad dubovým táflováním nepadalo plné světlo, na několik krajin na plátně se zčernalým, hustým stromovím a na jeden „landšaft marinářský“, z něhož nejjasněji vyrážely zežloutlé, někdy bělostné plachty korábu v bouři. Na stěně proti dveřím visel samojediný obraz, na plátně malovaný kontrfekt nebožtíka císaře Leopolda I. v alonžové paruce.
 
 V celé komnatě, v jejím nábytku, v obrazech, ve všem ještě sedmnácté století; a ti dva, starý zeman a stará slečna Mladotovna, také ještě z něho. Hodili se do té komnaty nezcela svým oblekem, zcela však většinou svých let, svým vychováním a smýšlením.
@@ -46,3 +48,5 @@ Slečna odstoupila od okna, prohlédla si ještě jednou, dosud v zamyšlení, 
 [^7]: Římsa. Pozn. red.
 
 [^8]: Spokojenost (z fr.). Pozn. red.
+
+</section>

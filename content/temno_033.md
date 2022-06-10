@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Slečna Polexina pozbyla tou nenadálou návštěvou svého klidu i své rozhodnosti. Pobouřilo ji, že k nim na Skalku přišli za takovým účelem a že vůbec bylo možná s takovým podezřením na ně si troufat. Lekla se ho, vzpírala se mu, pocítila žár hanby při pomyšlení, že by snad přece bylo pravda. A na Machovce se rozhorlovala, co kvůli němu je a že by mohl on, jemuž tak důvěřovali a jemu a jeho rodině přáli, tak jednat, takové zahanbení jim způsobit! Mluvila o tom s panem Lhotským, znovu se rozčilovala a hned se zase konejšila, že to přece není možná.
 
 „Není, a není pravda,“ jistil regent, ačkoliv si připomenul, že Machovec tenkráte, když mu pověděl, že přijde jezovitská misie, se tak tuze zarazil, ano až lekl –
@@ -218,3 +220,5 @@ Misionáři vešli. P. Firmus nemluvný, zasmušilý, ale přece ne tak tvrdého
 Pan Lhotský mlčel. Cítil, že nemůže se ozvat, že je odzbrojen; slečna v nitru obdivujíc se té horlivosti misionářů a ceníc jejich účel, nahlas uznala, co P. Koniáš vyslovil, a znovu litovala, že se tak mýlila a tolik lidem důvěřovala, ona i pan strejc. Ten ani teď nepromluvil a jen hlavou přikývl. Slečna zvala, a již vřeleji, misionáře do jídelny, aby se posilnili. Přijali, ale P. Koniáš hned podotkl, že jim mnoho času nezbývá, že za chvilku odjedou, protože musí ještě dnes kázat, po čtvrté hodině že bude mít kázání.
 
 Když skutečně za chvíli odjížděli, slečna se s nimi vřele rozloučila, zvláště s P. Koniášem, jenž si svou horlivostí a veškerým svým výmluvným jednáním získal její uznání. Zato pan Lhotský zůstal při jejich odjezdu jako za jejich příchodu, jenže teď se ještě víc přemáhal než předtím, aby nechuť jeho a nevůle nebyly na něm znát. Vyprovodil pátery až pod schody v nádvoří. Díval se za nimi, když vyjížděli branou. I jejich fámula pozoroval, pytel, který měl připevněný u sedla, pytel s Machovcovými knihami, a pomýšlel si, že jednu z nich by chtěl, to Jezuitské zrcadlo, čtení o jejich chytrosti, obmyslnostech a praktikách –
+
+</section>

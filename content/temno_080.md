@@ -3,6 +3,8 @@ title: LXXIV
 contentType: prose
 ---
 
+<section>
+
 Na Skalce vše po starém, v obyčejném pořádku a klidu; jen v říjnu minulého roku 1727 způsobila pohnutí zpráva, kterou přinesl Lazar Kiš z Prahy, že Tomáš, syn myslivcův, utekl z vinice s nějakým Žitavákem, že není po nich ani stopy, že tou dobou jistě je za hranicemi. Zpráva ta dotkla se zvláště regenta panství, starého pana Lhotského ze Ptení. Své neteři, slečně Polexině, řekl ne bez výčitky: „Tak vidíš, Polexino, že by bývalo líp, kdyby byl ostal tu; myslilas, že se v Praze obrátí, a tu máš –“
 
 „Ale to děvče, Helenka, pane strejče, neprchla, ta se opravdu obrátila, tu jsem zachránila.“
@@ -57,7 +59,9 @@ Martin se konečně propletl až k Prašné bráně, také tak vyzdobené, a t
 
 Pak, když synovec a „paní hrabinka“ ji pěkně uvítali, když s nimi zasedla k jídlu, uslyšela divy, co se všechno chystá, co je, jaká je tu spousta lidí, Praha že jim nestačí, hospody že všechny nabity, nikde ani koutku, ani lůžka, v každé rodině že mají kolik hostů, v klášteřích že také plno duchovenstvem, biskupové že přijeli a co lidstva, i cizinců a panstva, co procesí už prošlo, a ta že teprve začínají, tak že nebylo ani před šesti léty o královské korunovaci.
 
-  
+</section>
+
+<section>
 
 Za staromódním kočárem slečny Polexiny vjelo Špitálskou branou toho odpoledne ještě mnoho povozů; po žádném z nich neohlížel se po ulicích tlačící se lid tak, jako po chatrném selském voze, taženém spřežením hubených koní v odřeném postroji, na němž bylo více provazů nežli řemenů. V nízkém truhlíku toho vozu, na jehož prknech bylo plno zaschlého hnoje, seděl na otépce slámy hubený, bledý kněz v obnošeném plášti, v zablácených střevících. Zpod ohmataného klobouku čouhaly mu tmavé nečesané, pocuchané vlasy. Tak vjížděl do Prahy P. Antonín Koniáš, nejnebezpečnější protivník tajných nekatolíků. Nenáviděl jich, ale také sám sebe, své tělo. Jiní kněží z hradecké koleje vydali se do Prahy na slavnost svatořečení Jana Nepomuckého v pěkném kočáře. Koniáš neužil toho pohodlí; pěšky chtěl vykonat pout ke hrobu nového světce. U Brodu ozval se však jeho starý neduh; bolest a slabost jej zmohly. Bylo tam dost příležitosti vsednout do pohodlného kočáru; než on vybral si tento povoz.
 
@@ -67,7 +71,9 @@ Tak jel až na Staroměstské náměstí. Tu slezl, neboť by byl musil dlouho �
 
 Těžko, ale se vztyčenou hlavou, potěšen kráčel do koleje klementinské, celé už vyzdobené alegorickými figurami, emblémy, obrazy ze života sv. Klimenta a sv. Jana Nepomuckého, zlacenými nápisy, anagramy, chronostichy na zdích a na desíti vysokých pyramidách, jež otočeny girlandami tyčily se kolem rozlehlé budovy. Branou ozdobenou chvojí, malbou i nápisy vstoupil do tvrze svého řádu, do jejích nádvoří plných radostného ruchu, on, její odvážný, nejobětivější bojovník.
 
-  
+</section>
+
+<section>
 
 Slečna Polexina, osvěživši se klidným spánkem, vypravila se ráno s komornou z domu hraběte Goltze. Za průvod poděkovala, že chce jen do kostela. Cestou koupila u voskáře velikou svíci. Mířila ke klášteru páterů augustiniánů na Novém Městě, do jejich kostela. Neměla tam tak daleko, ale dostala se tam dosti pozdě. Cestou zase tak jako včera, plno lidí, plno vozů dělných i krytých, malované, pozlacené karety, malované, zrcadlové kočáry s laufry pestře oděnými a hajduky; za povozy, vedle nich, mezi nimi chvátající Pražané, vystrojení, ve velkých parukách, paničky ve vyzdobených čepcích, řemeslníci, učedníci a zase procesí pestrých barev, to z Čech, to z Moravy, sedláci v bílých šerkách, v pláštích a už i v kožichách ovčích s vyšívanými květy živých barev na zádech, sedláci v kloboucích, ve vysokých čepicích, selky v plenách bohatě vyšívaných, v čepcích, v červených, zelených sukních, za hlučnou hudbou, doprovázející jejich zpěv. Jek klarinetů, hlas trumpet, pronikavé předříkávání zpěváků slyšela ještě kus, když se dostala do odlehlejší ulice.
 
@@ -76,3 +82,5 @@ Proto nemohla volně kupředu a pak ji zdržovala dekorace domů; nemohla se od
 Až ji přijalo kostelní ticho. Tam rozžehla voskovici a zarazila ji na železný svícen ve zdi nad deskou kryjící sklípek zrovna vedle sklípku Brandlinských ze Štěkře, kamž před pěti léty pochovali urozeného pána pana Jana Rudolfa Brandlinského ze Štěkře, královských soudů, dvorského, lenního a komorního, též královské komory v Království českém rady, s nímž jeho starožitný rod mužského pohlaví zhasl a na nějž tak často a vždy nadšeně vzpomínal starý Mikuláš Kroupa u stolu blíženců.
 
 Stará slečna pohnuta, ale bez slzí, klesla na kolena u kamenné desky kryjící pana Vilíma Kunáše z Machovic, jenž tu již skoro půl století odpočíval, její někdy kavalír, jenž jí „jako své pěkné bohyni s pokornou reverencí sloužil“, jenž se těšil, „až ta chvíle přijde a její bílé ruce políbí –“ Ty teď zvadlé spínaly se nad jeho hrobkou a srdce, jemuž vinšoval kontent, trnulo tichým žalem i bolestným blahem vzpomínek –
+
+</section>

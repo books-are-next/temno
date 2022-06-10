@@ -3,6 +3,8 @@ title: LVIII
 contentType: prose
 ---
 
+<section>
+
 Nad vinicemi ve svazích a v úpatí Žižkova rozléhalo se troubení. Prosté fanfáry tam hlaholily, oznamujíce, že konec díla. Zněly tam i níže na Špitálsku ve vinicích, které se tu ještě zachovaly; byloť jich tam mnoho vysekáno, když před devíti lety se zakládala nová silnice od Špitálské brány.
 
 Slunce již zapadlo. Vinaři, kteří od časného rána osečkovali réví přes tyčky přerostlé nebo okopávali vinné keře, toho roku potřetí a naposled, ubírali se domů, většinou do blízkých vesnic. Kráčeli vinicemi jednotlivě i celými řadami; místem bylo vidět nad révím jen jejich hlavy a ramena, místem se v něm na okamžik tratili, až opět prokmitly zelenem jejich slaměné klobouky, osmahlé tváře, zabělaly se košile; tu tam zahořela červená kamizola, tu tam zableskla se lopata nebo motyka na rameni, až zhaslo vše a zůstala všude, ve svazích i v úpatích, jednolitá temná zeleň „vinného lesa“ bez odstínů.
@@ -152,3 +154,5 @@ Ve dveřích viničné boudy stála vinařka a její syn. Hleděli za průvodem
 [^62]: Malé vědro. Pozn. red.
 
 [^63]: Za zločin proti platnému řádu. Pozn. red.
+
+</section>

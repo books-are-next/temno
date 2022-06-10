@@ -3,6 +3,8 @@ title: XLIII
 contentType: prose
 ---
 
+<section>
+
 Helenka zamlčela paní Lerchové, že setkala se s jejím vnukem v Jezovitské zahradě; ale také Tomášovi se o tom nezmínila, když potom druhé neděle odpoledne ji navštívil. Zato on jí pověděl, že mladý pán byl tento týden dvakrát na vinici a pokaždé že se u něho, u Tomáše, zastavil a s ním pohovořil.
 
 „I na naši babičku se optal, považ, Helenko, že od tebe o ní slyšel.“
@@ -116,3 +118,5 @@ Tomáš pohlédl na ni překvapen.
 „Večer, v noci, tak daleko, do vinic, to není možná, Tomáši.“
 
 „Taky jsem mu to řek. Ale on se jen usmál a povídá: ‚To se spraví.‘ Jak, to nepověděl. Ale můžeme mu věřit, Helenko, je to pobožný člověk, pravý bratr. Neboj se, potěšíš se, uvidíš.“
+
+</section>

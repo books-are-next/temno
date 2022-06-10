@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Na Skalku občas zabloudili potulný písničkář nebo hudec, olejkář, žebravý student nebo pocestný obchodník, někdy také krajkář. Těm se tu teď za správce Čermáka valně nedařilo, zvláště pocestným obchodníkům a krajkářům. Každý z nich musil nejprve na kancelář k němu, na ostrý výslech, kdo je, odkud a kam jde, co prodává, nemá-li s sebou zapovězených knih.
 
 Předtím se na Skalce tak břitce nebralo, co nařizoval všem vrchnostem královský patent před šesti lety vydaný a pak několikrát zostřený, aby hlídaly všechny potulné kramáře, tajně-li neroznášejí bludařských, husitských knih z ciziny podloudně sem dopravených. Teprve správce Čermák začal tvrdě vykonávat tvrdé ty příkazy, hrozící polapeným těžkými tresty. Jednal tak i z ouřední, slepé horlivosti, i z náboženského svého zanícení. Na ty pocestné neměl žádného ohledu. Ale co teď po korunovaci dotčený patent byl znovu a krutěji vyhlášen, hlídal chudé ty kramáře jako drak. Nejenže je vyslýchal a slídivě prohlížel jejich vaky, krosny a uzle, ale již také poroučel drábovi, aby zvlášť podezřelé přímo šacoval, jim kapsy, oblek prohledal, neskrývají-li nějakou zapovězenou knihu.
@@ -126,3 +128,5 @@ Seděl v kanceláři a ještě na ně myslil. Chtěl namočit brk, ale zapomn�
 A hoch se vrátil s uzlíkem, s výslužkou, hh – Snad přinesl v tom uzlíku to, co ten krajkář nesl nejprve sem, ale nemohl to tu složit, když mu dal myslivec avízo. Asi tajné spolky, snad – Ale žádné snad, nýbrž jistojistě. A regent nedbá. Copak jemu svatá katolická víra. Když se může peklu smát – Že se však nebojí královských patentů vyhrožujících přísnými tresty vrchnostem nedbalým, liknavým ve stíhání kacířů. To by pak na něj, na správce, všecko svalil. Nu, tak on mu, dá pánbůh, ukáže, s kým chodí na hony, komu z Prahy vozí prezenty a svěcené obrázky, komu tak tuze přeje. Ale až zví a slečna, kdo jest jejich myslivec, kdo její komorná, ještěrka, co se děje za těmi zavřenými okenicemi, tak říkajíc před jejich očima, u nich, pravověrné katolické vrchnosti!
 
 [^12]: Žebravý student. Pozn. red.
+
+</section>

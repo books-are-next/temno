@@ -3,6 +3,8 @@ title: LIII
 contentType: prose
 ---
 
+<section>
+
 Když sodálové dozpívali, vystoupil na Husovu kazatelnu zavalitý jezovita v bělostné rochetě a vykládal nasládlým, chvílemi tremolujícím hlasem shromážděnému bratrstvu o jeho patronce, velikomocné císařovně nebes i země, nejblahoslavenější Panně Marii, o jejím nanebevzetí a její slávě mezi kůry andělskými, o jejím svatém dvořanstvu, z něhož jmenovitě připomenul hlasem povýšeným, jakoby radostí se chvějícím, veleslavná knížata a měšťany nebeské, svaté patrony české, před bohem všech Čechů orodovníky a zástupce, svaté Cyrhu a Strachotu, svatého Václava i ostatní, zvláště však radostně Jana Nepomuckého, ač dosud nebyl vyhlášen za svatého.
 
 Helenka, klečíc s pochýlenou hlavou, s rukama sepjatýma, slyšela hlas z kazatelny se třepetající a rozletující nad shromážděním, nevěděla však nic a nedbala, o čem kněz káže. Když skončil, pozvedla prudce hlavu a rozhlédla se. Březinovy hledala, Jiříka, ke dveřím oči plaše obrátila. Nepostřehla tam Žitavce, než proto přece se neupokojila.
@@ -118,3 +120,5 @@ Také toho svátečního večera byla tichá; zardělá zář drala se okenicemi
 „Ale, ale, děťátko, vždyť mne znáte. Žitavec, Vostrý,“ připomínal se emigrant a nachýlil se k židovi do dveří. „Pojďte, ukažte se.“
 
 Vostrý vklouzl do malé, nízké síně, kdež hořel na staré bedně kahan. Za okamžik zarachotil v zámku klíč; pruh světla uskočil z ulice, dveře se zavřely. Vostrý se již nevrátil. Černé slunce ho přijalo.
+
+</section>

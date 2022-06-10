@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 Luka po šíru daleku na jih od Meziříčí a na sever k Rohenicům zatemnila se nocí. Kde za dne svítila oslnivými pablesky kovově třpytná hladina hluboké tůně, tam vyhaslo, slepo v černu rákosí a sítin. Houštiny po březích říčky i v jejím oblouku ztemněly; nad nimi jako nad shlukem stanů táborových vztyčené štandáry mladých topolů až po korunku osekaných. Skupiny stromů u řeky i stará doubrava za ní rozlehly se v masu obrovitých siluet měkkých obrysů.
 
 Do těchto zčernalých luk brali se z různých stran jako stíny mužové a ženy. Vycházeli z Meziříčí za humny ze statků i chalup, brali se jednotlivě nebo po dvou po třech. Jiní docházeli z rohenické a slavětínské strany, od Královy Lhoty, z Bohuslavic i z Pohoře. Z těchto sousedních i vzdálenějších vesnic putovali polem, chodníky, po mezích vlhkých rosou, mezi lány hustého obilí, kolem pustých ouhorů i opuštěnými ouvozy, v jejichž březích černaly se trnkové houště nebo osamělá planá hruška. Šli bez hlasu, chvílemi se tratili v oupadech, pojednou se zase vynořovali a kráčeli vyšším chodníkem, stín za stínem, až náhle mizeli v lukách, jako by utonuli v černém, mlčícím jezeru.
@@ -72,3 +74,5 @@ Helenka zahlédla Tomáše, jak se přibočil k otci a přistoupil s ním ku 
 Pak padla na kolena jako všichni na poděkování pánubohu. Zbožný tlumený zpěv opět zazněl a nesl se míhavou, jako zamženou, červenavou září chudých světel i ostrými stíny poletujícími po sloupoví drsných kmenů výš do černé klenby tichých, nehnutých korun.
 
 Helenka nezpívala; nemohla pohnutím. Ale bylo jí blaze; pokrm a nápoj těla stal se jí pokrmem a nápojem duše. Všeliká tíha z ní spadla; cítila ulehčení, rozjasnění i přilnutí ke všem tu s ní klečícím. Byla s nimi jedna duše a zbožnou, vroucnou jejich píseň zpívala v svém srdci.
+
+</section>

@@ -3,6 +3,8 @@ title: LXXV
 contentType: prose
 ---
 
+<section>
+
 Florián Mariánek si od konce září ani neoddechl; po všechen ten čas měl samé sháňky, všelijakou také pomoc i práci při okrašlování domů. Přitom, jak mu jinak nedalo, musil mít o všem vědomost, o tom, co se kde chystá, děje, o přípravách ke slavnosti, o výzdobě kostelů, paláců, o chystané iluminaci. Poslední den před samou slavností, to jest v sobotu dne 8. října toho roku 1729 pozdě odpoledne vracel se z Hradčan, kde byl obhlédnout všecku jejich dekoraci, jmenovitě velikou triumfální bránu před Švarcenberským palácem, okrasu arcibiskupského paláce, ohromný obraz namalovaný na průčelí Svatovítského kostela, na vítězné brány před ním, bohatě okrášlené alegorickými figurami, malbami a zlacenými nápisy. To, že byly latinské a německé, že ani jediný z nich český, netrklo Floriána Mariánka. Jako by se to samo sebou rozumělo, když teď německá řeč začínala mít všude přednost. On jen na ty brány hleděl a na ozdob­nou kapli ze dřeva, z plátna vybudovanou, bohatě vymalovanou, po jejíchž stěnách větve palmové a vavřínové, lilie a růže a v čele obraz sv. Jana za křišťálovým sklem v rámci plném drahého kamení; čtyři věže kolem té kaple si prohlížel, jejich alegorie, sochy a obrazy Karla VI., papeže Benedikta XIII., kanonizační bulu podávajícího, sochu sv. Václava, sochu Českého království, sochy dvanácte jeho krajů holdujících sv. Janu.
 
 I do kostela se dostal a důkladně obhlédl jeho nádhernou výzdobu, nový baldachýn nad hlavním oltářem, stříbrem a zlatem krumplovaný, rudé hedvábné a damaškové koberce a čalouny po stěnách, jejich zrcadla, spoustu stříbrných lamp mezi pilíři ověšenými koberci a girlandami. Nejdéle postál u hrobu sv. Jana a vyšel pak jako zmámený tím bohatstvím, pestrotou barev, leskem zlata, stříbra a drahého kamení. Kráčel dolů Ostruhovou ulicí, zvolna, zastavuje se, ne však únavou, nýbrž pro spoustu lidí, nahoru dolů se valící. Na Vlašském plácku, nad nímž se vypínal ještě nedostavěný kostel sv. Mikuláše, nemohl dále pro množství kočárů a vozů, přijíždějících od Kamenného mostu. Ty nejpřednější nejely, nýbrž vlekly se a ještě co krok se zastavovaly; zadnější stály nekonečnou řadou.
@@ -31,7 +33,9 @@ Pak o zítřku mluvili, o velkém procesí ze Strahova k sv. Vítu, o zítř
 
 „Kdyby člověk mohl s nimi,“ povzdechl Fileček. „Ale takhle, kdo se tam dostane, co z té slávy uvidíme.“ Mariánek neřekl nic a jen se obojetně usmíval; ale když vstali a strojili se na odchod, tentokráte mnohem později než jindy, přišeptal Filečkovi a přišeptal Samečkovi, chtějí-li tu slávu na Hradčanech vidět, aby přišli zítra po čtvrté ráno sem k Březinovým, aby tu čekali před domem, on že je zavede na Hradčany a že ten div divoucí uvidí, jistojistě, a dobře že uvidí, že jim za to ručí.
 
-  
+</section>
+
+<section>
 
 Noc na ten podzimní čas nadobyčej vlažná ztišila hlučnou Prahu. Světla všude pohasla, hospody zavřeny, ulice opuštěny, stupně však chrámové i podsíně plny poutníků noclehářů a plna jich křížová chodba minoritského kláštera u sv. Jakuba. Také před kostelem křižovníků a v sousedství u sv. Salvátora odpočívali a na Kamenném mostě plny jich chodníky z obou stran. Seděli opřeni o zábradlí, choulili se u svých uzlů, leželi nataženi, zmoženi spánkem, mužští, ženské. Pestré řady jich splývající jako dva obrovské záhony kvetoucího máku v kouzelném světle ouplňku.
 
@@ -87,7 +91,9 @@ Přešlo i toto nádherné divadlo; za ním nové, poslední, těm třem u okn
 
 Mariánek s Filečkem a Samečkem se nedal za slavným průvodem. Věděli, že by se nedostali do kostela, ani ne do nádvoří. Mariánek připomenul, teď že snáze dojdou do města; kdyby čekali, až bude po kázáních, českém před kostelem, německém v kostele, až bude po slavné mši, to že by pozdě obědovali. Blíženci chutě přisvědčili a šli.
 
-  
+</section>
+
+<section>
 
 Když slavné bohoslužby skončeny, rozlévala se zátopa lidí z Hradu dolů; proudy se hrnuly k Zámeckým schodům, k Ostruhové ulici, Hradčanským náměstím. Čtyři jezovité, dostavše se z kostela, a ne snadno, zarazili opodál Zámeckých schodů, aby chvíli počkali, než největší tíseň pomine. P. Koniáš přivedl sem pod paždí bělovlasého P. Daniela; teď ho pustil a stál vedle něho s bratřími Mateřovskými. Dívali se na hlučný nával kolem se valící, dívali se přes nízkou zeď, jak proud šumí dole Ostruhovou ulicí. P. Koniáš zahleděl se dál na Prahu vyzářenou poledním sluncem, na její báně, kostely, věže, paláce, ke Kamennému mostu, na němž strakato, nejvíce bílo a červeno, od zástupů i od korouhví nad nimi, a nejpestřeji kolem chrámce nad sochou sv. Jana, kdež prošlehovaly pablesky zlacených andělů a emblémů. P. Daniel byl zamyšlen. Prve, když vycházeli z kostela, připomenul nahlas, že všecky nápisy na té dekoraci jsou jen latinské a německé, že tu ani slova českého, to že není jak se patří.
 
@@ -107,13 +113,17 @@ P. Daniel vyjasniv pohled, přikyvoval usmívaje se a přisvědčoval:
 
 „Civitas devotissima.“
 
-  
+</section>
+
+<section>
 
 Noc po tom dni v Praze přejasná nádherným, velkolepým osvětlením. Všude samá zář od nejzazších konců, od hradeb, od Vyšehradu a výšiny Nového Města dolů k řece, na mostě, na vodě, za vodou a zase svahy vzhůru na Strahov, na Hradčanech, v Královském hradě i na chrámu sv. Víta, všude spousta světel v oknech i venku, i na věžích, barevné svítilny, lampy, průsvitné obrazy, smolné ohně a zář voskových pochodní. V té záplavě světla nekonečné proudy lidstva, hluk a šum i veselá hudba na prostranstvích.
 
 Fiala, soustružník, nevyšel se podívat. Zavřel se ve světnici za svým krámem v přízemí šerého domu v Železné ulici a četl ve staré knize, jež mu zůstala dědictvím z uklizených knih nebožtíka Jana Svobody, deklamátora zemských desk. Bylo to Severinovo vydání díla Petra z Mladenovic, Spis o utrpení mistra Jana Husa. Fiala nechtěl té slávy venku vidět, chtěl zapomenout; četl pobožně, ale pak pojednou i do jeho tichého zákoutí vrazil ohlas řinčivé hudby a mocného hluku. V ten okamžik si vzpomněl na ubohého deklamátora, co by říkal, kdyby se byl toho dožil. Nezůstal by, byl by vyšel ze země. A co zbývá. Fiala povzdechl. „Vyhráli, ti černí vyhráli,“ pomyslil, „udeřili námi o zem. Co zbývá –“
 
-  
+</section>
+
+<section>
 
 Paní Březinová si včera vzpomněla, že z jejich vinice, od lusthauzu bude překrásná podívaná na slavnou iluminaci. Pan starý přisvědčil a pobídl, aby se šli podívat, že uvidí osvětlení vcelku, a když bude ještě každého dne po celý týden, že si je mohou zase v městě prohlédnout, on sám že by také šel, ale dnes že nemůže, proto však aby se na vinici vydali. Paní stará vyzvala Jiřího, jenž i jako teolog bydlel doma, pozvala svého bratra; paní obrstvachtmistrová Richtrová, zaslechnuvši o té výpravě, pozvala se sama.
 
@@ -132,3 +142,5 @@ Srdce ho prudčeji zabolelo.
 [^77]: Mitra, vysoká biskupská čepice. Pozn. red.
 
 [^78]: Nejoddanější obec, město. Pozn. red.
+
+</section>

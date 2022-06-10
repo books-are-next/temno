@@ -3,6 +3,8 @@ title: XLVIII
 contentType: prose
 ---
 
+<section>
+
 I když doktor Globic předevčírem oznámil, že by paní Březinová mohla již na vinici, zašel její muž ke své první tchyni, paní Lerchové, poradit se. Byltě v nesnázích stran obsluhy; vyložil, že by Lyzlu s ženou poslal, ale že je Lyzly v domácnosti nezbytně třeba, že by nikoho za ni neměl, a žena že potřebuje svědomité obsluhy. Na to hned paní Lerchová, tu že je snadná pomoc, žeť má u ní svou poddanou, Helenu, toho myslivce ze Skalky, a chválila ji navýsost, jaká je ochotná, svědomitá a důvtipná, často že pomyšlení uhodne a udělá a že bývala v panské službě, u slečny Mladotovny.
 
 „A co se jejího tatíka týče, nic nevadí, děvče se zcela obrátilo, pobožná je, do kostela chodí, pan P. Daniel ji také chválí. Já sic na ni už hodně zvykla, mám ji dost ráda, ale v tomhle pádu, na nějaký týden, jen si ji vemte, budete jistě spokojeni.“
@@ -68,3 +70,5 @@ Drsné to zavolání zaznělo Helence jako hlas andělův. Škubla sebou, bezdě
 Jiříka společnost už netěšila. Nemohl se dočkat, až se rozejde, aby byl s Helenkou třeba jen na okamžik sám, aby se jí mohl optat, proč ji P. Daniel odvolal, co jí chtěl. Nejdříve se poroučel Hubátius, pak P. Daniel odešel a za ním za chvilku paní Tatýrková z Heldenburka. Jen paní obrstvachtmistrová se neměla k odchodu; vstala teprve, když už slunce zapadalo, když viděla, že pan starý ještě zůstane.
 
 [^55]: Laciná bavlněná látka na kabát, svrchní oděv. Pozn. red.
+
+</section>

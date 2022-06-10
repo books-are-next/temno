@@ -3,6 +3,8 @@ title: LXVI
 contentType: prose
 ---
 
+<section>
+
 Nazejtří dopoledne zašel Jiří k babičce přát jí šťastného nového roku. Ve velkém pokoji vyhřátém a v plném světle jasného, mrazivého dne zastal jen Helenku. Stará paní byla sice doma, ale vrátivši se právě z kostela, odstrojovala se v malém sklípku. Jiří potěšen, že alespoň okamžik může sám s Helenkou promluvit, stiskl jí ruku, přál všeho dobrého a srdečně dodal:
 
 „A taky aby se splnilo, co panímáma chce, to přeju sám sobě k Novému roku. Včera už řekla pantátovi.“
@@ -90,3 +92,5 @@ Hleděl do osvětlených oken, číhal, nemihne-li se tam Helenčin stín; a za
 Na první návštěvu po té novoroční ubíral se s tajnou obavou, že přísná babička zase začne o kněžství. Ale neřekla ani slova; Jiří však cítil, že stín z toho novoročního hovoru zůstal. A v Helenčině pohledu uviděl tajenou tíseň. Než ani na okamžik nezůstali sami, nemohl s ní důvěrně promluvit. Tušil příčinu té zasmušilé vážnosti, nikoliv však úplně.
 
 Helenka se lekla toho, že by Jiří měl být knězem, ale úzkost ji obcházela, pomyslila-li, že by snad vstoupil do toho řádu, mezi ty, kteří zničili její rodinu, že by ho ztratila navždycky a tak, že by se nesměla k němu ani slovem přihlásit. Této její úzkosti a strachu před jezovity Jiří netušil, a také ne, že v té úzkosti i výčitka ji přibodává, že ona je všeho příčinou, že ruší shodu a mír v rodině, kvůli ní že Jiří kazí otcovo a babiččino vroucné přání.
+
+</section>
