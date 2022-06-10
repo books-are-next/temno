@@ -3,6 +3,8 @@ title: XXVIII
 contentType: prose
 ---
 
+<section>
+
 Tomáš s Helenkou byli tou chvílí zase v myslivně. Ale jak se tam vrátili! Po výslechu nepustili jich z kanceláře, aby volně odešli domů. Správce jim dal průvod, dráb je vedl. U ratejny, u stodoly, pod lipami u nádržky vody stála čeládka a dívala se v bezohledné, lačné zvědavosti na myslivcovy děti jako na chycené zločince. Ten onen, ta ona na ně i pokřikli, posměškem hodili. Helenku polilo horko, zamžívalo se jí před očima; viděla lidi, ale nerozeznala nikoho. Pod zámeckými okny sklopila oči. Dívá-li se slečna, připadlo jí, vidí-li ji takto, s drábem – Tomáš rozhořčen správcovým jednáním, pln odporu i vzdoru kráčel vztyčen, ani se neohlédnuv.
 
 Pak všechno přestalo, pokřiky zmlkly, ticho kolem. Vešli do myslivny. Dráb zůstal na schůdkách u domových dveří, jež ihned zavřel, jak vkročili do síně, a odešel. Zvuk rachotícího klíče jim připomenul, co teď jsou. Helenka ulekaně vzhlédla k Tomášovi; ten skočil ke dveřím, chytil kliku, chtěje otevřít Zalomcoval jí, až zrudl, ale marně.
@@ -110,3 +112,5 @@ Tomáš té noci poprvé ulehl na lože v rozlehlé, málo čisté ratejně mez
 Ta slova i vzpomínka teď jí zavanuly jako chladivý větříček v těžkém dusnu; bylo jí, jako by ji babička pohladila, jako tenkrát, když se s nimi loučila, když ji napomínala, aby pamatovala, a když přijde pokušení a protivenství, aby si vzpomněla na nebožku mámu – Slze jí vyřinuly a tekly po tvářích. Ale nepálily.
 
 Tomáš té chvíle zatínal zuby, přemáhaje se, aby se neozval zostra. Pacholek, soused jeho, jej pokoušel; posměšně mluvil o myslivcově útěku, a uteče-li také on, Tomáš, do Lutriján, nebo půjde-li zítra podívat se do Dobrušky, že tam budou pálit knihy, také ty jejich, a vezme-li sestřičku s sebou, to že bude podívaná na ohníček, až budou přikládat to nečisté kacířstvo.
+
+</section>

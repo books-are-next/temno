@@ -3,6 +3,8 @@ title: LXV
 contentType: prose
 ---
 
+<section>
+
 Večer posledního dne toho roku 1727 bylo u Březinů po všem pro­storném domě velmi živo, zvláště dole v hospodské klenuté jizbě, kdež pod oblakem kouře z dýmek zvučely do šumu a hlučného hovoru struny Žufničkovy loutny a jeho nevalný tenor, ale také klení divokého ševce Kocourka. Florián Mariánek zkazil mu veselý večer nejnovější svou zprávou, s kterou přišel, že dnes odpoledne, před večerem pustili z vězení žida Frešla, toho rouhače, který potupil sochu sv. Jana Nepomuckého. Od jara seděl, přes tu chvíli ho vyslýchali, a jak ostře, několikrát jej mučili, ale nezmohli ho, aby se přiznal.
 
 Zapíral v kanceláři, zapíral na mučení, a tak ho dnes pustili. Bylo to jisté, Mariánek to viděl, byl při tom, když Frešla z radnice vyhnali; a vypravoval a líčil celé hospodě, jak ten Frešl utíkal. Do toho líčení zlostné výkřiky a klení Jiřího Kocourka, jenž chtěl toho Frešla zaživa upálit.
@@ -11,18 +13,24 @@ Tak dole. Nahoře v patře shon a ruch slavné večeře, kterou pan starý po 
 
 Mezi hosty byl také Hubátius. Omeškal se, přišel, když se večeře již začínala. Musil ihned usednout, a to vedle paní obrstvachtmistro­vé Zuzany Richtrové. Pan starý to tak schválně zařídil, aby „výmluvná“ paní měla vedle sebe také „výmluvného“, jenž by záplavu její řeči, hlavně o jejím nebožtíku Kristiánovi, dovedl obratně zarážet a odvádět. Tím se stalo, že Hubátius nemohl s Jiříkem, jenž seděl opodál, hned když přišel, promluvit. A později také ne. Mělť se co bránit paní obrstvachtmistrové, útoku jejích otázek; z těch ihned zatáčela hovor a Hubátius tušil najisto, teď že přijde její nebožtík Kristián, „von Pik‘ auf“, vojna atd. Než vtom náhle zarazila a pohlédla ke dveřím tak jako všichni hosté. Zpěv mužských i chlapeckých hlasů se ozval za dveřmi:
 
-  
+</section>
+
+<section>
 
 _Den přešťastný jest k nám přišel,  
 v němž má býti každý vesel,  
 kdo jen odkud má začíti,  
 třebas celý týden._
 
-  
+</section>
+
+<section>
 
 To chasa sladovnická začala koledu; již se hrnula, zpívajíc, svátečně oděná, většinou v zelených kamizolách, v holínkových botách, do velkého pokoje, kdež se u dveří do půlkola postavila. V čele podstarší s ferulí v ruce, hvozda[^68] s pytlem, za ním dva vodáci, jeden s kropidlem, druhý s miskou, na níž na řeřavém uhlí vonně dýmalo kadidlo, mládek, jenž si rozpačitě přihlazoval vlasy; sladomel vedle něho s lopatkou v ruce zapomínal zpívat, jak si zvědavě prohlížel bohatě vypravený stůl, pány v parukách a paní vystrojené. Zato plněji tři chlapci, z nichž jeden držel koště v rukou, vyrazili jasnými svými hlasy do sboru hlubokých, vysmolených:
 
-  
+</section>
+
+<section>
 
 _My odkud začít nemáme,  
 na koledu jít musíme  
@@ -37,11 +45,15 @@ na plášť si vína koupíme,
 páleným ho zpremujeme,  
 hořkým ošijeme._
 
-  
+</section>
+
+<section>
 
 Pan starý spokojeně pokyvuje hlavou, naslouchal, jiní vstávali; Hubátius opustil svou sousedku docela, a postaviv se k chase, přidal se, nemoha se udržet, k ní svým hlubokým hlasem a zpíval s ní:
 
-  
+</section>
+
+<section>
 
 _Již se od vás rozejdeme  
 a domů se povedeme  
@@ -52,7 +64,9 @@ zrnko k hromádce přimetej!
 Víš, že my rádi píváme  
 a nerozlíváme._
 
-  
+</section>
+
+<section>
 
 Jak se ozvalo „A ty, chlapečku, zametej“, což Hubátius s líčenou vážností vyrazil silněji, sáhl pan starý pod ubrousek a hodil směrem ke zpěvákům tři lesklé, tvrdé tolary. V ten okamžik roztáhl hvozda pytel, nastavil jej, tolarů však nezachytil; crnčíce dopadly na podlahu. Ale vtom už hoch s koštětem vyskočil ze skupiny zpěváků a přimetl peníze do pytle. Koleda dozněla, podstarší postoupil, poděkoval za dar, podal ruku panu starému i paní staré, přál jim a pak všem pánům hostům šťastného nového roku. Poklonil se a poklonili se všichni a odešli.
 
@@ -122,13 +136,17 @@ Když toho pozdního odpoledne na Silvestra vstoupil do předního pokojíku str
 
 „Račte odpustit, takové spletené věci. Račte mu to přehovět, je to samá fantas –“ Matěj náhle sebou škubl a naslouchal. Ale také P. Mateřovský zaslechl strýcův hlas; nezůstal však jako Matěj, nýbrž ihned vstoupil do pokoje; tam se už stmívalo soumrakem. Křeslo, v němž starý Mateřovský seděl, bylo vysokým svých lenochem obráceno ke dveřím, takže od nich „starého knížete“ nebylo vidět. Ale P. Mateřovský u nich ostal. Nachýliv hlavu na stranu, naslouchal tichému zpěvu třesoucího se, stařeckého hlasu.
 
-  
+</section>
+
+<section>
 
 _Ó svolání konstantské,  
 jež se nazýváš svaté,  
 jak jsi bez milosti —_
 
-  
+</section>
+
+<section>
 
 P. Mateřovský sebou škubl, hned jak uslyšel začátek, a náhle zrudl. Znal tu starou husitskou píseň, teď zakázanou a pronásledovanou, kterou tajní evangelíci „husité“ zpívali ve svých shromážděních na poctu M. Jana Husa. Ustrnulý okamžik naslouchal, ale pak prudce vykročil ke křeslu.
 
@@ -136,12 +154,16 @@ P. Mateřovský sebou škubl, hned jak uslyšel začátek, a náhle zrudl. Znal
 
 „Starý kníže“ v polosvitu okna, proti němuž seděl, obrátil kalné oči po hlase, ale jinak se ani nehnul. Jeho pohled tkvěl na krevnaté, zarudlé tváři synovcově netečně, a ne bázlivě jako jindy. Otázky jako by neslyšel nebo nedbal; neodpověděl. Pak odvrátil oči, zahleděl se do prázdna a začal zase tichým, chvějícím se hlasem zpívat:
 
-  
+</section>
+
+<section>
 
 _Zdali se tím zavinil,  
 že mnohým hříchy zjevil —_
 
-  
+</section>
+
+<section>
 
 „Mlčte!“ rozkřikl se P. Mateřovský a chytil starce za rameno.
 
@@ -182,3 +204,5 @@ P. Mateřovský, „pražský“, šel k strýci; vrátil se asi za hodinu, ne 
 „Skonal nezaopatřen, nesmířen,“ P. Mateřovský „hradecký“ řekl to tvrdě, „skonal v herezi. Ta měla hluboké kořeny.“
 
 [^68]: Sušič sladu. Pozn. red.
+
+</section>

@@ -3,6 +3,8 @@ title: XLIV
 contentType: prose
 ---
 
+<section>
+
 Za čtrnáct dní poté, v sobotu za listopadového, chmurného podvečera, zastavil se Tomáš Machovcův v domě U Pražáků. Odskočil sem z Koňského trhu od Březinů, kamž z vinice přišel pro potraviny. Nedal se za Helenkou nahoru do bytu, nýbrž vzkázal jí po služce, aby přišla na okamžik dolů. Přiběhla dychtivě očekávajíc novinu z domova. Tomáš neměl žádné; Helence hned pokynul, aby šli z průjezdu ven přede dveře, a tam se jí tlumeně optal, půjde-li zítra do kostela.
 
 Helenka divíc se přisvědčila.
@@ -88,3 +90,5 @@ Zatím se shromáždění rozcházelo, ale ne najednou, nýbrž po jednom po dvo
 Když vycházeli z průjezdu, Helenka se plaše rozhlížela. Než nikdo si jich nevšiml. Vinař je vyvedl k staroměstským masným krámům, odtud až blízko k Sv. Haštalu. Tam dal Helence sbohem a s ním i Tomáš. Helenka zašla ke kostelu, z něhož vycházelo několik lidí; byli poslední. Okamžik stála, váhajíc, pak zamířila domů. Vracela se nejistá, se strachem. Kdyby se tak paní stará zeptala na kázání, jak někdy činila – Nejvíce však tížilo pomyšlení na mladého pána.
 
 Paní Lerchová se tentokráte o bohoslužbě nezmínila. Jiřík přišel nazejtří. Helenka nebyla v pokoji, když vstoupil, ale potkala ho na schodech, když odcházel. Pozdravil, zastavil se, pohlédl na ni, jako by jí chtěl něco říci, ale hned zase vykročil, nepromluviv.
+
+</section>

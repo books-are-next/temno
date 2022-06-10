@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Pan Lhotský zašel po prvním uvítání do svého pokoje, upravit se, tlumok rozdělat a také aby dal otevřít bednu s objednaným zbožím a dary. Nemohl se již dočkat, až před svou neteří vše vyloží. Ta mínila zatím počkat ve svém pokoji. Nebyl prostranný, a přece zplna na něj nestačilo světlo dvou svíček na stole. Pološero v koutech i výše po stěnách, zvláště v pozadí nad dvěma okny, mezi nimiž visel krucifix. Jasněji vynikala španělská stěna kvítkovaná před koutem napravo ode dveří vedoucích do ložnice. Nad tou španělskou stěnou visely nahoře tři nevelké obrazy svatých na plátně malované; pod prostředním z nich, pod bolestnou Matkou boží, tiše hořel plamínek v rudé skleněné lampičce.
 
 Neurčitá, smíchaná vůně silně vanula pokojem. Nebyla z voňavek, nýbrž z léčivých bylin, jež báby kořenářky nosily slečně dle jejího objednání z nedalekých hor, z hlubokých lesů na Vrchmezí, Deštné i na Marušině kameni. Vzácnější z těch bylin chovala v pokoji v balíčkách uložených na římse vedle poličky s knihami poblíže širokých kamen. Velká sklenice s arnikou v páleném naloženou stála pořád na okně tak jako na síni na okně skleněná nádoba s pijavicemi.
@@ -74,3 +76,5 @@ Helenka k ní plaše vzhlédla, okamžik váhala, pak rychle povznesla sv. Jana
 Dlouhé řasy jejích očí zamžikaly, a hned, bez pobízení sáhla dychtivě po pentličkách a hned také políbila Lhotskému ruku.
 
 [^6]: Krinolína. Pozn. red.
+
+</section>

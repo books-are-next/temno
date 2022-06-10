@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 Misie, misie, všude jen o misii. Z dobrušské radnice, z vrchnostenských kancelářů rozběhly se zprávy o ní, z kazatelen ji hlásili, všude o ní mluvili, všude na opočenském panství, na skaleckém a pak, po obilním trhu dobrušském, i dále po vsích v Orlických horách. Očekávali ji jako událost a leckde také s obavami, s tajným strachem. Věděliť, že nebude jen okázalou pobožností plnou ohni­vého horlení, ale i bojem, že misionáři nepřijdou jen nadšeně kázat, ale i prohledávat a stíhat.
 
 Tak se strachovali nejvíce po vesnicích; než i v Dobrušce o tom tiše a tajeně mluvili, a budou-li misionáři knihy veřejně pálit. Jednali o tom doma v samotě koutků i za večerů na podsíních kolem náměstí, vroubeného tenkráte vesměs příbytky dřevěnými. Také to se rozneslo, že misionáři nebudou bydlet na děkanství, nýbrž že městské právo vyhledalo jim po jejich přání dvě světnice, jednu u staré Sádlové, která jim bude také vařit, tu že budou bydlit dva z těch jezovitů, a třetí u vdovy Paškálové, matky městského aktuára[^34].
@@ -17,7 +19,9 @@ Děkan Junk, zavalitý, kulatý, byl se tu podívat hned prvního dne, když dí
 
 Pro něj se děkan opodál zastavil. Ale vtom si všiml, že přes cestu proti škole vyhlédl z otevřeného okna přízemního domku bělovlasý Jiří Lemfeld, jeden z nejstarších sousedů dobrušských. Byloť mu osmdesát let. Stříbro jeho vlasů vysvítilo na slunci, jak naslouchaje hlavu vystrčil. Ze školy se rozléhal sbor tenkých dívčích i chlapeckých hlasů:
 
-  
+</section>
+
+<section>
 
 _Zapalte kacířské bludy,  
 zkazte pekelné obludy,  
@@ -26,31 +30,41 @@ i každou babskou pověru.
 Hořiž, hořiž, Jene Huse,  
 ať nehoří naše duše!_
 
-  
+</section>
+
+<section>
 
 Starý Lemfeld náhle ustoupil a prudce zavřel okno. Děkan se podivil; pomyslil si, že starocha mrzí ten hlučný zpěv, že chce mít ticho. Nepřipadlo mu, že jej snad popíchla tato písnička sama i to, že kantor cvičí mládež v ní, aby ji mohla zazpívat u ohně, kdyby misionáři tu v Dobrušce pálili pobrané knihy.
 
 Děkan jda kolem školy, zahlédl kantora Vondřejce, hrajícího před škamny na housle, a vedle něho jeho „mládence“, jenž rákoskou dával takt a zpíval s dětmi. Děkan na znamení své spokojenosti pokýval do oken; a hned vjel oheň do učitelů. Kantor přitlačil šmytec a hrál, až se v bocích rozkýval; hubený mládenec začal rázněji šermovat rákoskou a mladé, svěží hlasy spustily naplno, jako když se náhlý déšť rozšumí:
 
-  
+</section>
+
+<section>
 
 _Hořiž, Martine Luthere,  
 čert se o tvou duši dere.  
 Hořiž, ty Jene Kalvíne —  
 ať nás oheň věčný mine!_
 
-  
+</section>
+
+<section>
 
 Děkan šel dál a za ním se neslo plným sborem:
 
-  
+</section>
+
+<section>
 
 _Hořiž, Jiří Poděbradský,  
 zasloužils dvě mastné facky!  
 Hořiž, hořiž, Jene Žižka,  
 jak v smůle smažená šiška —_
 
-  
+</section>
+
+<section>
 
 Děkan těchto slov už jasně nerozeznával; ale nápěv zaléhal za ním ještě, když už do náměstí vstupoval. U tesařské stavby zastal purkmistra s konšelem Kilingrem, kteří přihlíželi, jak vztyčovali u kazatelny dubový kříž na patnáct loket vysoký.
 
@@ -85,3 +99,5 @@ Starý Lemfeld poslechl; capal šouravými, stařeckými kroky, opíraje se o D
 „Bože, svatý bože! Kdypak se smiluješ!“
 
 [^34]: Soudní zapisovatel, písař. Pozn. red.
+
+</section>

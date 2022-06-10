@@ -3,6 +3,8 @@ title: LIV
 contentType: prose
 ---
 
+<section>
+
 Toho večera bylo u stolu blíženců v hospodské klenuté místnosti u Březinů jako obyčejně, jenže nejednali jako často od jara o židu Frešlovi, který máje měsíce potupil novou státui Jana Nepomuckého, postavenou před klášterem cyriáků u sv. Kříže většího, a jenž od té doby seděl v „očistci“ na Staroměstské radnici. Zapíral, když jej chytili, zapíral, když jej hodili na žebřík a mučili, a nepřiznal se ani pak, když jej nanovo vzali na skřipec a všelijak trápili.
 
 To právě zajímalo všecku společnost u Březinů, nechá-li žid zapírání a přizná-li se. Florián Mariánek vždycky včas a hned zvěděl, kdykoliv Frešla vyslýchali právem útrpným (měl to vždy od samého krevního písaře), a hned s tím také k Březinům. Stůl blíženců a všechna společnost se pokaždé čertili, jak je ten žid zatvrzelý, že by ho měli ještě více skřípnout, a divoký Jiří Kocourek, někdy student, kněžství kandidát, pak kantor a teď švec, utrhoval se a vztekal se na rathouz, jaké okolky s tím smradem, jak dlouho se s ním budou ještě ohavět, on že by ho dal ihned pověsit, ne, pověsit ne, ale spálit, zaživa spálit, to že zaslouží, kluk rouhavá.
@@ -124,3 +126,5 @@ Prozatím však bylo Samečkovo rozhorlení zbytečno. Příštího večera při
 Až pak toho večera, kdy Helenka setkala se u Betlémské kaple s Žitavcem, Vostrým, zvěděli událost (a jim to bylo událostí), že paní Březinová přijela s Jiříkem z vinice na slavnost bratrstva Nanebevzetí Panny Marie v Betlémské kapli. Florián Mariánek, jenž s nimi mluvil, líčil večer u stolu, jak oběma na vinici znamenitě svědčilo, paní staré i panu Jiříkovi, a jak se jim tam líbí, že se tam ještě vrátí a zůstanou tam do podzima.
 
 Starý Kubíček přitom vzpomněl, pravda, že pan Jiřík má rok filozofie tou nemocí zmařený, že nebude moci vstoupit do třetího roku, do metafyziky, nýbrž že musí ještě jednou do fyziky, ale však že nemá zmeškáno, zvláště oblíbil-li sobě eklesiastické duchovenství, a to že asi zajisté, že pan starý Březina nebude mít s ním tak těžkou alteraci jako s nejstarším Vojtěchem, pan Jiřík že jistě pomýšlí na důstojnost kněžskou.
+
+</section>

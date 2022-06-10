@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Fileček a Sameček, psali se Filetschek a Sametschegk, scházeli se skoro denně v pivovaře U Březinů na Koňském trhu v Praze. Sedali večer v klenuté jizbě hostinské u stolu v koutě vpravo ode dveří, každý na svém určitém místě; Sameček na lavici u zdi, Fileček na židli vždycky proti němu. Sameček míval po pravé ruce své Mikuláše Kroupu, jenž s nadšením a obdivem hovoříval o vzácném domu Brandlinských ze Štěkře, Fileček pak po levici své Jana Kubíčka, jenž s nadšením a obdivem mluvíval o vzácném domu Hubrykovském. Občas pohovořil o české kronice, v níž on, dědeček sedmdesáti let, čilý a červený a bělovlasý, pilně čítal a pořád ještě bez brejlí; občas zmínil se také o malovaných obrázcích, kterých byl milovníkem, a někdy také, a pokaždé srdečně a něžně, o Ančičce, staré své sestře, kteráž jemu, vdovci, spravovala domácnost.
 
 Pátý však z jejich společnosti, Florián Mariánek, byl neposeda. Jednoho večera seděl vedle Filečka, druhého vedle Samečka; někdy i za jediný večer poseděl chvíli u toho a chvíli zas u onoho a ještě pak přitáhl židli k starému Kubíčkovi a vyslýchal, kdožví už pokolikáté, že on, Kubíček, sloužil ode dne mladosti až do sešlosti věku, to jest přes padesát let, Jeho Milosti panu rytíři Hubrykovi a celému vysoce vzácnému jeho rodu, kterýžto rytíř Hubryk či Hoberk z Hennersdorfu měl dům na Mikulandovic ulici ve čtvrti Zderazské.
@@ -83,29 +85,41 @@ Ten vyděšen tím, co spáchal, už mlčel; bojechtivost ho přešla. Vstával,
 
 Mariánek jako štika do vody hozená; vrtěl sebou, vstával od stolu, křičel do té bouřky a zase po Filečkovi se ohlížel, smál se jeho rozpakům a ouzkosti, až pak, když Fileček k němu ulekaně vzhlédl, jako k svému outočišti, slitoval se a začal bouři zažehnávati. Pokročil doprostřed s pintou v ruce, dál ke studentskému stolu, a zanotoval svým nevalným barytonem:
 
-  
+</section>
+
+<section>
 
 _Ach můj Březinův ječmínku,  
 trunk piva dobrého —_
 
-  
+</section>
+
+<section>
 
 Dobrou vnadu hodil, i že zazpíval, i že místo „ach můj nejsladší“ – vsadil „Březinův ječminku“. Studenti hned se chytli a zpívali dál:
 
-  
+</section>
+
+<section>
 
 _nejposlednější krůpějičku —_
 
-  
+</section>
+
+<section>
 
 A vtom už hlaholilo celou místností:
 
-  
+</section>
+
+<section>
 
 _ječmínku plný sladkosti,  
 jenž ji v hojnosti dáváš —_
 
-  
+</section>
+
+<section>
 
 Do toho pojednou struny, loutna u dveří se ozvala; Žufnička „lautenist“ tam spustil, nevelký, náramně hubený, dost pocuchaných, dlouhých vlasů, v dlouhé pruhované kamizole sahající mu až na stehna, v dlouhém kabátě zarudlé, ale již vyrudlé barvy, jenž měl velké knoflíky u rukávů široce přeložených a šel Žufničkovi hodně přes kolena, přes tenká lýtka v modrých punčochách. Nevpadl svou hrou do hlučného zpěvu sám o své vůli, nýbrž z přinucení, na rozkaz mladého Jana Rainera a mladého Losa z Losenfeldu, kteří jej na ulici potkali a sebrali. Žufnička se bránil, že jde k Árónům, že má tam hrát, že tam musí být; řekl to pln strachu a třesa se. Znal pana Losa, že je rváč, že už nejednou vzat byl do varty. S nikým se nesnesl, ani doma s matkou a sestrami, kteréž jej darmochleba živily; zato jim často ztropil veliké křiky jako onehdy i za kajících dnů, kdy v té hádce popadl svou matku a hodil ji ode dveří až k oknu.
 
@@ -136,3 +150,5 @@ Sameček opět zpátky nahoru Koňským trhem, pak do ulice nalevo, kdež zmizel
 [^14]: Dle libosti. Pozn. red.
 
 [^15]: Pivo z pšenice. Pozn. red.
+
+</section>

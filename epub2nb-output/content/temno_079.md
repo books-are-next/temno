@@ -3,6 +3,8 @@ title: LXXIII
 contentType: prose
 ---
 
+<section>
+
 Jiří nepustil z mysli to, co Hubátius mu řekl, že deklamátor Svoboda snad ví, kam Helenka odešla, kde je. Z toho pokušení, aby sám se k deklamátorovi odvážil. Váhal však, rozmýšlel se a zas uvažoval, jak by se k němu dostal, aby Hubátius o tom nezvěděl. Pak náhodě vše odevzdával; dvakráte zašel až k domu U božího oka, kdyby tu deklamátora snad potkal. Než nedočkal se ho. Když přicházel potřetí, bylo koncem srpna, pozdě odpoledne, zahlédl, že Hubátius právě vykročil z domu. Jiří se v ten okamžik rozhodl. Vešel, rychle stoupal do známých schodů, rozčilen se zastavoval, váhal, pomýšlel, jak to říci, a co pak, kdyby deklamátor jej odbyl, proč se na něj obrací, co on –
 
 Tak došel na poslední schod. Vtom vykročil deklamátor z bytu. Ustoupit nebylo již možná. Deklamátor užaslý hleděl na Jiřího, jenž mlčky pozdravil.
@@ -107,7 +109,9 @@ Deklamátor bledý vzrušením však neslyšel. Ruce na kalichu, stál sám na p
 
 Hlavní dveře již praskaly a povolovaly. Zůstane-li, zmocní se římané kalicha. Nezbývá nežli pustit se za bratřími; tudy snad přece se dostane ven nebo kalich ukryje. Třesa se vzal jej a chtěl skočit k vedlejším dveřím; ale nohy pojednou usláblé se mu zamotaly, zavrávoral, levicí zašermoval, jako by se chtěl zachytit, pak letěl několik kroků hlavou dopředu a sklesl, kalich v pravé, u samých dveří. Vtom utichl praskot hlavních dveří; veřeje vyraženy a přes ně hrnuli se do chudé modlitebny „ukrytého semena“ vítězní římané.
 
-  
+</section>
+
+<section>
 
 Když P. Daniel toho večera tiše doříkal z breviáře completorium[^75], vstal, chtěje vyhlédnout ven, kdež déšť harašil a blesky krátkými oslňujícími zážehy prorážely hustou tmu. Ale jen pokročil, pootevřel někdo jeho dveře a zavolal jimi:
 
@@ -143,7 +147,9 @@ P. Mateřovský přitom podával zprávu, jak podezření pojal, jak dal jednoho
 
 „A vás pozdrav pánbůh!“ Páter rektor podal Mateřovskému ruku.
 
-  
+</section>
+
+<section>
 
 U Vorlíčků přes dvůr, v zadním domku v patře ležel mrtvý deklamátor Svoboda u stolu na pódiu, kam ho biřicové zatáhli. Když jej po podlaze vlekli, sletěla mu paruka. Ležel bez ní, bez čepičky; prsty pravé ruky, jež křečovitě sevřela posvátné dědictví, měl od biřiců vyvráceny. Sklené, v sloup obrácené oči nezatlačeny. V modlitebně tma; zdola, ze síně, dral se nahoru vyraženými dveřmi vítr a chvílemi hlasem zaúpěl. A chvílemi zamžikaly skulinami okenic zsinalé svity blesků. Pak opět hluboké temno.
 
@@ -151,7 +157,9 @@ V hlubokém temnu žil, v hlubokém temnu odešel. Ani tucha jitřního světl
 
 Temno, temno. –
 
-  
+</section>
+
+<section>
 
 To, co se událo u Březinů v máji měsíci, vzrušilo stůl blíženců a vzbudilo jeho vřelé účastenství. Zvláště starý Kubíček, jenž vždycky tvrdil, že Jiříček jistě si oblíbil eklesiastické duchovenství, trnul a byl zmaten tím, že si ten zbožný, ušlechtilý mládenec oblíbil děvče takového rodu a tak, že zapomněl na čtvrté boží přikázání a svému pantátovi se opřel a sám že se z té nešťastné lásky až rozstonal. Nejednou pak na něj u stolu vzpomněli, jak se mu na vinici daří, až pak samý konec června jim pan Vencl, tady u Březinů písař pivovarský, oznámil, že se pan Jiří z vinice vrátil, že mu je líp, ale přece že je na něm znát, že stonal.
 
@@ -202,3 +210,5 @@ A svěsil hlavu.
 [^74]: Pisálek. Pozn. red.
 
 [^75]: Povinná večerní modlitba katol. kněží. Pozn. red.
+
+</section>

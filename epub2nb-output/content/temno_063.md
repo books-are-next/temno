@@ -3,6 +3,8 @@ title: LVII
 contentType: prose
 ---
 
+<section>
+
 Téhož dne pozdě odpoledne stál „starý kníže“, strýc obou páterů Mateřovských, vysoký, hubený stařec, bez paruky, dlouhých bílých vlasů, prostřed klenuté, vybílené jizby, jež byla v přízemí nevysokého domu v uličce proti jezovitské koleji u sv. Klimenta, a volal přísně, velitelsky, hlavu vzhůru:
 
 „Matěji! Matěji!“
@@ -118,3 +120,5 @@ Také P. Mateřovský měl naspěch.
 Asi za půl hodiny poté zaklel Filip Sameček velmi nekřesťansky, když ho v bytě došel rozkaz pana perkmistra, aby on, Sameček, ihned obešel pány asesory královského ouřadu perkmistrovského hor viničných, že je nutno bez odkladu vyjít na vinici Kantůrku, prohledat ji, aby tedy alespoň dva z pánů asesorů dali se o slunce západu vynajít u Špitálské brány.
 
 Sameček musil tam také; proto jej ten rozkaz tak pobouřil a proto, že mu jistě zmaří dnešní večerní zasedání u stolu blíženců. A ztemna klel a bručel ještě pak, když si bral z dřevěného hřebu plášť a když si pro všecko chystal také lucerničku.
+
+</section>

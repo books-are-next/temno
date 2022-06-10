@@ -3,6 +3,8 @@ title: LXVII
 contentType: prose
 ---
 
+<section>
+
 Jednou odpoledne počátkem března zašel si Jiří k Božímu oku na concertum. Hubátius rozkládaje partesy, podotkl, že budou bez auditoria.
 
 „Stůně deklamátor, nebo není doma?“
@@ -286,3 +288,5 @@ Byl bez paruky, měl však jako jindy černou vlněnou čepičku na hlavě. Neby
 „To jako by se s námi loučil,“ řekl Jiří.
 
 „Baže; myslím, že na concertum už nepřijde, že máme po auditorium.“
+
+</section>

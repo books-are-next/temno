@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 V noci přestalo pršet, ale nevyjasnilo se. Ráno bylo zase pod mrakem. Pan Lhotský vypravil se velmi časně. Jen vyjel z nádvoří dřevěnou branou na silnici, už zaklel. Žebravý mnich se mu namanul do cesty. A to neměl za dobré znamení. Ale když si pak zapálil a kouřil, zapomněl na frátera a zabýval se opět Skalkou. Počítal, kde asi pacholka s povozem dojede, vzpomněl, že Polexina se bude mrzet, poněvadž v Praze nenavštívil její sestřenici v šlechtickém „štiftu“ a tetu jeptišku v klášteře voršilek, jak jej o to požádala; ale až jí vyloží, že v tom shonu nebylo možná – Zato ji potěší novinou, že „paní hrabinka“ na Skalku teď na podzim nepřijede, letos už ne, a myslím, že do jara ne, že zůstanou v Praze. Ta „paní hrabinka“ byla synovcova žena, paní Mladotová ze Solopysk, dcera hraběte Goltze. Stará slečna ji někdy tak s ouštěpkem pojmenovala, ale jen před ním, před panem strejcem.
 
 Z Chlumce jel pan Lhotský do Hradce Králové, kdež se nestavil. Vyjížděje z města, potkal kus za Slezskou branou dva jezovity hradecké koleje. Byli na koních, oba v kloboucích a v tmavých pláštích. Vraceli se odněkud do Hradce. Za nimi jel na nevysokém klusáku jejich fámulus, student. Pan Lhotský se s jedním z obou jezovitů dobře znal, s P. Mateřovským, prohlášeným zvláště tady na Hradecku, jenž pocházel ze šlechtického rodu Mateřovských z Mateřova.
@@ -92,3 +94,5 @@ Správce Čermák odtrhnuv se od okna, pokročil a ohlédl se po myslivně. Sv�
 Psi tam zaštěkali. Obrátil se, zamířil k zámečku. V oknech regentova pokoje světlo. Na slečnina okna, dozadu nad východním svahem ostrohu, hustě porostlým, nebylo vidět. Správce zašel do vedlejších dveří v přízemí, kdež měl byt a kdež byla kancelář.
 
 Na širém, temném prostranství pusto a prázdno. Lípy u nádržky a stromy na zahradě šuměly hlučněji, neboť vítr se prudko zdvíhal; primárius mezi nimi byl ohromný topol, jehož koruna se nad branou i nad střechou myslivny začala zlobivě potřásat, klátit, zmítat, nejprudčeji nalevo, jako by chtěla dosáhnout až na nedaleký komín a smíst ho ze staré šindelové střechy.
+
+</section>

@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Rytíř Mladota ze Solopysk poslal začátkem června list, kterým svou tetu a pana Lhotského nemálo překvapil. Nepsal z Prahy, nýbrž z Karlových Var, oznamuje, že se tu na nějaký týden usadili, jak lékař jeho paní poradil, odtud že se vrátí do Prahy a pak že snad pojedou na Mašťov (mínil zámek a panství svého tchána), na Skalku že by se podívali až na podzim.
 
 Pan Lhotský se nad tou novinou nezarmoutil; nevyslovil to však a jen prohodil, když dočetl a vracel list slečně Polexině, to že už asi vůbec letos nepřijedou, a co asi paní Kateřině je, co že Karlovy Vary – Slečna hned naurčito rozpoznala, jako by stála u lože svého nemocného:
@@ -126,3 +128,5 @@ V stavení pojednou ruch. Klancová, statná selka, srdečně vítala mladé p�
 Šli přes síň; selka otevřela nenatřené nevysoké dveře celkové, trhnuvši dřevěným uchem, neboť neměly ani kliky, ani závory.
 
 „Tak tu vám je vedu,“ vesele hlásila, stojíc u prahu. Sama do světničky nevkročila, neboť spěchala přichystat příchozím oběd.
+
+</section>

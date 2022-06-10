@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Pak opět uslyšel o novém světci, v říjnu, kdy vrchnost odjela do Prahy. Hned první dny po tomto odjezdu zastavil se na Skalce žebravý mnich, který loni tu byl poprvé po fráteru Marciánovi, řečenému Nedělka; rovnou zase ke správci zamířil. Byl opět jeho hostem, a když správce začal o komisí papežem povolené, fráter nejenže o ní věděl, ale také hned posloužil novinkou, že zkoumání o mučednické smrti a zázracích začne v Praze teď v zimě a že bude snadné, když se zázraky dějí ještě teď, jako nedávno.
 
 „Kde, kde – A sv. Jan?“ dychtivě se ptal správce.
@@ -102,3 +104,5 @@ Za týden v neděli vypravila se všechna Skalka do Bílého Oujezda do kostela
 Děti myslivcovy nepřišly. To nedalo správci pokoje. Proč, proč nepřišly – To není jen tak, náhodou. Přímo zeptati se nechtěl, nemohl. Teprve když se vraceli z kostela, zvěděl od šafáře, že Tomáš myslivcův se včera večer rozstonal a Helenka že zůstala u něho. Správce zakroutil hlavou. Pomyslil, že jistě není tak zle, aby to děvče musilo zůstat doma; snad jen tatík je tak opatrný, aby mu kuřátka nezabloudila, aby děti nic nezvěděly a neprohlédly.
 
 On sám přišel, poněvadž nebylo vyhnutí; on sám to vydrží, beran – Když farář kázal o svatém mučedníku, o jeho utrpení, o jeho smrti a hrdinství, byl kdekdo v kostele pohnut a oči měl zakaleny, a i plakali, mnoho jich plakalo. A on, Machovec, stál s hlavou sehnutou, oči do země jako vždycky, to jistě aby mu do nich nebylo vidět, aby se pohledem neprozradil; stál jako kamenný sloup. Beran, jistě beran.
+
+</section>

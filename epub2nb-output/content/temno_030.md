@@ -3,6 +3,8 @@ title: XXIV
 contentType: prose
 ---
 
+<section>
+
 Na schodech k ní vynořila se nad spoustou hlav postava misionářova. P. Koniáš v černém vysokém kvadrátku na hlavě, v černém hábitě přepásaném širokým černým cingulem, stoupal vzhůru po stupních, zvolna, v ramenou přikrčen, jakoby pod nějakou tíhou.
 
 Myslivec jej chmurně pozoroval, Helenka i Tomáš vzrušeně. Bylť to první jezovitský misionář, kterého viděli, jeden z těch, o kterých slýchali jako o největších, úhlavních nepřátelích, kterých se musili bát. A ten tu vypadal děsivě. Před nimi a kolem šum, hlasy i pokřiky podivení, úžasu nad kazatelem a nad tím, co to má na sobě, co nese, řetěz, že prý řetěz – Měl, najisto se přesvědčili, když stanul nad schody na kazatelně, nesa velký krucifix v ruce.
@@ -82,3 +84,5 @@ Machovec vstoupil. Helenka vyskočila chtíc mu naproti; hned však zarazila kro
 Ve světnici, ve které se stmívalo od blížící se bouře, trapné ticho. Tomáš žasl, Helenka úzkostně pozorovala otce, bělovlasý Lemfeld starostně se dotazoval, co je, co se stalo. Machovec mu neodpověděl, ale spustiv ruce, sepjal je na prsou, prsty do prstů zatiskl a ztěžka zaúpěl:
 
 „Hřešíme, tuze hřešíme. Krista zapíráme. Bůh mne zas upomenul a skrze toho tam – skrze toho, och! Děti, děti!“
+
+</section>

@@ -3,6 +3,8 @@ title: XL
 contentType: prose
 ---
 
+<section>
+
 Po této neděli ve středu odpoledne před svátkem blahoslaveného Jana Nepomuckého zastavil se Jiřík Březina s houslemi pod paždí v domě U božího oka. Pospíchal, neboť se těšil na hudbu na lodích, které se měl poprvé účastnit. S Hubátiem si sjednal, že přijde sem a pak že se společně vydají do kostela sv. Kříže většího u cyriáků, kdež slavnost měla se začíti. V té nedočkavosti přišel o něco dříve. Hubátius nebyl ještě doma. Proto se zastavil u deklamátora Svobody. Zastal ho jak obyčejně bez paruky, v černé vlněné čepičce, s knihou v ruce. Usmívavě uvítal Jiříka, ale upřel na něj oči a na okamžik se odmlčel, když uslyšel, kam se Jiřík chystá. Pak jen řekl: „Tak, tak, musica navalis, musica aquatica.“ Když se ho Jiřík zeptal, nepůjde-li také si ji poslechnout, zakroutil hlavou a nějak s úštěpkem dodal:
 
 „Tam bude jiné auditorium.“ Zahleděl se okamžik do prázdna, pojednou však se obrátil na Jiříka:
@@ -51,7 +53,9 @@ Když vyšli ven, mínil Jiřík dost nerudně, že deklamátor nikam nepůjde, 
 
 Když Hubátius s Jiříkem odešli, zavřel deklamátor Svoboda dveře na závoru. Zvážněl, zamyslil se; chvíli stál, hledě před se do prázdna, až pak stáhl černou čepičku s hlavy a začal tlumeně zpívat:
 
-  
+</section>
+
+<section>
 
 _Ó svolání konstantské,  
 jenž se nazýváš svaté,  
@@ -59,7 +63,9 @@ jak jsi bez opatrnosti
 zhladilo bez milosti  
 člověka svatého —_
 
-  
+</section>
+
+<section>
 
 Asi tou dobou vyšla z domu U Pražáků Helenka Machovcova v průvodu Šantrůčkové, ženy jednoho ze sladovnických, poddaného paní Lerchové. Šantrůčková, ne stará, svěžího obličeje, jako vymydlená, svátečně vystrojená, ve velkém bílém čepci, byla žena velmi pobožná a velmi pověrčivá, která se bála čertů, duchů a různých zjevení a často se modlila k sv. Tafrieli.
 
@@ -149,17 +155,23 @@ U Březinů bylo toho večera zvláště živo, i v průjezdě, břízkami oz
 
 Vtom zabřinkaly struny; Žufnička spustil předehru a začal vzhledem k hovoru vážnou písní:
 
-  
+</section>
+
+<section>
 
 _Ej Bílá hora kvete –_
 
-  
+</section>
+
+<section>
 
 Kocourek sic jej okřikl, ať mlčí, že nemohou hovořit, ale studenti pobízeli, jen ať zpívá, a pak mu i pomohli.
 
 Plným hlasem spustili za průvodu Žufničkovy loutny:
 
-  
+</section>
+
+<section>
 
 _Zimní král vyhlašuje  
 viktorii být svou,  
@@ -167,3 +179,5 @@ z velkých děl vyhrožuje,
 divné v tom věci jsou.  
 Maxmilián s Marií žehnal.  
 Viktoria, viktoria v celé české zemi!_
+
+</section>

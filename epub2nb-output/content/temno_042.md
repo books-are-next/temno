@@ -3,6 +3,8 @@ title: XXXVI
 contentType: prose
 ---
 
+<section>
+
 U stolu blíženců jednali po kolik večerů o té krádeži u sv. Víta, o mladém zloději, o tom, že tvrdošíjně zapírá i na mučení, že už byl vhozen na žebřík i boky že mu pálili. Pro tuto vzrušující událost zapomněl starý Kubíček i na tatrmany a maňasy, na Pantalona ze Staré rychty i na taliánskou operu na Poříči. Pak vypravoval Florián Mariánek podivnou historii o dvou venkovských, o Helence a Tomášovi, proč je do Prahy poslali, jak je rozváděl na místa a jak ti tajní berani se mají rádi.
 
 Za týden a víc po verbuňku překvapil stůl blíženců novinou, že Marka barvíře mladší tovaryš, co se dal pod dragouny, má již po vojně i po smrti, že když jej s ostatními vedli k regimentu, cestou, a nedaleko za Prahou, před Berounem, náhle zemřel. Sameček hned píchl, o tom že Mariánek asi nic nenapsal.
@@ -78,3 +80,5 @@ Jiřík teď k babičce tak často nedocházel jako o prázdninách. Za první
 „Takhle by se zdálo, že nic, že je katolička; nic není pozorovat, kříž dělá, růženec se umí modlit, všecko. Ale těm lidem není co věřit. Pan páter,“ myslila bratrance, pátera Daniela, „povídal, že je mladá a nic zarytá, takže se dá všechno ještě spravit, kořínky bludu vytrhat, to že si vezme na starost –“
 
 [^47]: Vojenská ochrana. Pozn. red.
+
+</section>

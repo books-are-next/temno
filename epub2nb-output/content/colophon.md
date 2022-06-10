@@ -2,17 +2,28 @@
 title: Tiráž
 ---
 
+<section>  
 **Alois Jirásek    
 Temno**  
 **Historický obraz**  
-Ilustrace na obálce z volných zdrojů P. B. Bouttats  
+</section>  
+<section>  
 Redakce Jaroslava Bednářová  
+</section>  
+<section>  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
+<section>  
 V MKP 1. elektronické vydání  
-1. vydání z 12. 5. 2022.
+</section>  
+<section>  
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
+
+<section>
 
 Znění tohoto textu vychází z díla [Temno](https://search.mlp.cz/cz/titul/temno/18218/) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1985. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -25,23 +36,10 @@ Text díla (Alois Jirásek: Temno), publikovaného [Městskou knihovnou v Pra
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 
-  
+</section>
 
-  
+<section>
 
 ![image004.jpg](./resources/image004_fmt.jpeg)
 
-***
-
-_PAMÁTCE  
-V. SLÁDKA A Z. WINTRA_
-
-_„– MÁTIS IN RUKOU TRIUMPHUM“_
-
-Proteus felicitatis et miseriae Czechicae[^1]
-
-_„– NEBUDEŤ JIM JITŘNÍHO SVĚTLA“_
-
-Izaiáš 8, 20
-
-[^1]: „ – máte v rukou triumf, zvítězili jste“; ze skladby J. A. Hammerschmidta Alegorie. Proměnlivost českého štěstí a bídy z roku 1715. Skladba je psána česko-latinsky, často se v ní vyskytují hybridní výrazy jako česká slova s latinskou koncovkou. Pozn. red.
+</section>

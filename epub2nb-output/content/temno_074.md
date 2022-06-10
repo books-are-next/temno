@@ -3,6 +3,8 @@ title: LXVIII
 contentType: prose
 ---
 
+<section>
+
 Helenka nemohla tenkráte na vinici, když se jí Jiří zčistajasna otázal, zná-li deklamátora Svobodu, pochopit a vysvětlit si, proč se jí na něj ptá, a marně hádala, kdo ten muž je. Pak za těch pohnutých dnů a změn zapomněla na něj. Teď uslyšela o něm nanovo a zas se jí ptali, P. Daniel, zná-li deklamátora Svobodu. Tentokrát alespoň zvěděla, že je to nějaký úředník a bratr myslivce Svobody. Z tohoto označení vyšlo jí světlo; skoro naurčito hádala, že ten pan deklamátor je ten tajemný měšťan, který přišel za Tomášem na vinici a přinesl mu Klejchův špalíček, že to je ten, kterého loni o Božím těle, když s Tomášem uskočili Šantrůčkové, potkali v Týnské ulici a s kterým se pak setkali o tajné pobožnosti u Vorlíčků.
 
 Živě si ho pamatovala, vlídný a milý pohled jeho modrých očí, jak ji pobídl, aby mu neříkala pane, ale bratře, jak s nimi pěkně mluvil, na jejich otce se vyptával, a pak o večeři Páně jak jí kalich, ten zlatý, starý kalich, ke rtům nachýlil. A také jí daroval Klejchovu knížku. Tedy ten. Ví-li o Tomášovi, o jeho útěku – Jistěže ví, tak jako se zná s Vostrým. A ví-li o nich, o jejich útěku, ví také o ní, co učinila. Zalekla se toho pomyšlení a toho, že ten vážný muž zle o ní soudí. On a všichni, kteří se tam v té tajné modlitebně scházejí.
@@ -49,7 +51,9 @@ P. Daniel prudce sebou zavrtěl.
 
 Staré paní ani na mysl nevstoupilo, že by její vnuk, syn tak vzácné rodiny, mohl si oblíbit chudé děvče, vlastní poddanou svého otce, a nadto dceru takového zarytého kacíře.
 
-  
+</section>
+
+<section>
 
 Společnost u stolu blíženců neměla od minulého podzima žádné zvláštní příhody nebo události, která by ji zajímala a vzrušovala tak jako noční výprava Samečkova se slavnou komisí pánů asesorů královského ouřadu perkmisterského hor viničných do vinice Kantůrky. Dlouho rokovali o té výpravě a ještě pak i v zimě občas k ní v hovorech zatočili, kdykoliv Florián Mariánek přinesl zprávu o starém vinaři Novotném, jenž byl jedinou kořistí dotčené komise vedené P. Mateřovským.
 
@@ -83,7 +87,9 @@ Jiří Kocourek hned do toho a s tváří velice vážnou, tak určitě, znale
 
 U Březinů nikdy tak pozorně, bez vyrušení a rádi Kocourka neposlouchali jako této jeho prorocké chvíle.
 
-  
+</section>
+
+<section>
 
 Hubátius a Jiří hrávali teď na jaře málokdy, a vždycky sami, bez audi toria. Soused deklamátor nepřišel už od toho dne, co byla u něho komise; také jindy se u Hubátia nezastavil. Vyhýbal se i náhodným hovorům. Hubátius se mu nedivil. Vykládal si, že Svoboda se stydí za to, čím se bratr myslivec provinil, a že jej asi také tíží starost, co z toho pojde nejen bratru, ale i dětem jeho a snad i jemu samému. Bylo mu ho líto, a když Jiří za hovorů neutajil, že by měl přece pochybnosti a domnění o deklamátorovi, Hubátius je vyvracel.
 
@@ -150,3 +156,5 @@ Za soumraku, za měkkého májového soumraku, vrátil se Jiří domů. Šel nej
 A ticho. Přísná, pronikavá slova přestala. Jiří byl sám. Stál v houst­noucím šeru dosud na témže místě ustrnulý. Tedy přišlo to, čeho se tajně obával. Otcova řeč účinkovala mocně sama sebou i připomínkou na nebožku matku. Bylo to pravda, bylo to matčiným vroucím přáním, věděl to. Tenkráte myslíval, že snadno, s radostí je splní. Ale teď – A „přišlo-li nějaké pokušení“ – Zachvěl se. Ví-li něco pantáta, nebo jen hádá – Ne, neví, sám to řekl, nemůže vědět. Ale až zví –
 
 [^69]: Byl ručitelem po právní stránce zcela vyhovujícím. Pozn. red.
+
+</section>

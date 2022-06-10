@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 V roubené sedničce hnědých trámů, ve které nalevo při delší stěně stála odestlaná postel a napravo u dveří malovaná truhla, seděla u stolu vysoká, přihrbená stařena v bílém prostém čepci přiléhavém, v bělostných rukávcích, v černém živůtku s proramenicemi, v tmavozelené mezulánce, v červených punčochách, bez střevíců. Vysoký věk dal jí šediny, vyschlé paže, popelavý, vrásčitý obličej; v její tváři, v šedivých očích přísná vážnost z přešlých utrpení, z uzavřeného života, za stálého ohrožení pro tajenou víru.
 
 Jako vesnická Sibyla seděla u dubového stolu s trnoži; před ní stará bible zažloutlých stran s usmolenými rohy v tmavých, zašlých deskách. Seděla v tichu nízké sedničky v přísvitu jediného nevelkého okna plného muškátu a šedé rozmarýny. Bylo jím vidět do sadu na staré jabloně ve vysoké trávě bělostně postřiknuté krupičkou kvetoucího kozího pysku. Šeřilo se tam zeleným zamžením, jež i okenní tabulky zadýchalo.
@@ -84,3 +86,5 @@ A v ten okamžik vyhrkly stařeně zpod víček slzy – Helenka ucítila sv�
 Kazatel poklekl a poklekli všichni a říkali modlitbu na poděkování. Helenka sepjala ruce, ale nemodlila se, ač do hloubi duše své nábožně dojata. Hleděla na babičku, která bledší a jako bělejší seděla za stolem nehnutě, s očima přivřenýma. Na lících se jí leskly stopy radostných slz; a tvář všecka zjasněna výrazem pokory, tiché blaženosti a zbožného vytržení.
 
 [^33]: Miska na hostii. Pozn. red.
+
+</section>

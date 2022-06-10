@@ -3,6 +3,8 @@ title: LXX
 contentType: prose
 ---
 
+<section>
+
 Jiří nazejtří po tom večeru, kdy otec jeho se tak rozhodně vyslovil, nevykročil z domu. S otcem, s macechou uviděl se jen v poledne, a ještě nakrátko. Po jídle neposeděl jako jindá, nýbrž hned vstal a odešel, vymluviv se, že mu není dobře. Březina, když s ženou osaměl, ihned vyložil, proč Jiří tak pospíchá, proč asi mu je nevolno, a vyslovil přitom svou nevoli a nevrlost nad jednáním Jiříkovým. Čekal ženin souhlas, a horlivý. Paní Březinová však, uslyševši, že se Jiřímu nechce na kněžství, povzdechla soucitně.
 
 „Ach, chudáček!“
@@ -79,7 +81,9 @@ Hubátiovi bylo ho líto, ale také se zalekl a ohlédl, neposlouchá-li ješt�
 
 Deklamátor otočil po něm vyjevené oči, umlkl, najednou jako by se v ramenou srazil, a ten tam. Mihl se síní, prudce vrazil klíč do zámku, prudce otevřel a zmizel. Hubátius hleděl za ním zaleknut, ale také žasna. Nadál se přísného rozsudku, ale tak krutého ne. Popravit, upálit! Nedivil se pohnutí deklamátorovu; o novém svatém však takhle mluvit – Aby ještě soused sám se do něčeho nedostal!
 
-  
+</section>
+
+<section>
 
 Jiřík odešel od macechy zaražen, sám s sebou nespokojen. Jistě sobě povšimla jeho náhlé rozpačitosti, jak se začervenal. Odmlčela se, pohlédla na něj. Řekl-li jí pantáta, co bylo – Jistě že řekl, a tuší-li něco, a babička – Proto asi už podvakráte nezastal Helenky. V té nejistotě velký nepokoj.
 
@@ -223,7 +227,9 @@ To zaslechla paní Březinová již venku, za dveřmi. Už nezahlédla, jak Hele
 
 „Jseš, mlč, jseš, a kacířka. Vždyť jsi beztoho proto ostala, proto jsi neutekla, abys mohla svádět nezkušené hochy!“ Helenka zaúpěla. Ale stará paní bouřila dál: „To mám za všecko. Jdi, jdi, kliď se mi odtud!“ Stará paní ukázala holí ke dveřím. „Na oči mně nechoď!“
 
-  
+</section>
+
+<section>
 
 Když Helenka prve vyběhla ze zahrádky, zůstal tam Jiří již jen okamžik. Kvapně vstoupiv do síně, ohlédl se po schodech vedoucích nahoru do pokojů, stanul, chvilku čekal. Helenky však nezahlédl. Vzrušen vrátil se domů. Ani se nesvléknuv, přecházel svým pokojíkem. Helenku měl na očích, uvažoval, co řekla, co snad hodlá, a co on, že nesmí polevit, ne – Náhle se zastavil prostřed pokoje a s úžasem pohleděl ke dveřím. Macecha vstoupila. Na pohled seznal, že se něco stalo, že něco nese.
 
@@ -326,3 +332,5 @@ Ve velkém pokoji vztyčil se Jiří v prudkém odporu; ale když se vrátil do
 [^70]: Rozhodnutí bylo vyneseno a zveřejněno. Pozn. red.
 
 [^71]: Prvosenky. Pozn. red.
+
+</section>

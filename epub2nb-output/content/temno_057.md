@@ -3,6 +3,8 @@ title: LI
 contentType: prose
 ---
 
+<section>
+
 Jiřík po tomto večeru nevídal Helenku častěji nežli jindy, aniž mohl s ní déle pohovořiti. Ale krátké jejich rozmluvy, někdy chvatné, byly srdečnější, slovo, pohledy prohřáty kouzlem blažícího srozumění. Než tyto jako kradené okamžiky Jiříkovi už nestačily, zvláště když se mu zdálo, že Helenka je teď ouzkostlivější a opatrnější. Nejednou se o tom zamyslil, jak by bylo možná s ní sejít se; to býval jeho sen a toho snu místo vždycky pod košatým krytem starého dubu, jenž mu byl teď ještě milejší nežli předtím. A začal už i čas počítat, že nastal srpen, že již tu asi dlouho s panímámou nebudou, a pak až se vrátí do města, co Helenka, půjde-li zase k babičce –
 
 Bodlo jej, když se pantáta poprvé zmínil o stěhování. To seděli venku před lusthauzem, P. Daniel s nimi. Helenka byla ve stavení. Také paní Březinová nerada slyšela o návratu a hned žádala, aby tu směli zůstat alespoň do konce měsíce. P. Daniel pochvaloval vinici, že jim dobře posloužila, na Prahu však že by neměli zapomínat, ne tak na město, ale na boží kostel, že již dávno nebyli na službách božích. A Březina hned navrhl: „Mohli byste si do Prahy zajet, jste již na to silni, a pak se zase vrátit. A vida!“ zvolal a luskl prsty, „pozejtří máme svátek, Nanebevstoupení Panny Marie, a naše kongregací má měsíční slavnost!“
@@ -52,3 +54,5 @@ Užaslí, ulekaní stáli nad padlým a litovali ho. Jiřík mlčky přistoupil
 „Tak mne to obešlo.“
 
 [^60]: Čtyřicetidenní půst jako výraz pokání. Pozn. red.
+
+</section>

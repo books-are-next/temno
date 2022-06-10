@@ -3,6 +3,8 @@ title: XXIII
 contentType: prose
 ---
 
+<section>
+
 Regentova zpráva o misii polekala Machovce až do zmatku. A ještě nová obava jej zneklidnila, zdali regent sobě nepovšiml toho jeho leknutí. V tom došel upokojení. Pan Lhotský ani slovem, ani pohledem neprojevil nějakého podezření. Tento mrak myslivcovi záhy zaběhl. Ale misie – Regent pravda řekl, že jezovité do Oujezda nepřijedou, ale budou tak blízko – Myslivci také připadlo, co řekl Vostrý tenkrát, když s ním v noci seděl dole u židovského hřbitova, že misionárusové přepadají znenadání. A pak správce –
 
 Kvůli němu, schválně, zeptal se, když se s ním a s regentem nazejtří, v pátek ráno potkal, kdy budou misie, v kterou hodinu jezovité přijedou. Správce zamžikal očima, zlehka nafoukl tváře, když regent vykládal, co věděl z psaní P. Mateřovského a z jeho oznámení. V poledne pověděl myslivec dětem, co slyšel, a dodal zasmušile:
@@ -54,3 +56,5 @@ Machovec chránil Helenku, drže ji za rameno, a volal na Tomáše, ať se jich
 „Až ten páter vyleze, ztraťte se.“
 
 Jen to řekl, strhly se kolem i dál šum i pokřiky překvapení a úžasu. Všecko upínalo oči ke kazatelně.
+
+</section>

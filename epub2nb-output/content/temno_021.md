@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Za chvilku, to již byla paní Lerchová zase ve velkém pokoji, vstoupil P. Suk, v černé sutáně, třírohý klobouk v ruce, stařec nevelký, bělovlasý, svěží tváře. Jak vkročil, přimhouřil tmavé své oči, aby jistěji viděl. Paní Lerchová, sedíc v tmavé lenošce, srdečně jej uvítala. Byla jeho vlastní sestřenicí, ale jako knězi, jako posvěcenému, vykala mu.
 
 „Je tu Jiřík?“ ptal se usedaje.
@@ -112,3 +114,5 @@ Bílá hlava pátera Suka mihla se ve dveřích. Prve nežli i paní Lerchová 
 [^27]: Kýla. Pozn. red.
 
 [^28]: Téhož tvaru. Pozn. red.
+
+</section>

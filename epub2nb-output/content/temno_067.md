@@ -3,6 +3,8 @@ title: LXI
 contentType: prose
 ---
 
+<section>
+
 Ráno jí Lyzla oznámila, že má před polednem o jedenácté přijíti na rathouz, že jí to pan starý nařizuje, a že ji tam žena podstaršího vyprovodí. Helenka si vydechla; lekalať se, že biřic pro ni přijde nebo snad i sám krevní písař a že všechen dům bude vzhůru. Odešla však nepozorována. Na dolejším konci Koňského trhu mezi kotci a boudami přitočil se k nim znenadání Florián Mariánek jakoby náhodou. Dal se do hovoru a hned se nabídl, že dovede Helenku až na rathouz do kanceláře, že by si tam nevěděla rady, že by ji tam posílali od Pontia k Pilátu.
 
 Na rathouze vedl je všude tak jistě, jako by tu byl doma; brali se do schodů, chodbou, na jejíž stěně viselo několik zčernalých obrazů na plátně malovaných, a zase do několika schodů, pak kratší chodbou, z té několik stupňů níž, až vstoupili do vybílené předsíně. Jen práh překročili, ukázal Mariánek na vykládané dveře s velikým starým zámkem a pravil:
@@ -75,7 +77,9 @@ Tady ve velkém pokoji chvála staré paní, a v komůrce pak samá výčitka.
 
 Vyběhla z komůrky. Ve velkém pokoji bylo volněji, světleji; jasnější vzpomínky tam vyvstaly, na Jiříka, tam i ve sklípku, kam ji stará paní poslala pro vruby a kalendář, v němž měla své hospodářské a obchodní zápisy. Helenka všude myslila na Jiříka a kdy se asi vrátí z vinice. Nevěděla, že dnes; pan starý Březina se jí o tom nezmínil, když ji sem posílal.
 
-  
+</section>
+
+<section>
 
 Jiří přijel s macechou do pražského bytu toho dne odpoledne. V průjezdě namátl se mu Florián Mariánek a ten hned mu pomáhal se stěhovat; housle a knihy mu odnesl do jeho pokojíčku. Tam také udal všecky své noviny; tak se Jiří také dověděl, že Tomáše dosud nepřivedli, ani toho predikanta, že je honí a stíhají, ale že to těžká věc, když se neví, kudy se pustili anebo nejsou-li třeba dosud v Praze, to že by mohlo býti, nebo blízko u Prahy, všude že jsou přechovávači, tajní evangelíci, ale že není nejmenší stopy, a ten vinař, kterého odvedli z vinice Kantůrky do arestu, ten že mele pořád jednu, že o ničem neví, ač na něj zostra dokročili.
 
@@ -190,3 +194,5 @@ Jiří poděkoval, že až podruhé, že již je pozdě.
 Jiří se nebránil, nemohl. Byl zmaten. Toho dojmu se nezbavil ani venku, když se vracel domů. Sem, k Hubátiovi, na deklamátora vypravil se s jistým podezřením, že je deklamátor v nějakém spojení s tím Žitavákem, a teď si měl přiznat, že se mýlil, a nadto že je deklamátor Svoboda horlivý ctitel mariánský.
 
 [^64]: Sušená treska. Pozn. red.
+
+</section>

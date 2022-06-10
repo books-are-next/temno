@@ -3,6 +3,8 @@ title: L
 contentType: prose
 ---
 
+<section>
+
 Pan starý Březina odešel z vinice za soumraku. Jeho paní odebrala se po jeho odchodu do svého pokoje a unavena návštěvami záhy ulehla. Jiřík byl té chvíle ve svém bytě. Chodíval také časně spat, než toho večera neměl na spaní ani pomyšlení. Stál u okna, vyhlížel ven k verandě, neukáže-li se tam Helenka. Chtěl ještě dnes vědět, proč ji P. Daniel odvolal od stolu; bylť tím velmi znepokojen. U okna čekal už drahnou chvíli, čím dále tím neklidněji. Pak vyšel ven, nahlédl do vedlejšího příbytku. Nespatřil nikoho. Dveře kuchyně na konci chodby byly zavřeny. Domníval se, že stará kuchařka šla již spat a Helenka že je ve své světničce. Opatrně obešel stavení, podívat se na její okno. Tma v něm. Nebylo možná, usuzoval, aby již Helenka spala. Ještě více znepokojen vrátil se do svého bytu. Jen se opět u okna postavil, kmitla se kolem něho. Někam chvátala. Okamžik váhal, pak vykročil rychle ven.
 
 To již měsíc vyšel. Ztemnělá vinice zjasnila se jeho svitem. Na jejím stezníku, vyzářeném i přemřežovaném stíny rév po tyčích, nikdo. Ale pod dubem! V osvětleném místě padal na jeho mohutný kmen dlouhý stín. Helenka tam stála u lavičky. Jiříkovi zabušilo srdce. Jíti tam, být s ní – Zima jej chytila, chvěl se. Být s ní, zeptat se jí, zvědět ještě teď jistotu – Vykročil. Neviděl, jak se lekla, když ho zahlédla přicházet. Stanul před ní a nemohl hned promluvit A nemohl z ní očí spustit. Byla jako jiná v tom měsíčném světle, bledší, ale krásnější.
@@ -49,21 +51,29 @@ Helenka se smutně usmála.
 
 Stáli mlčky proti sobě vzrušeni a šťastni. Jejich stíny nehnutě spočívaly na vyzářeném kmeni starého dubu, v jehož koruně šoumal večerní vánek. Ten tu byl jediný hlas a tlukot jejich srdcí. Než jen na chvilečku. Za lusthauzem od malinového houští ozval se zpěv:
 
-  
+</section>
+
+<section>
 
 _Můj bože, vzhlédni okem své milosti —_
 
-  
+</section>
+
+<section>
 
 „Tomáš!“ lekla se Helenka a maně ustoupila. Obrátili se po hlase, jenž zpíval dál:
 
-  
+</section>
+
+<section>
 
 _— na ouzkosti mé a pošli z výsosti  
 anděla svého, který by mne chránil  
 a proti ďáblu a zlým lidem bránil —_
 
-  
+</section>
+
+<section>
 
 „Tomáše se bojíte?“ zeptal se Jiří s úsměvem, jako by nebylo možná. Byl překvapen, když Helenka náhle zasmušilá přisvědčila:
 
@@ -76,3 +86,5 @@ Podala mu ruku a on ji chytil za obě.
 „Dobrou noc!“
 
 Helenka štěstím opojená hleděla za ním, až zmizel. Pak sklesla na lavičku a zasmušile, jako odsouzená se obrátila v stranu, odkud vystoupil Tomáš.
+
+</section>

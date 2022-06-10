@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Správce Čermák stal se od této chvíle ještě ostražitějším a přís­nějším. –
 
 Nedůvěřivý, podezíravý, větřil teď ustavičně nebezpečenství. Nevěřil myslivci, nevěřil poddaným, zvláště když začalo hustěji proskakovat, co se děje v sousedství, na Opočensku, tam že se jistě konají tajné pobožnosti, že ti tajní evangelíci scházejí se za nocí na samotách i ve vsích, že se společně modlí a zpívají kacířské písničky.
@@ -160,3 +162,5 @@ Správce Čermák se nedověděl toho dne nic. Nazejtří ráno potkal slečnu j
 „Neviděl vás, zapomněl.“
 
 Správce se jen usmál. Chtělo se mu říci, to že si vybrala čistého posla. Ten a o sv. Janu Nepomuckém! Ale přemohl se.
+
+</section>

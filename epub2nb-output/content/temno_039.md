@@ -3,6 +3,8 @@ title: XXXIII
 contentType: prose
 ---
 
+<section>
+
 Toho večera meškaly děti myslivce Machovce již druhý den v Praze v rozlehlém domě hraběte Goltze na Staroměstském náměstí. Plné tři dny sem jely ze Skalky. Náhle, znenadání musily se na tu cestu vypravit. Od toho dne, co jezovité P. Koniáš a P. Firmus odjeli s pobranými knihami ze Skalky, zůstávaly mezi dvorskou čeládkou, Helenka mezi děvečkami, Tomáš mezi pacholky.
 
 Správce jim v ničem nevyhověl, neměl žádného ohledu. Až si toho pan Lhotský povšiml. Promluvil se správcem určitými slovy a sám poručil šafářovi a jeho ženě, aby myslivcovým neukládali hrubé a těžké práce. Pocítili úlevu v díle, ne však v duševní strázni. Nejistota, co se stalo s otcem, tížila stále; zpráv o něm neměli žádných. Zběhnout do Mezřiče, přeptat se u strýce, promluvit s babičkou, na to ani pomyšlení. Hlídaliť na Skalce každý jejich krok. Helenka s Tomášem se těšili, že snad z Mezřiče tajně jim vzkážou; než týden za týdnem míjel a nikdo se u nich nezastavil. Snad tu již někdo byl, ale nedostal se k nim, nepustili ho.
@@ -62,3 +64,5 @@ Tomáš lesní roh zrovna popadl. Myslil, že ho vícekrát už neuvidí; a te�
 Za chvíli pak druhý dar, Helence. Stará Kačka, kuchařka, jej přinesla, balíček od slečny, v tom že je jídlo na cestu a také lahvička s kapkami, kdyby přišla slabost, mdlo, a také že posílá hrníček masti na bolest, na rány –
 
 Nic však nemohla poslat na zkonejšení nejistoty a sklíčenosti. Tomášovi a Helence nebylo nemilé, že je vytrhli z ratejny, z té ponižující služby; ale zmátlo je, že se stalo tak náhle, že snad bude ještě hůř, a tížilo je, že nemohli dát babičce spánembohem a že jí snad už ani neuvidí a že teď tím tíže se s otcem shledají. Nejisto před nimi, nevěděli, co s nimi hodlají v Praze. Jindy by se byli na ni těšili, teď se jí lekali, zvláště Helenka.
+
+</section>

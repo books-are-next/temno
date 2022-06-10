@@ -3,6 +3,8 @@ title: XXVI
 contentType: prose
 ---
 
+<section>
+
 Za chvilku poté kráčel pan Lhotský ze Ptení nádvořím, chutě si pokuřuje z bílé holandské dýmky; mířil do zahrady. Na schůdkách k myslivně zahlédl Tomáše. Zdálo se, že něco upřeně vyhlíží. Pan Lhotský na něj zavolal, co tatík. Všiml si, že výrostek sebou škubl a jako ulekaně vyrazil, že šel do lesa. A nesběhl se schodů tak čiperně a vesele jako jindy.
 
 „A co ty, co tu děláš, na koho číháš?“
@@ -81,7 +83,9 @@ P. Firmus obrátil na něj přísně, káravě zelenavé oči, cože se ptá, co
 
 „Nemůžeme, musíme začít bez prodlení,“ odpovídal Koniáš. „Libo-li však pro myslivce poslat – My půjdeme hned se přesvědčit.“ Vstal a P. Firmus také.
 
-  
+</section>
+
+<section>
 
 Když Helenka na vyzvání Tomášovo uskočila do jizby, zvolala ulekaně, že jdou snad pro pantátu.
 
@@ -122,3 +126,5 @@ Pak hned otázky Koniášovy, mají-li jaké knihy, bibli nebo jiné, aby je uk�
 Proslídili polici, almaru ve velké světnici, všecko, každý kout, v sedničce Helenčinu truhlu, malý stůl, a všechno marně. Koniáš nařizoval písaři, drábovi, přihlížel i sám hledal. P. Firmus číhavě si hleděl přitom myslivcových dětí; z očí jich nespouštěl, každé jejich hnutí pozoroval, každé pohlédnutí. Musily s misionáři všude, i na síň, kdež pátrali v studeném ohništi, pod komínem, pod špalkem u ohniště, i do komory. Než ani tu se hledání nezdařilo.
 
 „Podíváme se na půdu,“ rozhodl Koniáš s vydrážděností vášnivého lovce, slídícího po zvěři.
+
+</section>

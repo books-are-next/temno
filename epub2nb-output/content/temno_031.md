@@ -3,6 +3,8 @@ title: XXV
 contentType: prose
 ---
 
+<section>
+
 Slečna Polexina dověděla se zpráv o misii v Dobrušce později, nežli se nadála. Bouřka, jež se pozdě odpoledne strhla, zdržela tam všechny Skalecké. A slečna nemohla se dočkati. Dvakráte poslala Kačku podívat se, jsou-li myslivcovi už doma; stará kuchařka přišla pokaždé s ohlášením, že se ještě nevrátili, a nikdo. Pan Lhotský se v duchu divil, cože neť je těchto novin tak žádostivá, nicméně ji těšil, však že se zítra sama přesvědčí, že jí nazejtří bude jistě tak dobře, aby mohla jet do Dobrušky na misii. Když pak Kačka přišla potřetí a hlásila, že správce právě přijel, dala si ho slečna zavolat, ačkoliv pan Lhotský mínil, že by mohli ještě chvilku počkat, že myslivcovi už také brzo přijdou. Než slečna čekat nechtěla.
 
 Správce přišel a nadšeně vypravoval, jak byla krásná svatá misie, co lidstva sešlo se ze všech stran, kdo přijel z Opočna ze zámku, kteří vyšší ouředníci, a kázání, och, takové že ještě co živ neslyšel, to že je kazatel, ten pan páter Koniáš, kterak do duše mluvil, a už hned jak vystoupil, že lidé zašli, když měl řetěz, těžký železný řetěz na krku, že jej tak kajícně nesl.
@@ -112,3 +114,5 @@ Vyrazil ven.
 Na dvoře zmírnil krok. U zadních vrátek, vedoucích na sad a k lesu, na okamžik stanul a ohlédl se. Naposledy viděl myslivnu pod rozložitou korunou ohromného topola.
 
 [^36]: Z něm. Schauessen, tj. slavnostní hostina dávaná na odiv. Pozn. red.
+
+</section>
