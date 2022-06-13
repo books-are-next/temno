@@ -61,18 +61,18 @@ Jako rétor a ještě loni zasedl si na Boží hod odpoledne pod betlém a v m
 
 <section>
 
-               _Byl právě měsíc na plně,  
-               — — — — — — —  
-               když jsou se dva pastýřové  
-               k muzice vypobídli.  
+            _Byl právě měsíc na plně,  
+            — — — — — — —  
+            když jsou se dva pastýřové  
+            k muzice vypobídli.  
 A jak     Mavon, tak zdávna řečený,  
-               své housle řádně spravil,  
-               Davon, tím jménem pokřtěný,  
-               svou si harfu napravil  
+            své housle řádně spravil,  
+            Davon, tím jménem pokřtěný,  
+            svou si harfu napravil  
 Jak         každý na to nejvíc myslil,  
-               byť hrál jak nejpěkněji,  
-               koleratury vymyslil,  
-               byť znělo nejliběji —_
+            byť hrál jak nejpěkněji,  
+            koleratury vymyslil,  
+            byť znělo nejliběji —_
 
 </section>
 
