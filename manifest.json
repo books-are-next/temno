@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-temno-06e86d4",
-  "revision": "06e86d4",
+  "identifier": "jirasek-temno-351e104",
+  "revision": "351e104",
   "readingOrder": [
     "promo.html",
     "temno_007.html",
@@ -92,8 +92,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:58:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157529016
+    "date": "Wed Jun 15 2022 05:58:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272704602
   },
   "documents": [
     {
@@ -1631,8 +1631,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 172,
-      "chars": 1087,
+      "words": 186,
+      "chars": 1194,
       "ideas": 23,
       "role": "colophon",
       "order": null,
@@ -1651,8 +1651,8 @@
   ],
   "totals": {
     "all": {
-      "words": 170210,
-      "chars": 1000600,
+      "words": 170224,
+      "chars": 1000707,
       "ideas": 4687
     },
     "chapters": {
