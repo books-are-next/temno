@@ -10,7 +10,8 @@
       "languageCode": "cs",
       "subtitle": "Historický obraz",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
