@@ -13,6 +13,7 @@ meta:
   subtitle: Historický obraz
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - temno_007.html
