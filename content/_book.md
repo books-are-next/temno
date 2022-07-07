@@ -92,7 +92,7 @@ readingOrder:
   - temno_080.html
   - temno_081.html
   - temno_082.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
